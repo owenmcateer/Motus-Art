@@ -1,4 +1,6 @@
-name: Motus
-description: This is a sample Jekyll Blog.
+name: Motus Art
+title: Motus Art
+description: Coded motion art projects
 author: Owen McAteer
 theme: jekyll-theme-cayman
+google_analytics: UA-1241153-26
