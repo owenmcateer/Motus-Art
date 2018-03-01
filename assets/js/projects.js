@@ -15,4 +15,6 @@ if (screenWidth > screenHeight) {
 }
 
 // eslint-disable-next-line
-console.log('Want to see more? https://owenmcateer.github.io/Motus-Art');
+console.log('Want to see more? Looking for code?');
+// eslint-disable-next-line
+console.log('https://owenmcateer.github.io/Motus-Art');

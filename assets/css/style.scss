@@ -3,9 +3,27 @@
 
 @import "{{ site.theme }}";
 
-.page-header {
-  background: #112232 url('../img/header.png') no-repeat center bottom;
+body {
+  position: relative;
 }
+.page-header {
+  position: relative;
+  z-index: 2;
+  background: transparent;
+}
+
 body, .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6, a {
   color: rgb(20, 34, 51);
+}
+header {
+  background: #112232;
+  min-height: 380px;
+}
+#canvas {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  height: 380px;
+  width: 900px;
 }
