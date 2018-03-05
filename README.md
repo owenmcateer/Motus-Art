@@ -7,6 +7,9 @@ Follow on [Instagram](https://www.instagram.com/owenmcateer/) or [Subscribe](htt
 
 ## Latest work
 
+[**Week 3: Interlaced sun**][week03] [*(code)*][week03code]  
+[![Week 03](./assets/img/preview/week_03.png)][week03]
+
 [**Week 2: Photoluminescent trail**][week02] [*(code)*][week02code]  
 [![Week 02](./assets/img/preview/week_02.png)][week02]
 
@@ -34,3 +37,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [week01code]: https://github.com/owenmcateer/Motus-Art/tree/master/src/week_01
 [week02]: ./projects/week_02.html
 [week02code]: https://github.com/owenmcateer/Motus-Art/tree/master/src/week_02
+[week03]: ./projects/week_03.html
+[week03code]: https://github.com/owenmcateer/Motus-Art/tree/master/src/week_03
