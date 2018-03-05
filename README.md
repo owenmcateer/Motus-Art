@@ -35,7 +35,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 [week01]: https://owenmcateer.github.io/Motus-Art/projects/week_01.html
 [week01code]: https://github.com/owenmcateer/Motus-Art/tree/master/src/week_01
-[week02]: ./projects/week_02.html
+[week02]: https://owenmcateer.github.io/Motus-Art/projects/week_02.html
 [week02code]: https://github.com/owenmcateer/Motus-Art/tree/master/src/week_02
-[week03]: ./projects/week_03.html
+[week03]: https://owenmcateer.github.io/Motus-Art/projects/week_03.html
 [week03code]: https://github.com/owenmcateer/Motus-Art/tree/master/src/week_03
