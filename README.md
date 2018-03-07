@@ -5,6 +5,9 @@ Follow on [Instagram](https://www.instagram.com/owenmcateer/) or [Subscribe](htt
 
 ## Latest work
 
+[**Week 4: Noir nights**][week04] [*(code)*][week04code]  
+[![Week 04](./assets/img/preview/week_04.png)][week04]
+
 [**Week 3: Interlaced sun**][week03] [*(code)*][week03code]  
 [![Week 03](./assets/img/preview/week_03.png)][week03]
 
@@ -38,3 +41,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [week02code]: https://github.com/owenmcateer/Motus-Art/tree/master/src/week_02
 [week03]: https://owenmcateer.github.io/Motus-Art/projects/week_03.html
 [week03code]: https://github.com/owenmcateer/Motus-Art/tree/master/src/week_03
+[week04]: https://owenmcateer.github.io/Motus-Art/projects/week_04.html
+[week04code]: https://github.com/owenmcateer/Motus-Art/tree/master/src/week_04
