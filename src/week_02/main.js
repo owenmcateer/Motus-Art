@@ -4,8 +4,10 @@
  *
  * Maths equation by Erik Neumann
  * https://www.myphysicslab.com/pendulum/double-pendulum-en.html
+ *
  * Inspiration
- * https://www.youtube.com/watch?v=hXOEoH5q3Hw
+ * https://www.youtube.com/watch?v=hXOEoH5q3Hw (IRL double pendulum)
+ * https://www.youtube.com/watch?v=uWzPe_S-RVE (Coding Challenge #93: Double Pendulum)
  */
 const canvas = 1080;
 
