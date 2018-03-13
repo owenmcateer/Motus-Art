@@ -5,6 +5,9 @@ Follow on [Instagram](https://www.instagram.com/owenmcateer/) or [Subscribe](htt
 
 ## Latest work
 
+[**Week 5: Noctiluca scintillans**][week05] [*(code)*][week05code]  
+[![Week 05](./assets/img/preview/week_05.png)][week05]
+
 [**Week 4: Noir nights**][week04] [*(code)*][week04code]  
 [![Week 04](./assets/img/preview/week_04.png)][week04]
 
@@ -43,3 +46,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [week03code]: https://github.com/owenmcateer/Motus-Art/tree/master/src/week_03
 [week04]: https://owenmcateer.github.io/Motus-Art/projects/week_04.html
 [week04code]: https://github.com/owenmcateer/Motus-Art/tree/master/src/week_04
+[week05]: https://owenmcateer.github.io/Motus-Art/projects/week_05.html
+[week05code]: https://github.com/owenmcateer/Motus-Art/tree/master/src/week_05
