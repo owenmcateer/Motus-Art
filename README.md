@@ -39,12 +39,12 @@ Feel free to edit, modify and learn from this [code](https://github.com/owenmcat
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 [week01]: https://owenmcateer.github.io/Motus-Art/projects/week_01.html
-[week01code]: https://github.com/owenmcateer/Motus-Art/tree/master/src/week_01
+[week01code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_01/main.js
 [week02]: https://owenmcateer.github.io/Motus-Art/projects/week_02.html
-[week02code]: https://github.com/owenmcateer/Motus-Art/tree/master/src/week_02
+[week02code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_02/main.js
 [week03]: https://owenmcateer.github.io/Motus-Art/projects/week_03.html
-[week03code]: https://github.com/owenmcateer/Motus-Art/tree/master/src/week_03
+[week03code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_03/main.js
 [week04]: https://owenmcateer.github.io/Motus-Art/projects/week_04.html
-[week04code]: https://github.com/owenmcateer/Motus-Art/tree/master/src/week_04
+[week04code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_04/main.js
 [week05]: https://owenmcateer.github.io/Motus-Art/projects/week_05.html
-[week05code]: https://github.com/owenmcateer/Motus-Art/tree/master/src/week_05
+[week05code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_05/main.js
