@@ -5,6 +5,9 @@ Follow on [Instagram](https://www.instagram.com/owenmcateer/) or [Subscribe](htt
 
 ## Latest work
 
+[**Week 6: Synthwave**][week06] [*(code)*][week06code]  
+[![Week 06](./assets/img/preview/week_06.png)][week06]
+
 [**Week 5: Noctiluca scintillans**][week05] [*(code)*][week05code]  
 [![Week 05](./assets/img/preview/week_05.png)][week05]
 
@@ -48,3 +51,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [week04code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_04/main.js
 [week05]: https://owenmcateer.github.io/Motus-Art/projects/week_05.html
 [week05code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_05/main.js
+[week06]: https://owenmcateer.github.io/Motus-Art/projects/week_06.html
+[week06code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_06/main.js
