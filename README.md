@@ -5,6 +5,9 @@ Follow on [Instagram](https://www.instagram.com/owenmcateer/) or [Subscribe](htt
 
 ## Latest work
 
+[**Week 8: Factorisation**][week08] [*(code)*][week08code]  
+[![Week 08](./assets/img/preview/week_08.png)][week08]
+
 [**Week 7: Retrowave rider**][week07] [*(code)*][week07code]  
 [![Week 07](./assets/img/preview/week_07.png)][week07]
 
@@ -58,3 +61,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [week06code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_06/main.js
 [week07]: https://owenmcateer.github.io/Motus-Art/projects/week_07.html
 [week07code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_07/main.js
+[week08]: https://owenmcateer.github.io/Motus-Art/projects/week_08.html
+[week08code]: https://github.com/owenmcateer/Motus-Art/tree/master/src/week_08
