@@ -5,6 +5,9 @@ Follow on [Instagram](https://www.instagram.com/owenmcateer/) or [Subscribe](htt
 
 ## Latest work
 
+[**Week 9: Spinning hands of time**][week09] [*(code)*][week09code]  
+[![Week 09](./assets/img/preview/week_09.png)][week09]
+
 [**Week 8: Factorisation**][week08] [*(code)*][week08code]  
 [![Week 08](./assets/img/preview/week_08.png)][week08]
 
@@ -63,3 +66,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [week07code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_07/main.js
 [week08]: https://owenmcateer.github.io/Motus-Art/projects/week_08.html
 [week08code]: https://github.com/owenmcateer/Motus-Art/tree/master/src/week_08
+[week09]: https://owenmcateer.github.io/Motus-Art/projects/week_09.html
+[week09code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_09/main.js
