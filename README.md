@@ -1,9 +1,12 @@
 # Motus Art
 
 Weekly moving art projects all created in JavaScript.  
-Follow on [Instagram](https://www.instagram.com/owenmcateer/) or [Subscribe](http://eepurl.com/dmntwP) to my [newsletter](http://eepurl.com/dmntwP) to get email when new projects are added.
+Follow on [Instagram](https://www.instagram.com/owenmcateer/) or [Subscribe](http://eepurl.com/dmntwP) to my [newsletter](http://eepurl.com/dmntwP) to get emailed when new projects are added.
 
 ## Latest work
+
+[**Week 10: Linear geometry**][week10] [*(code)*][week10code]  
+[![Week 10](./assets/img/preview/week_10.png)][week10]
 
 [**Week 9: Spinning hands of time**][week09] [*(code)*][week09code]  
 [![Week 09](./assets/img/preview/week_09.png)][week09]
@@ -31,6 +34,19 @@ Follow on [Instagram](https://www.instagram.com/owenmcateer/) or [Subscribe](htt
 
 [**Week 1: Helix^2**][week01] [*(code)*][week01code]  
 [![Week 01](./assets/img/preview/week_01.png)][week01]
+
+## Archive
+
+[![Week 01](./assets/img/preview/week_01.png)][week01]
+[![Week 02](./assets/img/preview/week_02.png)][week02]
+[![Week 03](./assets/img/preview/week_03.png)][week03]
+[![Week 04](./assets/img/preview/week_04.png)][week04]
+[![Week 05](./assets/img/preview/week_05.png)][week05]
+[![Week 06](./assets/img/preview/week_06.png)][week06]
+[![Week 07](./assets/img/preview/week_07.png)][week07]
+[![Week 08](./assets/img/preview/week_08.png)][week08]
+[![Week 09](./assets/img/preview/week_09.png)][week09]
+[![Week 10](./assets/img/preview/week_10.png)][week10]
 
 ## About Motus Art
 
@@ -68,3 +84,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [week08code]: https://github.com/owenmcateer/Motus-Art/tree/master/src/week_08
 [week09]: https://owenmcateer.github.io/Motus-Art/projects/week_09.html
 [week09code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_09/main.js
+[week10]: https://owenmcateer.github.io/Motus-Art/projects/week_10.html
+[week10code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_10/main.js
