@@ -40,11 +40,11 @@ function setup() {
   cx = width / 2;
 
   // Colours
-  colours.bg = color('#69B4E5');
-  colours.table = color('#528CB2');
-  colours.pendantStart = color('#1D323F');
-  colours.pendantEnd = color('#254760');
-  colours.pendantStroke = color('#26526d');
+  colours.bg = color('#a3c3c7');
+  colours.table = color('#8cafb5');
+  colours.pendantStart = color('#465258');
+  colours.pendantEnd = color('#4a6e78');
+  colours.pendantStroke = color(74, 110, 120, 200);
   colours.shadow = color(0, 0, 0, 20);
 
   // Create pendants
