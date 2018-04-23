@@ -2,9 +2,9 @@
  * Motus: Traveling waves
  * https://owenmcateer.github.io/Motus-Art
  *
- * 15 pendulums increasing lengths released together to create
- * traveling/standing/random waves. After 95 second the loop
- * will appear to start again. With added friction it will
+ * 15 pendulums with increasing lengths released together to create
+ * travelling/standing/random waves. After 95 seconds the loop
+ * will appear to start again. With added friction, it will
  * eventually slow to a stop.
  *
  * https://www.youtube.com/watch?v=yVkdfJ9PkRQ
