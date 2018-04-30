@@ -5,6 +5,9 @@ Follow on [Instagram](https://www.instagram.com/owenmcateer/) or [Subscribe](htt
 
 ## Latest work
 
+[**Week 12: Hyperboloid geometry**][week12] [*(code)*][week12code]  
+[![Week 12](./assets/img/preview/week_12.png)][week12]
+
 [**Week 11: Traveling Pendulums Waves**][week11] [*(code)*][week11code]  
 [![Week 11](./assets/img/preview/week_11.png)][week11]
 
@@ -13,30 +16,6 @@ Follow on [Instagram](https://www.instagram.com/owenmcateer/) or [Subscribe](htt
 
 [**Week 9: Spinning hands of time**][week09] [*(code)*][week09code]  
 [![Week 09](./assets/img/preview/week_09.png)][week09]
-
-[**Week 8: Factorisation**][week08] [*(code)*][week08code]  
-[![Week 08](./assets/img/preview/week_08.png)][week08]
-
-[**Week 7: Retrowave rider**][week07] [*(code)*][week07code]  
-[![Week 07](./assets/img/preview/week_07.png)][week07]
-
-[**Week 6: Synthwave**][week06] [*(code)*][week06code]  
-[![Week 06](./assets/img/preview/week_06.png)][week06]
-
-[**Week 5: Noctiluca scintillans**][week05] [*(code)*][week05code]  
-[![Week 05](./assets/img/preview/week_05.png)][week05]
-
-[**Week 4: Noir nights**][week04] [*(code)*][week04code]  
-[![Week 04](./assets/img/preview/week_04.png)][week04]
-
-[**Week 3: Interlaced sun**][week03] [*(code)*][week03code]  
-[![Week 03](./assets/img/preview/week_03.png)][week03]
-
-[**Week 2: Photoluminescent trail**][week02] [*(code)*][week02code]  
-[![Week 02](./assets/img/preview/week_02.png)][week02]
-
-[**Week 1: Helix^2**][week01] [*(code)*][week01code]  
-[![Week 01](./assets/img/preview/week_01.png)][week01]
 
 ## Archive
 
@@ -51,6 +30,7 @@ Follow on [Instagram](https://www.instagram.com/owenmcateer/) or [Subscribe](htt
 [![Week 09](./assets/img/preview/week_09.png)][week09]
 [![Week 10](./assets/img/preview/week_10.png)][week10]
 [![Week 11](./assets/img/preview/week_11.png)][week11]
+[![Week 12](./assets/img/preview/week_12.png)][week12]
 
 ## About Motus Art
 
@@ -92,3 +72,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [week10code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_10/main.js
 [week11]: https://owenmcateer.github.io/Motus-Art/projects/week_11.html
 [week11code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_11/main.js
+[week12]: https://owenmcateer.github.io/Motus-Art/projects/week_12.html
+[week12code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_12/main.js
