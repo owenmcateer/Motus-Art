@@ -75,7 +75,7 @@ fixedLines.push(...fixedLinesRight);
 // Preload
 function preload() {
   // X-wing HUD font by 2bndy5 (https://2bndy5.deviantart.com)
-  xWingFont = loadFont('/assets/img/week_13/XWingTargetingComputer.otf');
+  xWingFont = loadFont('../assets/img/week_13/XWingTargetingComputer.otf');
 }
 
 // Setup
