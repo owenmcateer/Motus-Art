@@ -5,6 +5,9 @@ Follow on [Instagram](https://www.instagram.com/owenmcateer/) or [Subscribe](htt
 
 ## Latest work
 
+[**May the 4th: X-Wing HUD**][week13] [*(code)*][week13code]  
+[![Week 13](./assets/img/preview/week_13.png)][week13]
+
 [**Week 12: Hyperboloid geometry**][week12] [*(code)*][week12code]  
 [![Week 12](./assets/img/preview/week_12.png)][week12]
 
@@ -31,6 +34,7 @@ Follow on [Instagram](https://www.instagram.com/owenmcateer/) or [Subscribe](htt
 [![Week 10](./assets/img/preview/week_10.png)][week10]
 [![Week 11](./assets/img/preview/week_11.png)][week11]
 [![Week 12](./assets/img/preview/week_12.png)][week12]
+[![Week 13](./assets/img/preview/week_13.png)][week13]
 
 ## About Motus Art
 
@@ -74,3 +78,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [week11code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_11/main.js
 [week12]: https://owenmcateer.github.io/Motus-Art/projects/week_12.html
 [week12code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_12/main.js
+[week13]: https://owenmcateer.github.io/Motus-Art/projects/week_13.html
+[week13code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_13/main.js
