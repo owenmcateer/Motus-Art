@@ -5,6 +5,9 @@ Follow on [Instagram](https://www.instagram.com/owenmcateer/) or [Subscribe](htt
 
 ## Latest work
 
+[**Towering circles**][week14] [*(code)*][week14code]  
+[![Week 14](./assets/img/preview/week_14.png)][week14]
+
 [**May the 4th: X-Wing HUD**][week13] [*(code)*][week13code]  
 [![Week 13](./assets/img/preview/week_13.png)][week13]
 
@@ -16,9 +19,6 @@ Follow on [Instagram](https://www.instagram.com/owenmcateer/) or [Subscribe](htt
 
 [**Week 10: Linear geometry**][week10] [*(code)*][week10code]  
 [![Week 10](./assets/img/preview/week_10.png)][week10]
-
-[**Week 9: Spinning hands of time**][week09] [*(code)*][week09code]  
-[![Week 09](./assets/img/preview/week_09.png)][week09]
 
 ## Archive
 
@@ -35,10 +35,11 @@ Follow on [Instagram](https://www.instagram.com/owenmcateer/) or [Subscribe](htt
 [![Week 11](./assets/img/preview/week_11.png)][week11]
 [![Week 12](./assets/img/preview/week_12.png)][week12]
 [![Week 13](./assets/img/preview/week_13.png)][week13]
+[![Week 14](./assets/img/preview/week_14.png)][week14]
 
 ## About Motus Art
 
-Motus is an art project of coded motion and animation. Motus Art was created by [Owen McAteer](https://owenmcateer.com/), a full stack web developer from Ireland who now lives in Madrid.
+Motus is an art project of coded motion and animation. Motus Art was created by [Owen McAteer](https://owenmcateer.com/), a full stack web developer from Ireland who lives in Madrid.
 * [Newsletter](http://eepurl.com/dmntwP)
 * [GitHub](https://github.com/owenmcateer)
 * [Instagram](https://www.instagram.com/owenmcateer/)
@@ -80,3 +81,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [week12code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_12/main.js
 [week13]: https://owenmcateer.github.io/Motus-Art/projects/week_13.html
 [week13code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_13/main.js
+[week14]: https://owenmcateer.github.io/Motus-Art/projects/week_14.html
+[week14code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_14/main.js
