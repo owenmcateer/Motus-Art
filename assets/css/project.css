@@ -8,6 +8,7 @@ html {
 body {
   background: #535353;
   text-align: center;
+  overflow: hidden;
 }
 .page--wider canvas {
   width: 100vh!important;
