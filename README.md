@@ -5,6 +5,9 @@ Follow on [Instagram](https://www.instagram.com/owenmcateer/) or [Subscribe](htt
 
 ## Latest work
 
+[**Square twist**][week15] [*(code)*][week15code]  
+[![Week 15](./assets/img/preview/week_15.png)][week15]
+
 [**Towering circles**][week14] [*(code)*][week14code]  
 [![Week 14](./assets/img/preview/week_14.png)][week14]
 
@@ -16,9 +19,6 @@ Follow on [Instagram](https://www.instagram.com/owenmcateer/) or [Subscribe](htt
 
 [**Week 11: Traveling Pendulums Waves**][week11] [*(code)*][week11code]  
 [![Week 11](./assets/img/preview/week_11.png)][week11]
-
-[**Week 10: Linear geometry**][week10] [*(code)*][week10code]  
-[![Week 10](./assets/img/preview/week_10.png)][week10]
 
 ## Archive
 
@@ -36,6 +36,7 @@ Follow on [Instagram](https://www.instagram.com/owenmcateer/) or [Subscribe](htt
 [![Week 12](./assets/img/preview/week_12.png)][week12]
 [![Week 13](./assets/img/preview/week_13.png)][week13]
 [![Week 14](./assets/img/preview/week_14.png)][week14]
+[![Week 15](./assets/img/preview/week_15.png)][week15]
 
 ## About Motus Art
 
@@ -83,3 +84,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [week13code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_13/main.js
 [week14]: https://owenmcateer.github.io/Motus-Art/projects/week_14.html
 [week14code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_14/main.js
+[week15]: https://owenmcateer.github.io/Motus-Art/projects/week_15.html
+[week15code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_15/main.js
