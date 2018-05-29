@@ -5,6 +5,9 @@ Follow on [Instagram](https://www.instagram.com/owenmcateer/) or [Subscribe](htt
 
 ## Latest work
 
+[**Offsets of π**][week16] [*(code)*][week16code]  
+[![Week 16](./assets/img/preview/week_16.png)][week16]
+
 [**Square twist**][week15] [*(code)*][week15code]  
 [![Week 15](./assets/img/preview/week_15.png)][week15]
 
@@ -37,6 +40,7 @@ Follow on [Instagram](https://www.instagram.com/owenmcateer/) or [Subscribe](htt
 [![Week 13](./assets/img/preview/week_13.png)][week13]
 [![Week 14](./assets/img/preview/week_14.png)][week14]
 [![Week 15](./assets/img/preview/week_15.png)][week15]
+[![Week 16](./assets/img/preview/week_16.png)][week16]
 
 ## About Motus Art
 
@@ -86,3 +90,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [week14code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_14/main.js
 [week15]: https://owenmcateer.github.io/Motus-Art/projects/week_15.html
 [week15code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_15/main.js
+[week16]: https://owenmcateer.github.io/Motus-Art/projects/week_16.html
+[week16code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_16/main.js
