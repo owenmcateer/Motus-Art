@@ -1,7 +1,7 @@
 # Motus Art
 
 Weekly moving art projects all created in JavaScript.  
-Follow on [Instagram](https://www.instagram.com/owenmcateer/) or [Subscribe](http://eepurl.com/dmntwP) to my [newsletter](http://eepurl.com/dmntwP) to get emailed when new projects are added.
+Follow on [Instagram](https://www.instagram.com/Motus_Art/) or [Subscribe](http://eepurl.com/dmntwP) to my [newsletter](http://eepurl.com/dmntwP) to get emailed when new projects are added.
 
 ## Latest work
 
@@ -47,7 +47,7 @@ Follow on [Instagram](https://www.instagram.com/owenmcateer/) or [Subscribe](htt
 Motus is an art project of coded motion and animation. Motus Art was created by [Owen McAteer](https://owenmcateer.com/), a full stack web developer from Ireland who lives in Madrid.
 * [Newsletter](http://eepurl.com/dmntwP)
 * [GitHub](https://github.com/owenmcateer)
-* [Instagram](https://www.instagram.com/owenmcateer/)
+* [Instagram](https://www.instagram.com/Motus_Art/)
 * [Twitter](https://twitter.com/omcateer)
 
 ### Weekly newsletter
