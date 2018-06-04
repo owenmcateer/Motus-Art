@@ -5,6 +5,9 @@ Follow on [Instagram](https://www.instagram.com/Motus_Art/) or [Subscribe](http:
 
 ## Latest work
 
+[**Sunset Strip**][week17] [*(code)*][week17code]  
+[![Week 17](./assets/img/preview/week_17.png)][week17]
+
 [**Offsets of π**][week16] [*(code)*][week16code]  
 [![Week 16](./assets/img/preview/week_16.png)][week16]
 
@@ -17,13 +20,7 @@ Follow on [Instagram](https://www.instagram.com/Motus_Art/) or [Subscribe](http:
 [**May the 4th: X-Wing HUD**][week13] [*(code)*][week13code]  
 [![Week 13](./assets/img/preview/week_13.png)][week13]
 
-[**Week 12: Hyperboloid geometry**][week12] [*(code)*][week12code]  
-[![Week 12](./assets/img/preview/week_12.png)][week12]
-
-[**Week 11: Traveling Pendulums Waves**][week11] [*(code)*][week11code]  
-[![Week 11](./assets/img/preview/week_11.png)][week11]
-
-## Archive
+## Full archive
 
 [![Week 01](./assets/img/preview/week_01.png)][week01]
 [![Week 02](./assets/img/preview/week_02.png)][week02]
@@ -41,6 +38,7 @@ Follow on [Instagram](https://www.instagram.com/Motus_Art/) or [Subscribe](http:
 [![Week 14](./assets/img/preview/week_14.png)][week14]
 [![Week 15](./assets/img/preview/week_15.png)][week15]
 [![Week 16](./assets/img/preview/week_16.png)][week16]
+[![Week 17](./assets/img/preview/week_17.png)][week17]
 
 ## About Motus Art
 
@@ -92,3 +90,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [week15code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_15/main.js
 [week16]: https://owenmcateer.github.io/Motus-Art/projects/week_16.html
 [week16code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_16/main.js
+[week17]: https://owenmcateer.github.io/Motus-Art/projects/week_17.html
+[week17code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_17/main.js
