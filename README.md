@@ -5,6 +5,9 @@ Follow on [Instagram](https://www.instagram.com/Motus_Art/) or [Subscribe](http:
 
 ## Latest work
 
+[**Digital 80's**][week19] [*(code)*][week19code]  
+[![Week 19](./assets/img/preview/week_19.png)][week19]
+
 [**Rainbow tunnel**][week18] [*(code)*][week18code]  
 [![Week 18](./assets/img/preview/week_18.png)][week18]
 
@@ -16,12 +19,6 @@ Follow on [Instagram](https://www.instagram.com/Motus_Art/) or [Subscribe](http:
 
 [**Square twist**][week15] [*(code)*][week15code]  
 [![Week 15](./assets/img/preview/week_15.png)][week15]
-
-[**Towering circles**][week14] [*(code)*][week14code]  
-[![Week 14](./assets/img/preview/week_14.png)][week14]
-
-[**May the 4th: X-Wing HUD**][week13] [*(code)*][week13code]  
-[![Week 13](./assets/img/preview/week_13.png)][week13]
 
 ## Full archive
 
@@ -43,6 +40,7 @@ Follow on [Instagram](https://www.instagram.com/Motus_Art/) or [Subscribe](http:
 [![Week 16](./assets/img/preview/week_16.png)][week16]
 [![Week 17](./assets/img/preview/week_17.png)][week17]
 [![Week 18](./assets/img/preview/week_18.png)][week18]
+[![Week 19](./assets/img/preview/week_19.png)][week19]
 
 ## About Motus Art
 
@@ -98,3 +96,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [week17code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_17/main.js
 [week18]: https://owenmcateer.github.io/Motus-Art/projects/week_18.html
 [week18code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_18/main.js
+[week19]: https://owenmcateer.github.io/Motus-Art/projects/week_19.html
+[week19code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_19/main.js
