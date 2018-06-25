@@ -5,6 +5,9 @@ Follow on [Instagram](https://www.instagram.com/Motus_Art/) or [Subscribe](http:
 
 ## Latest work
 
+[**Biennial/Perennial 🌼**][week20] [*(code)*][week20code]  
+[![Week 20](./assets/img/preview/week_20.png)][week20]
+
 [**Digital 80's**][week19] [*(code)*][week19code]  
 [![Week 19](./assets/img/preview/week_19.png)][week19]
 
@@ -41,6 +44,7 @@ Follow on [Instagram](https://www.instagram.com/Motus_Art/) or [Subscribe](http:
 [![Week 17](./assets/img/preview/week_17.png)][week17]
 [![Week 18](./assets/img/preview/week_18.png)][week18]
 [![Week 19](./assets/img/preview/week_19.png)][week19]
+[![Week 20](./assets/img/preview/week_20.png)][week20]
 
 ## About Motus Art
 
@@ -98,3 +102,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [week18code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_18/main.js
 [week19]: https://owenmcateer.github.io/Motus-Art/projects/week_19.html
 [week19code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_19/main.js
+[week20]: https://owenmcateer.github.io/Motus-Art/projects/week_20.html
+[week20code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_20/main.js
