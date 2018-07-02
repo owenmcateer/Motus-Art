@@ -5,6 +5,9 @@ Follow on [Instagram](https://www.instagram.com/Motus_Art/) or [Subscribe](http:
 
 ## Latest work
 
+[**L-System**][week21] [*(code)*][week21code]  
+[![Week 21](./assets/img/preview/week_21.png)][week21]
+
 [**Biennial/Perennial 🌼**][week20] [*(code)*][week20code]  
 [![Week 20](./assets/img/preview/week_20.png)][week20]
 
@@ -16,12 +19,6 @@ Follow on [Instagram](https://www.instagram.com/Motus_Art/) or [Subscribe](http:
 
 [**Sunset Strip**][week17] [*(code)*][week17code]  
 [![Week 17](./assets/img/preview/week_17.png)][week17]
-
-[**Offsets of π**][week16] [*(code)*][week16code]  
-[![Week 16](./assets/img/preview/week_16.png)][week16]
-
-[**Square twist**][week15] [*(code)*][week15code]  
-[![Week 15](./assets/img/preview/week_15.png)][week15]
 
 ## Full archive
 
@@ -45,6 +42,7 @@ Follow on [Instagram](https://www.instagram.com/Motus_Art/) or [Subscribe](http:
 [![Week 18](./assets/img/preview/week_18.png)][week18]
 [![Week 19](./assets/img/preview/week_19.png)][week19]
 [![Week 20](./assets/img/preview/week_20.png)][week20]
+[![Week 21](./assets/img/preview/week_21.png)][week21]
 
 ## About Motus Art
 
@@ -104,3 +102,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [week19code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_19/main.js
 [week20]: https://owenmcateer.github.io/Motus-Art/projects/week_20.html
 [week20code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_20/main.js
+[week21]: https://owenmcateer.github.io/Motus-Art/projects/week_21.html
+[week21code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_21/main.js
