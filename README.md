@@ -5,6 +5,9 @@ Follow on [Instagram](https://www.instagram.com/Motus_Art/) or [Subscribe](http:
 
 ## Latest work
 
+[**Apex depth**][week22] [*(code)*][week22code]  
+[![Week 22](./assets/img/preview/week_22.png)][week22]
+
 [**L-System**][week21] [*(code)*][week21code]  
 [![Week 21](./assets/img/preview/week_21.png)][week21]
 
@@ -16,9 +19,6 @@ Follow on [Instagram](https://www.instagram.com/Motus_Art/) or [Subscribe](http:
 
 [**Rainbow tunnel**][week18] [*(code)*][week18code]  
 [![Week 18](./assets/img/preview/week_18.png)][week18]
-
-[**Sunset Strip**][week17] [*(code)*][week17code]  
-[![Week 17](./assets/img/preview/week_17.png)][week17]
 
 ## Full archive
 
@@ -43,6 +43,7 @@ Follow on [Instagram](https://www.instagram.com/Motus_Art/) or [Subscribe](http:
 [![Week 19](./assets/img/preview/week_19.png)][week19]
 [![Week 20](./assets/img/preview/week_20.png)][week20]
 [![Week 21](./assets/img/preview/week_21.png)][week21]
+[![Week 22](./assets/img/preview/week_22.png)][week22]
 
 ## About Motus Art
 
@@ -104,3 +105,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [week20code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_20/main.js
 [week21]: https://owenmcateer.github.io/Motus-Art/projects/week_21.html
 [week21code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_21/main.js
+[week22]: https://owenmcateer.github.io/Motus-Art/projects/week_22.html
+[week22code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_22/main.js
