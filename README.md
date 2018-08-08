@@ -5,6 +5,10 @@ Follow on [Instagram](https://www.instagram.com/Motus_Art/) or [Subscribe](http:
 
 ## Latest work
 
+[**Back Soon**][week23] [*(code)*][week23code]  
+I'm taking a short break over the summer. Motus Art will be back soon.  
+[![Week 23](./assets/img/preview/week_23.png)][week23]
+
 [**Apex depth**][week22] [*(code)*][week22code]  
 [![Week 22](./assets/img/preview/week_22.png)][week22]
 
@@ -44,6 +48,7 @@ Follow on [Instagram](https://www.instagram.com/Motus_Art/) or [Subscribe](http:
 [![Week 20](./assets/img/preview/week_20.png)][week20]
 [![Week 21](./assets/img/preview/week_21.png)][week21]
 [![Week 22](./assets/img/preview/week_22.png)][week22]
+[![Week 23](./assets/img/preview/week_23.png)][week23]
 
 ## About Motus Art
 
@@ -107,3 +112,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [week21code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_21/main.js
 [week22]: https://owenmcateer.github.io/Motus-Art/projects/week_22.html
 [week22code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_22/main.js
+[week23]: https://owenmcateer.github.io/Motus-Art/projects/week_23.html
+[week23code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_23/main.js
