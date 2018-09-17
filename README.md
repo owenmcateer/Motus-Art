@@ -5,6 +5,9 @@ Follow on [Instagram](https://www.instagram.com/Motus_Art/) or [Subscribe](http:
 
 ## Latest work
 
+[**Electric Arc**][week25] [*(code)*][week25code]  
+[![Week 25](./assets/img/preview/week_25.png)][week25]
+
 [**Penrose cycle**][week24] [*(code)*][week24code]  
 [![Week 24](./assets/img/preview/week_24.png)][week24]
 
@@ -17,9 +20,6 @@ I'm taking a short break over the summer. Motus Art will be back soon.
 
 [**L-System**][week21] [*(code)*][week21code]  
 [![Week 21](./assets/img/preview/week_21.png)][week21]
-
-[**Biennial/Perennial 🌼**][week20] [*(code)*][week20code]  
-[![Week 20](./assets/img/preview/week_20.png)][week20]
 
 ## Full archive
 
@@ -47,6 +47,7 @@ I'm taking a short break over the summer. Motus Art will be back soon.
 [![Week 22](./assets/img/preview/week_22.png)][week22]
 [![Week 23](./assets/img/preview/week_23.png)][week23]
 [![Week 24](./assets/img/preview/week_24.png)][week24]
+[![Week 25](./assets/img/preview/week_25.png)][week25]
 
 ## About Motus Art
 
@@ -114,3 +115,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [week23code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_23/main.js
 [week24]: https://owenmcateer.github.io/Motus-Art/projects/week_24.html
 [week24code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_24/main.js
+[week25]: https://owenmcateer.github.io/Motus-Art/projects/week_25.html
+[week25code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_25/main.js
