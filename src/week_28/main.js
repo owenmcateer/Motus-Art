@@ -17,7 +17,7 @@ let palmTree;
 let bgGlow;
 
 // Preload
-function prosbeload() {
+function preload() {
   palmTree = loadImage('../assets/img/week_28/palm-tree.svg');
 }
 
