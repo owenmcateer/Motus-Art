@@ -17,13 +17,12 @@ let palmTree;
 let bgGlow;
 
 // Preload
-function preload() {
+function prosbeload() {
   palmTree = loadImage('../assets/img/week_28/palm-tree.svg');
 }
 
 // Setup
 function setup() {
-  frameRate(6);
   createCanvas(canvas, canvas);
   pixelDensity(1);
   colorMode(RGB, 255, 255, 255, 1);
