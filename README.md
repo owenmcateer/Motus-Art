@@ -5,6 +5,9 @@ Follow on [Instagram](https://www.instagram.com/Motus_Art/) or [Subscribe](http:
 
 ## Latest work
 
+[**HUE Heart**][week29] [*(code)*][week29code]  
+[![Week 29](./assets/img/preview/week_29.png)][week29]
+
 [**Vaporsun**][week28] [*(code)*][week28code]  
 [![Week 28](./assets/img/preview/week_28.png)][week28]
 
@@ -16,9 +19,6 @@ Follow on [Instagram](https://www.instagram.com/Motus_Art/) or [Subscribe](http:
 
 [**Electric Arc**][week25] [*(code)*][week25code]  
 [![Week 25](./assets/img/preview/week_25.png)][week25]
-
-[**Penrose cycle**][week24] [*(code)*][week24code]  
-[![Week 24](./assets/img/preview/week_24.png)][week24]
 
 ## Full archive
 
@@ -50,6 +50,7 @@ Follow on [Instagram](https://www.instagram.com/Motus_Art/) or [Subscribe](http:
 [![Week 26](./assets/img/preview/week_26.png)][week26]
 [![Week 27](./assets/img/preview/week_27.png)][week27]
 [![Week 28](./assets/img/preview/week_28.png)][week28]
+[![Week 29](./assets/img/preview/week_29.png)][week29]
 
 ## About Motus Art
 
@@ -125,3 +126,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [week27code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_27/main.js
 [week28]: https://owenmcateer.github.io/Motus-Art/projects/week_28.html
 [week28code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_28/main.js
+[week29]: https://owenmcateer.github.io/Motus-Art/projects/week_29.html
+[week29code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_29/main.js
