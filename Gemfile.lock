@@ -21,7 +21,7 @@ GEM
     execjs (2.7.0)
     faraday (0.14.0)
       multipart-post (>= 1.2, < 3)
-    ffi (1.9.18)
+    ffi (1.9.25)
     forwardable-extended (2.6.0)
     gemoji (3.0.0)
     github-pages (177)
@@ -210,7 +210,7 @@ GEM
     rouge (2.2.1)
     ruby-enum (0.7.2)
       i18n
-    rubyzip (1.2.1)
+    rubyzip (1.2.2)
     safe_yaml (1.0.4)
     sass (3.5.5)
       sass-listen (~> 4.0.0)
@@ -236,4 +236,4 @@ DEPENDENCIES
   github-pages
 
 BUNDLED WITH
-   1.13.7
+   1.16.4
