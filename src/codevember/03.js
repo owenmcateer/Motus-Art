@@ -1,5 +1,5 @@
 /**
- * Motus: Shifting forces
+ * Motus: #codevember 03 Carrot
  * https://owenmcateer.github.io/Motus-Art
  */
 const canvas = 1080;
