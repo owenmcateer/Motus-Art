@@ -6,7 +6,7 @@ Follow on [Instagram](https://www.instagram.com/Motus_Art/) or [Subscribe](http:
 ## Latest work
 
 [**codevember**][codevember]  
-30 days of code. Click to see all.  
+30 days of code. Click here to see them all.  
 [![codevember](./assets/img/preview/codevember/01.png)][codevember]
 
 [**HUE Heart**][week29] [*(code)*][week29code]  
