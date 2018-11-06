@@ -5,6 +5,9 @@ Codevember is a challenge for developers to sharpen their creativity and improve
 ## Motus Art
 Follow on [Instagram](https://www.instagram.com/Motus_Art/) or [Subscribe](http://eepurl.com/dmntwP) to my [newsletter](http://eepurl.com/dmntwP) to get emailed when new projects are added.
 
+[**#Day 06 - Web**][day06] [*(code)*][day06code]  
+[![Day 06](../../assets/img/preview/codevember/06.png)][day06]
+
 [**#Day 05 - Music Wave**][day05] [*(code)*][day05code]  
 [![Day 05](../../assets/img/preview/codevember/05.png)][day05]
 
