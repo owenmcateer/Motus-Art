@@ -6,7 +6,7 @@ Codevember is a challenge for developers to sharpen their creativity and improve
 Follow on [Instagram](https://www.instagram.com/Motus_Art/) or [Subscribe](http://eepurl.com/dmntwP) to my [newsletter](http://eepurl.com/dmntwP) to get emailed when new projects are added.
 
 
-[**#Day 07 - Sea Swell**][day07] [*(code)*][day07code]
+[**#Day 07 - Sea Swell**][day07] [*(code)*][day07code]  
 [![Day 07](../../assets/img/preview/week_05.png)][day07]
 
 [**#Day 06 - Web**][day06] [*(code)*][day06code]  
