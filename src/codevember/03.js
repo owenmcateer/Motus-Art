@@ -25,7 +25,7 @@ let phoneRotate;
 // Pre-load assets
 function preload() {
   // Carrot image SVG
-  carrotSvg = loadImage('../../assets/img/carrot.png'); // http://www.freepik.com
+  carrotSvg = loadImage('../../assets/img/codevember/carrot.png'); // http://www.freepik.com
   phoneRotate = loadImage('../../assets/img/icons/phone-rotate.png');
   phoneIcon = loadImage('../../assets/img/icons/phone.png');
 }
