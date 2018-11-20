@@ -6,6 +6,9 @@ Codevember is a challenge for developers to sharpen their creativity and improve
 Follow on [Instagram](https://www.instagram.com/Motus_Art/) or [Subscribe](http://eepurl.com/dmntwP) to my [newsletter](http://eepurl.com/dmntwP) to get emailed when new projects are added.
 
 
+[**#Day 11 - RGB LCD**][day11] [*(code)*][day11code]  
+[![Day 11](../../assets/img/preview/codevember/11.png)][day11]
+
 [**#Day 08 - Kit-Cat Klock**][day08] [*(code)*][day08code]  
 [![Day 08](../../assets/img/preview/codevember/08.png)][day08]
 
