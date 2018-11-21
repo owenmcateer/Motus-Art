@@ -22,7 +22,7 @@ let deviceAlpha = false;
 
 // Pre-load assets
 function preload() {
-  appleImg = loadImage('/apple.37968952.png'); // http://www.freepik.com
+  appleImg = loadImage('../assets/img/codevember/apple.png');
 }
 
 // Draw tick
