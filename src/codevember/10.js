@@ -22,7 +22,7 @@ let deviceAlpha = false;
 
 // Pre-load assets
 function preload() {
-  appleImg = loadImage('../assets/img/codevember/apple.png');
+  appleImg = loadImage('../../assets/img/codevember/apple.png');
 }
 
 // Draw tick
