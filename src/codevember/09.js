@@ -1,18 +1,15 @@
-
- /**
+/**
  * Motus: Green Matrix rain
  * #codevember day 9
  * https://owenmcateer.github.io/Motus-Art
  */
 const canvas = 32;
 const colours = [];
-const cx = Math.round(canvas / 2);
 
 const lines = [];
 
 function setup() {
   createCanvas(canvas, canvas);
-  pixelDensity(1);
   colorMode(RGB, 255, 255, 255, 1);
   frameRate(30);
 
@@ -24,7 +21,7 @@ function setup() {
 
   // Create rain
   for (let i = 0; i < canvas; i++) {
-    lines.push(new line(i, round(random(canvas * -1, 0))));
+    lines.push(new Line(i, round(random(canvas * -1, 0))));
   }
 }
 
@@ -40,7 +37,7 @@ function draw() {
 /**
  * Line class
  */
-class line {
+class Line {
   constructor(x, y) {
     this.x = x;
     this.reset(y);
@@ -56,7 +53,8 @@ class line {
         this.x,
         (this.count * -1) + i + this.y,
         i / (this.count - 1),
-        this.speed));
+        this.speed)
+      );
     }
   }
 
