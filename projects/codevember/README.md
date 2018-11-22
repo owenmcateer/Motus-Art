@@ -9,6 +9,9 @@ Follow on [Instagram](https://www.instagram.com/Motus_Art/) or [Subscribe](http:
 [**#Day 11 - RGB LCD**][day11] [*(code)*][day11code]  
 [![Day 11](../../assets/img/preview/codevember/11.png)][day11]
 
+[**#Day 10 - Apples**][day10] [*(code)*][day10code]  
+[![Day 10](../../assets/img/preview/codevember/10.png)][day10]
+
 [**#Day 09 - Matrix Rain green**][day09] [*(code)*][day09code]  
 [![Day 09](../../assets/img/preview/codevember/09.png)][day09]
 
