@@ -5,6 +5,9 @@ Follow on [Instagram](https://www.instagram.com/Motus_Art/) or [Subscribe](http:
 
 ## Latest work
 
+[**Entity cycle**][week31] [*(code)*][week31code]  
+[![Week 31](./assets/img/preview/week_31.png)][week31]
+
 [**Happy Christmas**][week30] [*(code)*][week30code]  
 [![Week 30](./assets/img/preview/week_30.png)][week30]
 
@@ -17,12 +20,6 @@ Follow on [Instagram](https://www.instagram.com/Motus_Art/) or [Subscribe](http:
 
 [**Vaporsun**][week28] [*(code)*][week28code]  
 [![Week 28](./assets/img/preview/week_28.png)][week28]
-
-[**Shifting forces**][week27] [*(code)*][week27code]  
-[![Week 27](./assets/img/preview/week_27.png)][week27]
-
-[**Summer rain**][week26] [*(code)*][week26code]  
-[![Week 26](./assets/img/preview/week_26.png)][week26]
 
 ## Full archive
 
@@ -56,6 +53,7 @@ Follow on [Instagram](https://www.instagram.com/Motus_Art/) or [Subscribe](http:
 [![Week 28](./assets/img/preview/week_28.png)][week28]
 [![Week 29](./assets/img/preview/week_29.png)][week29]
 [![Week 30](./assets/img/preview/week_30.png)][week30]
+[![Week 31](./assets/img/preview/week_31.png)][week31]
 
 ## About Motus Art
 
@@ -136,3 +134,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [codevember]: https://owenmcateer.github.io/Motus-Art/projects/codevember/
 [week30]: https://owenmcateer.github.io/Motus-Art/projects/week_30.html
 [week30code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_30/main.js
+[week31]: https://owenmcateer.github.io/Motus-Art/projects/week_31.html
+[week31code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_31/main.js
