@@ -54,6 +54,7 @@ Follow on [Instagram](https://www.instagram.com/Motus_Art/) or [Subscribe](http:
 [![Week 29](./assets/img/preview/week_29.png)][week29]
 [![Week 30](./assets/img/preview/week_30.png)][week30]
 [![Week 31](./assets/img/preview/week_31.png)][week31]
+[![Week 32](./assets/img/preview/week_32.png)][week32]
 
 ## About Motus Art
 
