@@ -5,6 +5,9 @@ Follow on [Instagram](https://www.instagram.com/Motus_Art/) or [Subscribe](http:
 
 ## Latest work
 
+[**Radar dance**][week33] [*(code)*][week33code]  
+[![Week 33](./assets/img/preview/week_33.png)][week33]
+
 [**Hidden patterns**][week32] [*(code)*][week32code]  
 [![Week 32](./assets/img/preview/week_32.png)][week32]
 
@@ -17,9 +20,6 @@ Follow on [Instagram](https://www.instagram.com/Motus_Art/) or [Subscribe](http:
 [**codevember**][codevember]  
 30 days of code. Click here to see them all.  
 [![codevember](./assets/img/preview/codevember/01.png)][codevember]
-
-[**HUE Heart**][week29] [*(code)*][week29code]  
-[![Week 29](./assets/img/preview/week_29.png)][week29]
 
 ## Full archive
 
@@ -55,6 +55,7 @@ Follow on [Instagram](https://www.instagram.com/Motus_Art/) or [Subscribe](http:
 [![Week 30](./assets/img/preview/week_30.png)][week30]
 [![Week 31](./assets/img/preview/week_31.png)][week31]
 [![Week 32](./assets/img/preview/week_32.png)][week32]
+[![Week 33](./assets/img/preview/week_33.png)][week33]
 
 ## About Motus Art
 
@@ -139,3 +140,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [week31code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_31/main.js
 [week32]: https://owenmcateer.github.io/Motus-Art/projects/week_32.html
 [week32code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_32/main.js
+[week33]: https://owenmcateer.github.io/Motus-Art/projects/week_33.html
+[week33code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_33/main.js
