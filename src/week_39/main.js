@@ -1,5 +1,5 @@
 /**
- * Motus: Entity cycle
+ * Motus: Lines of Sine
  * https://owenmcateer.github.io/Motus-Art
  */
 const canvas = 1080;
@@ -19,7 +19,6 @@ function setup() {
   createCanvas(canvas, canvas);
   pixelDensity(1);
   colorMode(RGB, 255, 255, 255, 1);
-  // noiseSeed(12345678);
 
   // Colours
   colours.bg = [37, 39, 28];
