@@ -5,6 +5,9 @@ Follow on [Instagram](https://www.instagram.com/Motus_Art/) or [Subscribe](http:
 
 ## Latest work
 
+[**atan cubes**][week40] [*(code)*][week40code]  
+[![Week 40](./assets/img/preview/week_40.png)][week40]
+
 [**Lines of Sine**][week39] [*(code)*][week39code]  
 [![Week 39](./assets/img/preview/week_39.png)][week39]
 
@@ -16,9 +19,6 @@ Follow on [Instagram](https://www.instagram.com/Motus_Art/) or [Subscribe](http:
 
 [**Suspended Nether**][week36] [*(code)*][week36code]  
 [![Week 36](./assets/img/preview/week_36.png)][week36]
-
-[**Dihedral refraction**][week35] [*(code)*][week35code]  
-[![Week 34](./assets/img/preview/week_35.png)][week35]
 
 ## Full archive
 
@@ -61,6 +61,7 @@ Follow on [Instagram](https://www.instagram.com/Motus_Art/) or [Subscribe](http:
 [![Week 37](./assets/img/preview/week_37.png)][week37]
 [![Week 38](./assets/img/preview/week_38.png)][week38]
 [![Week 39](./assets/img/preview/week_39.png)][week39]
+[![Week 40](./assets/img/preview/week_40.png)][week40]
 
 ## About Motus Art
 
@@ -159,3 +160,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [week38code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_38/main.js
 [week39]: https://owenmcateer.github.io/Motus-Art/projects/week_39.html
 [week39code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_39/main.js
+[week40]: https://owenmcateer.github.io/Motus-Art/projects/week_40.html
+[week40code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_40/main.js
