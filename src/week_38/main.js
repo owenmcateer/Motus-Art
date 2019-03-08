@@ -18,6 +18,7 @@ function setup() {
   createCanvas(canvas, canvas, WEBGL);
   pixelDensity(2);
   frameRate(fps);
+  setAttributes('antialias', true);
 
   // Settings
   speed = round((fps * 60) / bpm);
