@@ -5,6 +5,9 @@ Follow on [Instagram](https://www.instagram.com/Motus_Art/) or [Subscribe](http:
 
 ## Latest work
 
+[**Woman's day**][week41] [*(code)*][week41code]  
+[![Week 41](./assets/img/preview/week_41.png)][week41]
+
 [**atan cubes**][week40] [*(code)*][week40code]  
 [![Week 40](./assets/img/preview/week_40.png)][week40]
 
@@ -62,6 +65,7 @@ Follow on [Instagram](https://www.instagram.com/Motus_Art/) or [Subscribe](http:
 [![Week 38](./assets/img/preview/week_38.png)][week38]
 [![Week 39](./assets/img/preview/week_39.png)][week39]
 [![Week 40](./assets/img/preview/week_40.png)][week40]
+[![Week 41](./assets/img/preview/week_41.png)][week41]
 
 ## About Motus Art
 
@@ -162,3 +166,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [week39code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_39/main.js
 [week40]: https://owenmcateer.github.io/Motus-Art/projects/week_40.html
 [week40code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_40/main.js
+[week41]: https://owenmcateer.github.io/Motus-Art/projects/week_41.html
+[week41code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_41/main.js
