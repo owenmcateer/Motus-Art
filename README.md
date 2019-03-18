@@ -5,6 +5,9 @@ Follow on [Instagram](https://www.instagram.com/Motus_Art/) or [Subscribe](http:
 
 ## Latest work
 
+[**Tau's Arc**][week43] [*(code)*][week43code]  
+[![Week 43](./assets/img/preview/week_43.png)][week43]
+
 [**Neon tunnel**][week42] [*(code)*][week42code]  
 [![Week 42](./assets/img/preview/week_42.png)][week42]
 
@@ -16,9 +19,6 @@ Follow on [Instagram](https://www.instagram.com/Motus_Art/) or [Subscribe](http:
 
 [**Lines of Sine**][week39] [*(code)*][week39code]  
 [![Week 39](./assets/img/preview/week_39.png)][week39]
-
-[**126 bpm**][week38] [*(code)*][week38code]  
-[![Week 38](./assets/img/preview/week_38.png)][week38]
 
 ## Full archive
 
@@ -64,6 +64,7 @@ Follow on [Instagram](https://www.instagram.com/Motus_Art/) or [Subscribe](http:
 [![Week 40](./assets/img/preview/week_40.png)][week40]
 [![Week 41](./assets/img/preview/week_41.png)][week41]
 [![Week 42](./assets/img/preview/week_42.png)][week42]
+[![Week 43](./assets/img/preview/week_43.png)][week43]
 
 ## About Motus Art
 
@@ -168,3 +169,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [week41code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_41/main.js
 [week42]: https://owenmcateer.github.io/Motus-Art/projects/week_42.html
 [week42code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_42/main.js
+[week43]: https://owenmcateer.github.io/Motus-Art/projects/week_43.html
+[week43code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_43/main.js
