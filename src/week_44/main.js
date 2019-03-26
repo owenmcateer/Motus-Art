@@ -16,7 +16,7 @@ let motion = 0;
 function setup() {
   createCanvas(canvasSize, canvasSize);
   colorMode(RGB, 255, 255, 255, 1);
-frameRate(1);
+
   //  Colours
   colours.bg = [40];
   colours.lines = [255, 0.6];
