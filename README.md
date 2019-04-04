@@ -5,6 +5,9 @@ Follow on [Instagram](https://www.instagram.com/Motus_Art/) or [Subscribe](http:
 
 ## Latest work
 
+[**Marching cubes**][week45] [*(code)*][week45code]  
+[![Week 45](./assets/img/preview/week_45.png)][week45]
+
 [**Sagitta lines**][week44] [*(code)*][week44code]  
 [![Week 44](./assets/img/preview/week_44.png)][week44]
 
@@ -16,9 +19,6 @@ Follow on [Instagram](https://www.instagram.com/Motus_Art/) or [Subscribe](http:
 
 [**Woman's day**][week41] [*(code)*][week41code]  
 [![Week 41](./assets/img/preview/week_41.png)][week41]
-
-[**atan cubes**][week40] [*(code)*][week40code]  
-[![Week 40](./assets/img/preview/week_40.png)][week40]
 
 ## Full archive
 
@@ -66,6 +66,7 @@ Follow on [Instagram](https://www.instagram.com/Motus_Art/) or [Subscribe](http:
 [![Week 42](./assets/img/preview/week_42.png)][week42]
 [![Week 43](./assets/img/preview/week_43.png)][week43]
 [![Week 44](./assets/img/preview/week_44.png)][week44]
+[![Week 45](./assets/img/preview/week_44.png)][week45]
 
 ## About Motus Art
 
@@ -174,3 +175,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [week43code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_43/main.js
 [week44]: https://owenmcateer.github.io/Motus-Art/projects/week_44.html
 [week44code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_44/main.js
+[week45]: https://owenmcateer.github.io/Motus-Art/projects/week_45.html
+[week45code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_45/main.js
