@@ -5,6 +5,12 @@ Follow on [Instagram](https://www.instagram.com/Motus_Art/) or [Subscribe](http:
 
 ## Latest work
 
+[**Bookshelf**][week47] [*(code)*][week47code]  
+[![Week 47](./assets/img/preview/week_47.png)][week47]
+
+[**Minimalist Moon**][week46] [*(code)*][week46code]  
+[![Week 46](./assets/img/preview/week_46.png)][week46]
+
 [**Marching cubes**][week45] [*(code)*][week45code]  
 [![Week 45](./assets/img/preview/week_45.png)][week45]
 
@@ -13,12 +19,6 @@ Follow on [Instagram](https://www.instagram.com/Motus_Art/) or [Subscribe](http:
 
 [**Tau's Arc**][week43] [*(code)*][week43code]  
 [![Week 43](./assets/img/preview/week_43.png)][week43]
-
-[**Neon tunnel**][week42] [*(code)*][week42code]  
-[![Week 42](./assets/img/preview/week_42.png)][week42]
-
-[**Woman's day**][week41] [*(code)*][week41code]  
-[![Week 41](./assets/img/preview/week_41.png)][week41]
 
 ## Full archive
 
@@ -66,7 +66,9 @@ Follow on [Instagram](https://www.instagram.com/Motus_Art/) or [Subscribe](http:
 [![Week 42](./assets/img/preview/week_42.png)][week42]
 [![Week 43](./assets/img/preview/week_43.png)][week43]
 [![Week 44](./assets/img/preview/week_44.png)][week44]
-[![Week 45](./assets/img/preview/week_44.png)][week45]
+[![Week 45](./assets/img/preview/week_45.png)][week45]
+[![Week 46](./assets/img/preview/week_46.png)][week46]
+[![Week 47](./assets/img/preview/week_47.png)][week47]
 
 ## About Motus Art
 
@@ -177,3 +179,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [week44code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_44/main.js
 [week45]: https://owenmcateer.github.io/Motus-Art/projects/week_45.html
 [week45code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_45/main.js
+[week46]: https://owenmcateer.github.io/Motus-Art/projects/week_46.html
+[week46code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_46/main.js
+[week47]: https://owenmcateer.github.io/Motus-Art/projects/week_47.html
+[week47code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_47/main.js
