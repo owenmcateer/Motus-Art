@@ -77,5 +77,10 @@ function draw() {
   arc(cx, cx, (radius * 2) + 2, radius * 2 + 2, radians(73), radians(107));
 
   // Render overlaying texture
+  push();
+  imageMode(CENTER);
+  translate(cx, cx);
+  rotate(round(map(sin(frameCount / 3), -1, 1, 0, 3)));
   image(texture, 0, 0);
+  pop();
 }
