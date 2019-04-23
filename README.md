@@ -5,6 +5,9 @@ Follow on [Instagram](https://www.instagram.com/Motus_Art/) or [Subscribe](http:
 
 ## Latest work
 
+[**Neural Net Cube**][week48] [*(code)*][week48code]  
+[![Week 48](./assets/img/preview/week_48.png)][week48]
+
 [**Bookshelf**][week47] [*(code)*][week47code]  
 [![Week 47](./assets/img/preview/week_47.png)][week47]
 
@@ -16,9 +19,6 @@ Follow on [Instagram](https://www.instagram.com/Motus_Art/) or [Subscribe](http:
 
 [**Sagitta lines**][week44] [*(code)*][week44code]  
 [![Week 44](./assets/img/preview/week_44.png)][week44]
-
-[**Tau's Arc**][week43] [*(code)*][week43code]  
-[![Week 43](./assets/img/preview/week_43.png)][week43]
 
 ## Full archive
 
@@ -69,6 +69,7 @@ Follow on [Instagram](https://www.instagram.com/Motus_Art/) or [Subscribe](http:
 [![Week 45](./assets/img/preview/week_45.png)][week45]
 [![Week 46](./assets/img/preview/week_46.png)][week46]
 [![Week 47](./assets/img/preview/week_47.png)][week47]
+[![Week 48](./assets/img/preview/week_48.png)][week48]
 
 ## About Motus Art
 
@@ -183,3 +184,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [week46code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_46/main.js
 [week47]: https://owenmcateer.github.io/Motus-Art/projects/week_47.html
 [week47code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_47/main.js
+[week48]: https://owenmcateer.github.io/Motus-Art/projects/week_48.html
+[week48code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_48/main.js
