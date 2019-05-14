@@ -15,8 +15,6 @@ function setup() {
   createCanvas(canvasSize, canvasSize);
   colorMode(RGB, 255, 255, 255, 1);
 
-  frameRate(10);
-
   //  Colours
   colours.bg = [23, 14, 67, 0.1];
   colours.lines = [245, 3, 246, 0.5];
