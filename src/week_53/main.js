@@ -1,5 +1,5 @@
 /**
- * Motus: HEX ripple
+ * Motus: Rotating disks
  * Is it 3D, which way is it rotating?
  *
  * https://owenmcateer.github.io/Motus-Art
