@@ -5,6 +5,9 @@ Follow on [Instagram](https://www.instagram.com/Motus_Art/) or [Subscribe](http:
 
 ## Latest work
 
+[**Testing Grid**][week54] [*(code)*][week54code]  
+[![Week 54](./assets/img/preview/week_54.png)][week54]
+
 [**Rotating disks**][week53] [*(code)*][week53code]  
 [![Week 53](./assets/img/preview/week_53.png)][week53]
 
@@ -17,9 +20,6 @@ Follow on [Instagram](https://www.instagram.com/Motus_Art/) or [Subscribe](http:
 [**Millennium Falcon gun turret**][week50] [*(code)*][week50code]  
 May the 4th be with you  
 [![Week 50](./assets/img/preview/week_50.png)][week50]
-
-[**Into the Grid**][week49] [*(code)*][week49code]  
-[![Week 49](./assets/img/preview/week_49.png)][week49]
 
 ## Full archive
 
@@ -76,6 +76,7 @@ May the 4th be with you
 [![Week 51](./assets/img/preview/week_51.png)][week51]
 [![Week 52](./assets/img/preview/week_52.png)][week52]
 [![Week 53](./assets/img/preview/week_53.png)][week53]
+[![Week 54](./assets/img/preview/week_54.png)][week54]
 
 ## About Motus Art
 
@@ -202,3 +203,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [week52code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_52/main.js
 [week53]: https://owenmcateer.github.io/Motus-Art/projects/week_53.html
 [week53code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_53/main.js
+[week54]: https://owenmcateer.github.io/Motus-Art/projects/week_54.html
+[week54code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_54/main.js
