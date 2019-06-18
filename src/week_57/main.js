@@ -1,5 +1,5 @@
 /**
- * Motus: Incrementally linked
+ * Motus: Yawing Stack
  *
  * https://owenmcateer.github.io/Motus-Art
  */
