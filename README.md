@@ -5,6 +5,9 @@ Follow on [Instagram](https://www.instagram.com/Motus_Art/) or [Subscribe](http:
 
 ## Latest work
 
+[**Yawing Stack**][week57] [*(code)*][week57code]  
+[![Week 56](./assets/img/preview/week_57.png)][week57]
+
 [**Incrementally linked**][week56] [*(code)*][week56code]  
 [![Week 56](./assets/img/preview/week_56.png)][week56]
 
@@ -16,9 +19,6 @@ Follow on [Instagram](https://www.instagram.com/Motus_Art/) or [Subscribe](http:
 
 [**Rotating disks**][week53] [*(code)*][week53code]  
 [![Week 53](./assets/img/preview/week_53.png)][week53]
-
-[**Neutron pluse**][week52] [*(code)*][week52code]  
-[![Week 52](./assets/img/preview/week_52.png)][week52]
 
 ## Full archive
 
@@ -78,6 +78,7 @@ Follow on [Instagram](https://www.instagram.com/Motus_Art/) or [Subscribe](http:
 [![Week 54](./assets/img/preview/week_54.png)][week54]
 [![Week 55](./assets/img/preview/week_55.png)][week55]
 [![Week 56](./assets/img/preview/week_56.png)][week56]
+[![Week 57](./assets/img/preview/week_57.png)][week57]
 
 ## About Motus Art
 
@@ -210,3 +211,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [week55code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_55/main.js
 [week56]: https://owenmcateer.github.io/Motus-Art/projects/week_56.html
 [week56code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_56/main.js
+[week57]: https://owenmcateer.github.io/Motus-Art/projects/week_57.html
+[week57code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_57/main.js
