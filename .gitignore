@@ -3,3 +3,4 @@ _dev
 _merch
 .DS_Store
 .vscode/
+node_modules

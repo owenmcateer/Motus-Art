@@ -1,0 +1,23 @@
+{
+  "name": "motusart",
+  "description": "Creative coding projects from Motus Art",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:owenmcateer/Motus-Art.git"
+  },
+  "keywords": [
+    "creative",
+    "coding",
+    "art",
+    "animation"
+  ],
+  "author": "Owen McAteer",
+  "license": "MIT",
+  "homepage": "https://owenmcateer.github.io/Motus-Art/",
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-config-p5js": "^1.0.1",
+    "eslint-plugin-import": "^2.18.0"
+  }
+}
