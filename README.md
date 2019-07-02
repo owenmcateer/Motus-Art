@@ -1,7 +1,7 @@
 # Motus Art
 
-Weekly moving art projects all created in JavaScript.  
-Follow on [Instagram](https://www.instagram.com/Motus_Art/) or [Subscribe](http://eepurl.com/dmntwP) to my [newsletter](http://eepurl.com/dmntwP) to get emailed when new projects are added.
+Creative coding art pieces.  
+Follow on [Instagram](https://www.instagram.com/Motus_Art/) or [Subscribe](http://eepurl.com/dmntwP) to my [newsletter](http://eepurl.com/dmntwP) to get emailed when new pieces are added.
 
 ## Latest work
 
@@ -84,7 +84,7 @@ Follow on [Instagram](https://www.instagram.com/Motus_Art/) or [Subscribe](http:
 
 ## About Motus Art
 
-Motus is an art project of coded motion and animation. Motus Art was created by [Owen McAteer](https://owenmcateer.com/), a full stack web developer from Ireland who lives in Madrid.
+Motus Art is a creative coding art project of coded animation.
 * [Newsletter](http://eepurl.com/dmntwP)
 * [GitHub](https://github.com/owenmcateer)
 * [Instagram](https://www.instagram.com/Motus_Art/)
@@ -92,12 +92,12 @@ Motus is an art project of coded motion and animation. Motus Art was created by 
 
 ### Weekly newsletter
 
-Signup to the weekly newsletter and be informed when new projects are published.  
+Signup to the newsletter and be informed when new pieces are added.  
 [**Subscribe**](http://eepurl.com/dmntwP)
 
 ### License, share, learn
 
-Feel free to edit, modify and learn from this [code](https://github.com/owenmcateer/Motus-Art) but please do credit a link back to this work. 
+Feel free to edit, modify and learn from this [code](https://github.com/owenmcateer/Motus-Art) but you must credit a link back to this work. 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 [week01]: https://owenmcateer.github.io/Motus-Art/projects/week_01.html

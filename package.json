@@ -1,6 +1,6 @@
 {
-  "name": "motusart",
-  "description": "Creative coding projects from Motus Art",
+  "name": "motus-art",
+  "description": "Creative coding art pieces.",
   "repository": {
     "type": "git",
     "url": "git@github.com:owenmcateer/Motus-Art.git"
