@@ -51,7 +51,6 @@ function draw() {
   ellipse(circleBottom.x, circleBottom.y, circleBottom.w * mult, circleBottom.h);
 
   // Blend mode hides any line overlays
-  blendMode(LIGHTEST);
   strokeWeight(8);
   for (let l = 0; l < lines; l++) {
     if (l > 4 && l < 22) {
