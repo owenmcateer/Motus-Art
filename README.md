@@ -5,7 +5,10 @@ Follow on [Instagram](https://www.instagram.com/Motus_Art/) or [Subscribe](http:
 
 ## Latest work
 
-[**Balanced Dimension**][week61] [*(code)*][week61code]  
+[**Plasma grid**][week62] [*(code)*][week62code]  
+[![Week 62](./assets/img/preview/week_62.png)][week62]
+
+[**Encircling**][week61] [*(code)*][week61code]  
 [![Week 61](./assets/img/preview/week_61.png)][week61]
 
 [**Balanced Dimension**][week60] [*(code)*][week60code]  
@@ -80,6 +83,7 @@ Follow on [Instagram](https://www.instagram.com/Motus_Art/) or [Subscribe](http:
 [![Week 59](./assets/img/preview/week_59.png)][week59]
 [![Week 60](./assets/img/preview/week_60.png)][week60]
 [![Week 61](./assets/img/preview/week_61.png)][week61]
+[![Week 62](./assets/img/preview/week_62.png)][week62]
 
 ## About Motus Art
 
@@ -222,3 +226,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [week60code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_60/main.js
 [week61]: https://owenmcateer.github.io/Motus-Art/projects/week_61.html
 [week61code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_61/main.js
+[week62]: https://owenmcateer.github.io/Motus-Art/projects/week_62.html
+[week62code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_62/main.js
