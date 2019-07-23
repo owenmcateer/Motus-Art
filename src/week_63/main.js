@@ -65,7 +65,7 @@ function draw() {
 
   // Render
   noFill();
-  stroke(140);
+  stroke(160);
   for (let p = 0; p < points.length; p++) {
     const thisPoint = points[p];
     const connect = points.find(p => p.posX === thisPoint.posX + 1 && p.posY === thisPoint.posY - 1);
