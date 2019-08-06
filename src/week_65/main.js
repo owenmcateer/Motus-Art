@@ -22,7 +22,6 @@ function setup() {
   createCanvas(canvasSize, canvasSize);
   pixelDensity(2);
   colorMode(RGB, 255, 255, 255, 1);
-  frameRate(1);
 }
 
 
@@ -57,8 +56,6 @@ function draw() {
   phase += speed;
   if (phase >= 1 / items) {
     phase = 0;
-    background(255);
-    noLoop();
   }
 }
 
