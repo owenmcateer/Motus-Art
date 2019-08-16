@@ -41,7 +41,5 @@ function draw() {
   timer += speed;
   if (timer >= 1) {
     timer = 0;
-    background(255);
-    noLoop();
   }
 }
