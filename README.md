@@ -4,6 +4,9 @@ Creative coding art pieces.
 Follow on [Instagram](https://www.instagram.com/Motus_Art/) or [Subscribe](http://eepurl.com/dmntwP) to my [newsletter](http://eepurl.com/dmntwP) to get emailed when new pieces are added.
 
 ## Latest work
+[**Bubble Wrap**][week67] [*(code)*][week67code]  
+[![Week 67](./assets/img/preview/week_67.png)][week67]
+
 [**Hidden love**][week66] [*(code)*][week66code]  
 [![Week 66](./assets/img/preview/week_66.png)][week66]
 
@@ -15,9 +18,6 @@ Follow on [Instagram](https://www.instagram.com/Motus_Art/) or [Subscribe](http:
 
 [**Perlins Mountains**][week63] [*(code)*][week63code]  
 [![Week 63](./assets/img/preview/week_63.png)][week63]
-
-[**Plasma grid**][week62] [*(code)*][week62code]  
-[![Week 62](./assets/img/preview/week_62.png)][week62]
 
 ## Full archive
 
@@ -87,6 +87,7 @@ Follow on [Instagram](https://www.instagram.com/Motus_Art/) or [Subscribe](http:
 [![Week 64](./assets/img/preview/week_64.png)][week64]
 [![Week 65](./assets/img/preview/week_65.png)][week65]
 [![Week 66](./assets/img/preview/week_66.png)][week66]
+[![Week 67](./assets/img/preview/week_67.png)][week67]
 
 ## About Motus Art
 
@@ -239,3 +240,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [week65code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_65/main.js
 [week66]: https://owenmcateer.github.io/Motus-Art/projects/week_66.html
 [week66code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_66/main.js
+[week67]: https://owenmcateer.github.io/Motus-Art/projects/week_67.html
+[week67code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_67/main.js
