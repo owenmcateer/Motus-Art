@@ -15,8 +15,8 @@
   "license": "MIT",
   "homepage": "https://owenmcateer.github.io/Motus-Art/",
   "devDependencies": {
-    "eslint": "^5.16.0",
-    "eslint-config-airbnb-base": "^13.2.0",
+    "eslint": "^6.0.0",
+    "eslint-config-airbnb-base": "^14",
     "eslint-config-p5js": "^1.0.1",
     "eslint-plugin-import": "^2.18.2"
   }
