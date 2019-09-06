@@ -10,7 +10,7 @@ let fft;
 
 // Preload
 function preload() {
-  sound = loadSound('../../assets/misc/guitar.mp3');
+  sound = loadSound('../../assets/audio/guitar.mp3');
 }
 
 // Setup
