@@ -4,6 +4,9 @@ Creative coding art pieces.
 Follow on [Instagram](https://www.instagram.com/Motus_Art/) or [Subscribe](http://eepurl.com/dmntwP) to my [newsletter](http://eepurl.com/dmntwP) to get emailed when new pieces are added.
 
 ## Latest work
+[**Skewed disks**][week71] [*(code)*][week71code]  
+[![Week 71](./assets/img/preview/week_71.png)][week71]
+
 [**Abstract noise**][week70] [*(code)*][week70code]  
 [![Week 70](./assets/img/preview/week_70.png)][week70]
 
@@ -91,6 +94,7 @@ Follow on [Instagram](https://www.instagram.com/Motus_Art/) or [Subscribe](http:
 [![Week 68](./assets/img/preview/week_68.png)][week68]
 [![Week 69](./assets/img/preview/week_69.png)][week69]
 [![Week 70](./assets/img/preview/week_70.png)][week70]
+[![Week 71](./assets/img/preview/week_71.png)][week71]
 
 ## About Motus Art
 
@@ -251,3 +255,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [week69code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_69/main.js
 [week70]: https://owenmcateer.github.io/Motus-Art/projects/week_70.html
 [week70code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_70/main.js
+[week71]: https://owenmcateer.github.io/Motus-Art/projects/week_71.html
+[week71code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_71/main.js
