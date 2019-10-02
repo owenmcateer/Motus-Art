@@ -6,14 +6,13 @@
  * from Superman II (1980) the Trial of Zod.
  */
 const canvasSize = 400;
-let timer = 0;
+let timer = 0.25;
 const size = 300;
 
 
 function setup() {
   createCanvas(canvasSize, canvasSize);
   pixelDensity(2);
-  frameRate(1);
 }
 
 
@@ -75,6 +74,5 @@ function draw() {
   if (timer >= 1) {
     timer = 0;
     background(255);
-    noLoop();
   }
 }
