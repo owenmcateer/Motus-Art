@@ -16,7 +16,7 @@ const colour = {};
 
 
 function preload() {
-  primes = loadStrings('../../assets/data/primes-35k.txt');
+  primes = loadStrings('../assets/data/primes-35k.txt');
 }
 
 
