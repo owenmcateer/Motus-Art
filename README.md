@@ -4,6 +4,9 @@ Creative coding art pieces.
 Follow on [Instagram](https://www.instagram.com/Motus_Art/) or [Subscribe](http://eepurl.com/dmntwP) to my [newsletter](http://eepurl.com/dmntwP) to get emailed when new pieces are added.
 
 ## Latest work
+[**Breathe**][week77] [*(code)*][week77code]  
+[![Week 77](./assets/img/preview/week_77.png)][week77]
+
 [**Breadthless Length**][week76] [*(code)*][week76code]  
 [![Week 76](./assets/img/preview/week_76.png)][week76]
 
@@ -15,9 +18,6 @@ Follow on [Instagram](https://www.instagram.com/Motus_Art/) or [Subscribe](http:
 
 [**Pattern of Prime**][week73] [*(code)*][week73code]  
 [![Week 73](./assets/img/preview/week_73.png)][week73]
-
-[**Detention forcefield**][week72] [*(code)*][week72code]  
-[![Week 72](./assets/img/preview/week_72.png)][week72]
 
 ## Full archive
 
