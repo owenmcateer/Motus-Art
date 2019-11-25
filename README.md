@@ -97,6 +97,7 @@ Follow on [Instagram](https://www.instagram.com/Motus_Art/) or [Subscribe](http:
 [![Week 74](./assets/img/preview/week_74.png)][week74]
 [![Week 75](./assets/img/preview/week_75.png)][week75]
 [![Week 76](./assets/img/preview/week_76.png)][week76]
+[![Week 77](./assets/img/preview/week_77.png)][week77]
 
 ## About Motus Art
 
@@ -269,3 +270,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [week75code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_75/main.js
 [week76]: https://owenmcateer.github.io/Motus-Art/projects/week_76.html
 [week76code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_76/main.js
+[week77]: https://owenmcateer.github.io/Motus-Art/projects/week_77.html
+[week77code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_77/main.js
+
