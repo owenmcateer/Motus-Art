@@ -4,6 +4,9 @@ Creative coding art pieces.
 Follow on [Instagram](https://www.instagram.com/Motus_Art/) or [Subscribe](http://eepurl.com/dmntwP) to my [newsletter](http://eepurl.com/dmntwP) to get emailed when new pieces are added.
 
 ## Latest work
+[**Isometric fall**][week78] [*(code)*][week78code]  
+[![Week 78](./assets/img/preview/week_78.png)][week78]
+
 [**Breathe**][week77] [*(code)*][week77code]  
 [![Week 77](./assets/img/preview/week_77.png)][week77]
 
@@ -15,9 +18,6 @@ Follow on [Instagram](https://www.instagram.com/Motus_Art/) or [Subscribe](http:
 
 [**Y-curve fidelity**][week74] [*(code)*][week74code]  
 [![Week 74](./assets/img/preview/week_74.png)][week74]
-
-[**Pattern of Prime**][week73] [*(code)*][week73code]  
-[![Week 73](./assets/img/preview/week_73.png)][week73]
 
 ## Full archive
 
@@ -98,6 +98,7 @@ Follow on [Instagram](https://www.instagram.com/Motus_Art/) or [Subscribe](http:
 [![Week 75](./assets/img/preview/week_75.png)][week75]
 [![Week 76](./assets/img/preview/week_76.png)][week76]
 [![Week 77](./assets/img/preview/week_77.png)][week77]
+[![Week 78](./assets/img/preview/week_78.png)][week78]
 
 ## About Motus Art
 
@@ -272,4 +273,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [week76code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_76/main.js
 [week77]: https://owenmcateer.github.io/Motus-Art/projects/week_77.html
 [week77code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_77/main.js
-
+[week78]: https://owenmcateer.github.io/Motus-Art/projects/week_78.html
+[week78code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_78/main.js
