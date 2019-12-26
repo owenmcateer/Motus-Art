@@ -4,6 +4,9 @@ Creative coding art pieces.
 Follow on [Instagram](https://www.instagram.com/Motus_Art/) or [Subscribe](http://eepurl.com/dmntwP) to my [newsletter](http://eepurl.com/dmntwP) to get emailed when new pieces are added.
 
 ## Latest work
+[**Twisted diamond**][week82] [*(code)*][week82code]  
+[![Week 82](./assets/img/preview/week_82.png)][week82]
+
 [**Chain Linked**][week81] [*(code)*][week81code]  
 [![Week 81](./assets/img/preview/week_81.png)][week81]
 
@@ -15,9 +18,6 @@ Follow on [Instagram](https://www.instagram.com/Motus_Art/) or [Subscribe](http:
 
 [**Isometric fall**][week78] [*(code)*][week78code]  
 [![Week 78](./assets/img/preview/week_78.png)][week78]
-
-[**Breathe**][week77] [*(code)*][week77code]  
-[![Week 77](./assets/img/preview/week_77.png)][week77]
 
 ## Full archive
 
@@ -102,6 +102,7 @@ Follow on [Instagram](https://www.instagram.com/Motus_Art/) or [Subscribe](http:
 [![Week 79](./assets/img/preview/week_79.png)][week79]
 [![Week 80](./assets/img/preview/week_80.png)][week80]
 [![Week 81](./assets/img/preview/week_81.png)][week81]
+[![Week 82](./assets/img/preview/week_82.png)][week82]
 
 ## About Motus Art
 
@@ -284,3 +285,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [week80code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_80/
 [week81]: https://owenmcateer.github.io/Motus-Art/projects/week_81.html
 [week81code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_81/
+[week82]: https://owenmcateer.github.io/Motus-Art/projects/week_82.html
+[week82code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_82/
