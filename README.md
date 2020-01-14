@@ -4,6 +4,9 @@ Creative coding art pieces.
 Follow on [Instagram](https://www.instagram.com/Motus_Art/) or [Subscribe](http://eepurl.com/dmntwP) to my [newsletter](http://eepurl.com/dmntwP) to get emailed when new pieces are added.
 
 ## Latest work
+[**Pattarc**][week84] [*(code)*][week84code]  
+[![Week 84](./assets/img/preview/week_84.png)][week84]
+
 [**Radius Inradius**][week83] [*(code)*][week83code]  
 [![Week 83](./assets/img/preview/week_83.png)][week83]
 
@@ -15,9 +18,6 @@ Follow on [Instagram](https://www.instagram.com/Motus_Art/) or [Subscribe](http:
 
 [**Digital waterfall**][week80] [*(code)*][week80code]  
 [![Week 80](./assets/img/preview/week_80.png)][week80]
-
-[**Low-res ocean**][week79] [*(code)*][week79code]  
-[![Week 79](./assets/img/preview/week_79.png)][week79]
 
 ## Full archive
 
@@ -104,6 +104,7 @@ Follow on [Instagram](https://www.instagram.com/Motus_Art/) or [Subscribe](http:
 [![Week 81](./assets/img/preview/week_81.png)][week81]
 [![Week 82](./assets/img/preview/week_82.png)][week82]
 [![Week 83](./assets/img/preview/week_83.png)][week83]
+[![Week 84](./assets/img/preview/week_84.png)][week84]
 
 ## About Motus Art
 
@@ -285,8 +286,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [week80]: https://owenmcateer.github.io/Motus-Art/projects/week_80.html
 [week80code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_80/
 [week81]: https://owenmcateer.github.io/Motus-Art/projects/week_81.html
-[week81code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_81/
+[week81code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_81/main.js
 [week82]: https://owenmcateer.github.io/Motus-Art/projects/week_82.html
-[week82code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_82/
+[week82code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_82/main.js
 [week83]: https://owenmcateer.github.io/Motus-Art/projects/week_83.html
-[week83code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_83/
+[week83code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_83/main.js
+[week84]: https://owenmcateer.github.io/Motus-Art/projects/week_84.html
+[week84code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_84/main.js
