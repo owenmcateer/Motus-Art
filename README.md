@@ -4,6 +4,9 @@ Creative coding art pieces.
 Follow on [Instagram](https://www.instagram.com/Motus_Art/) or [Subscribe](http://eepurl.com/dmntwP) to my [newsletter](http://eepurl.com/dmntwP) to get emailed when new pieces are added.
 
 ## Latest work
+[**Chequered brain**][week87] [*(code)*][week87code]  
+[![Week 87](./assets/img/preview/week_87.png)][week87]
+
 [**Velocity 3.14**][week86] [*(code)*][week86code]  
 [![Week 86](./assets/img/preview/week_86.png)][week86]
 
@@ -15,9 +18,6 @@ Follow on [Instagram](https://www.instagram.com/Motus_Art/) or [Subscribe](http:
 
 [**Radius Inradius**][week83] [*(code)*][week83code]  
 [![Week 83](./assets/img/preview/week_83.png)][week83]
-
-[**Twisted diamond**][week82] [*(code)*][week82code]  
-[![Week 82](./assets/img/preview/week_82.png)][week82]
 
 ## Full archive
 
@@ -107,6 +107,7 @@ Follow on [Instagram](https://www.instagram.com/Motus_Art/) or [Subscribe](http:
 [![Week 84](./assets/img/preview/week_84.png)][week84]
 [![Week 85](./assets/img/preview/week_85.png)][week85]
 [![Week 86](./assets/img/preview/week_86.png)][week86]
+[![Week 87](./assets/img/preview/week_87.png)][week87]
 
 ## About Motus Art
 
@@ -298,4 +299,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [week85]: https://owenmcateer.github.io/Motus-Art/projects/week_85.html
 [week85code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_85/
 [week86]: https://owenmcateer.github.io/Motus-Art/projects/week_86.html
-[week86code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_86/
+[week86code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_86/main.js
+[week87]: https://owenmcateer.github.io/Motus-Art/projects/week_87.html
+[week87code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_87/main.js
