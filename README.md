@@ -4,6 +4,9 @@ Creative coding art pieces.
 Follow on [Instagram](https://www.instagram.com/Motus_Art/) or [Subscribe](http://eepurl.com/dmntwP) to my [newsletter](http://eepurl.com/dmntwP) to get emailed when new pieces are added.
 
 ## Latest work
+[**The Reactor**][week94] [*(code)*][week94code]  
+[![Week 94](./assets/img/preview/week_94.png)][week94]
+
 [**Falling Sun**][week93] [*(code)*][week93code]  
 [![Week 93](./assets/img/preview/week_93.png)][week93]
 
@@ -16,11 +19,9 @@ Follow on [Instagram](https://www.instagram.com/Motus_Art/) or [Subscribe](http:
 [**Dancing Cubes**][week90] [*(code)*][week90code]  
 [![Week 90](./assets/img/preview/week_90.png)][week90]
 
-[**Unsettling Oscillation**][week89] [*(code)*][week89code]  
-[![Week 89](./assets/img/preview/week_89.png)][week89]
-
 ## Full archive
 
+[![Week 94](./assets/img/preview/week_94.png)][week94]
 [![Week 93](./assets/img/preview/week_93.png)][week93]
 [![Week 92](./assets/img/preview/week_92.png)][week92]
 [![Week 91](./assets/img/preview/week_91.png)][week91]
@@ -320,3 +321,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [week92code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_92/main.js
 [week93]: https://owenmcateer.github.io/Motus-Art/projects/week_93.html
 [week93code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_93/main.js
+[week94]: https://owenmcateer.github.io/Motus-Art/projects/week_94.html
+[week94code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_94/main.js
