@@ -4,6 +4,9 @@ Creative coding art pieces.
 Follow on [Instagram](https://www.instagram.com/Motus_Art/) or [Subscribe](http://eepurl.com/dmntwP) to my [newsletter](http://eepurl.com/dmntwP) to get emailed when new pieces are added.
 
 ## Latest work
+[**PI Day 2020**][week97] [*(code)*][week97code]  
+[![Week 97](./assets/img/preview/week_97.png)][week97]
+
 [**Dance of the fireflies**][week96] [*(code)*][week96code]  
 [![Week 96](./assets/img/preview/week_96.png)][week96]
 
@@ -16,11 +19,9 @@ Follow on [Instagram](https://www.instagram.com/Motus_Art/) or [Subscribe](http:
 [**Falling Sun**][week93] [*(code)*][week93code]  
 [![Week 93](./assets/img/preview/week_93.png)][week93]
 
-[**Stack squared**][week92] [*(code)*][week92code]  
-[![Week 92](./assets/img/preview/week_92.png)][week92]
-
 ## Full archive
 
+[![Week 97](./assets/img/preview/week_97.png)][week97]
 [![Week 96](./assets/img/preview/week_96.png)][week96]
 [![Week 95](./assets/img/preview/week_95.png)][week95]
 [![Week 94](./assets/img/preview/week_94.png)][week94]
@@ -329,3 +330,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [week95code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_95/
 [week96]: https://owenmcateer.github.io/Motus-Art/projects/week_96.html
 [week96code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_96/main.js
+[week97]: https://owenmcateer.github.io/Motus-Art/projects/week_97.html
+[week97code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_97/main.js
