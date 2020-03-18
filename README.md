@@ -4,8 +4,8 @@ Creative coding art pieces.
 Follow on [Instagram](https://www.instagram.com/Motus_Art/) or [Subscribe](http://eepurl.com/dmntwP) to my [newsletter](http://eepurl.com/dmntwP) to get emailed when new pieces are added.
 
 ## Latest work
-[**Cube Array**][week97] [*(code)*][week97code]  
-[![Week 97](./assets/img/preview/week_97.png)][week97]
+[**Cube Array**][week98] [*(code)*][week98code]  
+[![Week 98](./assets/img/preview/week_98.png)][week98]
 
 [**PI Day 2020**][week97] [*(code)*][week97code]  
 [![Week 97](./assets/img/preview/week_97.png)][week97]
