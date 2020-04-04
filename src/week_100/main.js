@@ -16,8 +16,6 @@ let showing = 0;
 function setup() {
   createCanvas(canvasSize, canvasSize);
   addCircle();
-
-  frameRate(6);
 }
 
 
