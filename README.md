@@ -3,6 +3,9 @@
 Creative coding art pieces.  
 Follow on [Instagram](https://www.instagram.com/Motus_Art/) or [Subscribe](http://eepurl.com/dmntwP) to my [newsletter](http://eepurl.com/dmntwP) to get emailed when new pieces are added.
 
+## Buy Prints (🎉 NEW!)
+NEW! You can now purchase Motus Art designs on [Canvas prints](https://www.redbubble.com/people/motusart/shop?artistUserName=motusart&asc=u&iaCode=u-print-canvas), [Posters](https://www.redbubble.com/people/motusart/shop?artistUserName=motusart&asc=u&iaCode=u-print-poster), [Tees](https://www.redbubble.com/people/motusart/shop?artistUserName=motusart&asc=u&iaCode=u-clothing), [Notebooks](https://www.redbubble.com/people/motusart/shop?artistUserName=motusart&asc=u&iaCode=u-notebook-spiral) and [more](https://www.redbubble.com/people/motusart/shop).
+
 ## Latest work
 [**Spherics Interference**][week101] [*(code)*][week101code]  
 [![Week 101](./assets/img/preview/week_101.png)][week101]
