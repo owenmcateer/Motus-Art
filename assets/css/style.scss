@@ -15,6 +15,13 @@ body {
 body, .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6, a {
   color: rgb(20, 34, 51);
 }
+a {
+  text-decoration: underline;
+  transition: color 250ms ease-in-out;
+}
+a:hover {
+  color: #c51896;
+}
 header {
   background: #112232;
   min-height: 380px;
