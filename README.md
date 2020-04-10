@@ -8,6 +8,9 @@ NEW! You can now purchase Motus Art designs on [**Canvas prints**](https://www.r
 Checkout the [Motus Art store](https://www.redbubble.com/people/motusart/shop) now.
 
 ## Latest work
+[**Tock**][week102] [*(code)*][week102code]  
+[![Week 102](./assets/img/preview/week_102.png)][week102]
+
 [**Spherics Interference**][week101] [*(code)*][week101code]  
 [![Week 101](./assets/img/preview/week_101.png)][week101]
 
@@ -20,11 +23,9 @@ Checkout the [Motus Art store](https://www.redbubble.com/people/motusart/shop) n
 [**Cube Array**][week98] [*(code)*][week98code]  
 [![Week 98](./assets/img/preview/week_98.png)][week98]
 
-[**PI Day 2020**][week97] [*(code)*][week97code]  
-[![Week 97](./assets/img/preview/week_97.png)][week97]
-
 ## Full archive
 
+[![Week 102](./assets/img/preview/week_102.png)][week102]
 [![Week 101](./assets/img/preview/week_101.png)][week101]
 [![Week 100](./assets/img/preview/week_100.png)][week100]
 [![Week 99](./assets/img/preview/week_99.png)][week99]
@@ -348,3 +349,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [week100code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_100/main.js
 [week101]: https://owenmcateer.github.io/Motus-Art/projects/week_101.html
 [week101code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_101/main.js
+[week102]: https://owenmcateer.github.io/Motus-Art/projects/week_102.html
+[week102code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_102/main.js
