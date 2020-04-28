@@ -1,11 +1,15 @@
+[![Motus Art](assets/img/website/MotusArt.jpg "Motus Art")](#motus-art)
+[![Project Aureole](assets/img/website/Project-Aureole.jpg "Project Aureole")](https://github.com/owenmcateer/Project-Aureole)
+[![Store](assets/img/website/buy-prints.jpg "Buy Motus Art Prints")](https://motusart.redbubble.com/)
+
+
 # Motus Art
 
-Creative coding art pieces.  
-Follow on [Instagram](https://www.instagram.com/Motus_Art/) or [Subscribe](http://eepurl.com/dmntwP) to my [newsletter](http://eepurl.com/dmntwP) to get emailed when new pieces are added.
+**Creative Coding and Generative art.**  
+https://www.instagram.com/motus_art/
 
-## [Buy Prints (🎉 NEW!)](https://www.redbubble.com/people/motusart/shop)
-NEW! You can now purchase Motus Art designs on [**Canvas prints**](https://www.redbubble.com/people/motusart/shop?artistUserName=motusart&asc=u&iaCode=u-print-canvas), [**Posters**](https://www.redbubble.com/people/motusart/shop?artistUserName=motusart&asc=u&iaCode=u-print-poster), [**Tees**](https://www.redbubble.com/people/motusart/shop?artistUserName=motusart&asc=u&iaCode=u-clothing), [**Notebooks**](https://www.redbubble.com/people/motusart/shop?artistUserName=motusart&asc=u&iaCode=u-notebook-spiral) and [**more**](https://www.redbubble.com/people/motusart/shop).  
-Checkout the [Motus Art store](https://www.redbubble.com/people/motusart/shop) now.
+You can now purchase Motus Art designs on [Canvas prints](https://www.redbubble.com/people/motusart/shop?artistUserName=motusart&asc=u&iaCode=u-print-canvas), [Posters](https://www.redbubble.com/people/motusart/shop?artistUserName=motusart&asc=u&iaCode=u-print-poster), [Tees](https://www.redbubble.com/people/motusart/shop?artistUserName=motusart&asc=u&iaCode=u-clothing), [Notebooks](https://www.redbubble.com/people/motusart/shop?artistUserName=motusart&asc=u&iaCode=u-notebook-spiral) and [more](https://www.redbubble.com/people/motusart/shop).  
+Checkout the [Motus Art store](https://www.redbubble.com/people/motusart/shop).
 
 ## Latest work
 [**Wormhole**][week103] [*(code)*][week103code]  
