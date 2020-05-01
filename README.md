@@ -139,7 +139,7 @@ Motus Art is a creative coding art project of coded animation.
 * [Newsletter](http://eepurl.com/dmntwP)
 * [GitHub](https://github.com/owenmcateer)
 * [Instagram](https://www.instagram.com/Motus_Art/)
-* [Twitter](https://twitter.com/omcateer)
+* [Twitter](https://twitter.com/motus_art)
 
 ### Weekly newsletter
 
