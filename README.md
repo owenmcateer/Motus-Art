@@ -12,6 +12,9 @@ You can now purchase Motus Art designs on [Canvas prints](https://www.redbubble.
 Checkout the [Motus Art store](https://www.redbubble.com/people/motusart/shop).
 
 ## Latest work
+[**Lofi mountains**][week108] [*(code)*][week108code]  
+[![Week 108](./assets/img/preview/week_108.png)][week108]
+
 [**Ontological parasitic**][week107] [*(code)*][week107code]  
 [![Week 107](./assets/img/preview/week_107.png)][week107]
 
@@ -24,11 +27,9 @@ Checkout the [Motus Art store](https://www.redbubble.com/people/motusart/shop).
 [**Eclipse diamond**][week104] [*(code)*][week104code]  
 [![Week 104](./assets/img/preview/week_104.png)][week104]
 
-[**Wormhole**][week103] [*(code)*][week103code]  
-[![Week 103](./assets/img/preview/week_103.png)][week103]
-
 ## Full archive
 
+[![Week 108](./assets/img/preview/week_108.png)][week108]
 [![Week 107](./assets/img/preview/week_107.png)][week107]
 [![Week 106](./assets/img/preview/week_106.png)][week106]
 [![Week 105](./assets/img/preview/week_105.png)][week105]
@@ -370,3 +371,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [week106code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_106/main.js
 [week107]: https://owenmcateer.github.io/Motus-Art/projects/week_107.html
 [week107code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_107/main.js
+[week108]: https://owenmcateer.github.io/Motus-Art/projects/week_108.html
+[week108code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_108/main.js
