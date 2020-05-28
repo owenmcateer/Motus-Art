@@ -19,7 +19,6 @@ function setup() {
   createCanvas(canvasSize, canvasSize);
   frameRate(30);
   colorMode(HSL, 360, 100, 100, 1);
-  noiseSeed(12345);
   pixelDensity();
 
   overlayGrad = linearGradient(width, height, [0, 0, 0, 0.1], [0, 0, 0, 0.2], 'y');
