@@ -1,5 +1,5 @@
 /**
- * Motus: Magnetic cubes
+ * Motus: Grid: Pins
  * https://owenmcateer.github.io/Motus-Art
  */
 const canvasSize = 540;
