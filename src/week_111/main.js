@@ -1,3 +1,7 @@
+/**
+ * Motus: Dancing Cubes
+ * https://owenmcateer.github.io/Motus-Art
+ */
 const canvasSize = 540;
 const cx = canvasSize / 2;
 const border = 100;

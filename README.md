@@ -12,6 +12,9 @@ You can now purchase Motus Art designs on [Canvas prints](https://www.redbubble.
 Checkout the [Motus Art store](https://www.redbubble.com/people/motusart/shop).
 
 ## Latest work
+[**Pins & needles**][week112] [*(code)*][week112code]  
+[![Pins & needles](./assets/img/preview/week_112.png)][week112]
+
 [**Dancing Cubes**][week111] [*(code)*][week111code]  
 [![Dancing Cubes](./assets/img/preview/week_111.png)][week111]
 
@@ -24,11 +27,9 @@ Checkout the [Motus Art store](https://www.redbubble.com/people/motusart/shop).
 [**Lofi mountains**][week108] [*(code)*][week108code]  
 [![Week 108](./assets/img/preview/week_108.png)][week108]
 
-[**Ontological parasitic**][week107] [*(code)*][week107code]  
-[![Week 107](./assets/img/preview/week_107.png)][week107]
-
 ## Full archive
 
+[![Pins & needless](./assets/img/preview/week_112.png)][week112]
 [![Week 111](./assets/img/preview/week_111.png)][week111]
 [![Week 110](./assets/img/preview/week_110.png)][week110]
 [![Week 109](./assets/img/preview/week_109.png)][week109]
@@ -382,3 +383,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [week110code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_110/main.js
 [week111]: https://owenmcateer.github.io/Motus-Art/projects/week_111.html
 [week111code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_111/main.js
+[week112]: https://owenmcateer.github.io/Motus-Art/projects/week_112.html
+[week112code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_112/main.js
