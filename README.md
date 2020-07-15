@@ -1,4 +1,4 @@
-[![Web FliipDot from Motus Art](FlipDots/assets/img/FlipDots-tw.png "Web FlipDots Motus Art")](https://owenmcateer.github.io/Motus-Art/FlipDots/)
+[![Web FlipDot from Motus Art](FlipDots/assets/FlipDots-tw.png "Web FlipDots Motus Art")](https://owenmcateer.github.io/Motus-Art/FlipDots/)
 
 
 [![Motus Art](assets/img/website/MotusArt.jpg "Motus Art")](#motus-art)
