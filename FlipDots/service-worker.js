@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Motus-Art/FlipDots/precache-manifest.bd5ae5ad42c6251f180d86b29176ae63.js"
+  "/Motus-Art/FlipDots/precache-manifest.6a25a5d2920514ccb431b3e110aad077.js"
 );
 
 self.addEventListener('message', (event) => {

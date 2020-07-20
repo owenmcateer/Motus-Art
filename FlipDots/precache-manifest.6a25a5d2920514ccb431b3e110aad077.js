@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "00830775e19991397938d4342f0f7cb0",
+    "revision": "1f5ff6f02a66180ea59546057f308a5a",
     "url": "/Motus-Art/FlipDots/index.html"
   },
   {
