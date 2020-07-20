@@ -8,26 +8,26 @@
 
 # Motus Art
 
-**Creative Coding and Generative art.**
+**Creative Coding and Generative art.**  
 https://www.instagram.com/motus_art/
 
 You can now purchase Motus Art designs on [Canvas prints](https://www.redbubble.com/people/motusart/shop?artistUserName=motusart&asc=u&iaCode=u-print-canvas), [Posters](https://www.redbubble.com/people/motusart/shop?artistUserName=motusart&asc=u&iaCode=u-print-poster), [Tees](https://www.redbubble.com/people/motusart/shop?artistUserName=motusart&asc=u&iaCode=u-clothing), [Notebooks](https://www.redbubble.com/people/motusart/shop?artistUserName=motusart&asc=u&iaCode=u-notebook-spiral) and [more](https://www.redbubble.com/people/motusart/shop).
 Checkout the [Motus Art store](https://www.redbubble.com/people/motusart/shop).
 
 ## Latest work
-[**School of fish**][week114] [*(code)*][week114code]
+[**School of fish**][week114] [*(code)*][week114code]  
 [![School of fish](./assets/img/preview/week_114.png)][week114]
 
-[**The Drop**][week113] [*(code)*][week113code]
+[**The Drop**][week113] [*(code)*][week113code]  
 [![The Drop](./assets/img/preview/week_113.png)][week113]
 
-[**Pins & needles**][week112] [*(code)*][week112code]
+[**Pins & needles**][week112] [*(code)*][week112code]  
 [![Pins & needles](./assets/img/preview/week_112.png)][week112]
 
-[**Dancing Cubes**][week111] [*(code)*][week111code]
+[**Dancing Cubes**][week111] [*(code)*][week111code]  
 [![Dancing Cubes](./assets/img/preview/week_111.png)][week111]
 
-[**Grid: Pins**][week110] [*(code)*][week110code]
+[**Grid: Pins**][week110] [*(code)*][week110code]  
 [![Grid: Pins](./assets/img/preview/week_110.png)][week110]
 
 ## Full archive
@@ -157,12 +157,12 @@ Motus Art is a creative coding art project of coded animation.
 
 ### Weekly newsletter
 
-Signup to the newsletter and be informed when new pieces are added.
+Signup to the newsletter and be informed when new pieces are added.  
 [**Subscribe**](http://eepurl.com/dmntwP)
 
 ### License, share, learn
 
-Feel free to edit, modify and learn from this [code](https://github.com/owenmcateer/Motus-Art) but you must credit a link back to this work.
+Feel free to edit, modify and learn from this [code](https://github.com/owenmcateer/Motus-Art) but you must credit a link back to this work.  
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 [week01]: https://owenmcateer.github.io/Motus-Art/projects/week_01.html
