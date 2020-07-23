@@ -1,6 +1,3 @@
-[![Web FlipDot from Motus Art](FlipDots/assets/FlipDots-tw.png "Web FlipDots Motus Art")](https://owenmcateer.github.io/Motus-Art/FlipDots/)
-
-
 [![Motus Art](assets/img/website/MotusArt.jpg "Motus Art")](#motus-art)
 [![Project Aureole](assets/img/website/Project-Aureole.jpg "Project Aureole")](https://github.com/owenmcateer/Project-Aureole)
 [![Store](assets/img/website/Buy-prints.jpg "Buy Motus Art Prints")](https://motusart.redbubble.com/)
@@ -15,6 +12,9 @@ You can now purchase Motus Art designs on [Canvas prints](https://www.redbubble.
 Checkout the [Motus Art store](https://www.redbubble.com/people/motusart/shop).
 
 ## Latest work
+[**Plane boxes**][week115] [*(code)*][week115code]  
+[![Plane boxes](./assets/img/preview/week_115.png)][week115]
+
 [**School of fish**][week114] [*(code)*][week114code]  
 [![School of fish](./assets/img/preview/week_114.png)][week114]
 
@@ -27,11 +27,9 @@ Checkout the [Motus Art store](https://www.redbubble.com/people/motusart/shop).
 [**Dancing Cubes**][week111] [*(code)*][week111code]  
 [![Dancing Cubes](./assets/img/preview/week_111.png)][week111]
 
-[**Grid: Pins**][week110] [*(code)*][week110code]  
-[![Grid: Pins](./assets/img/preview/week_110.png)][week110]
-
 ## Full archive
 
+[![Plane boxes](./assets/img/preview/week_115.png)][week115]
 [![School of fish](./assets/img/preview/week_114.png)][week114]
 [![The Drop](./assets/img/preview/week_113.png)][week113]
 [![Pins & needless](./assets/img/preview/week_112.png)][week112]
@@ -394,3 +392,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [week113code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_113/main.js
 [week114]: https://owenmcateer.github.io/Motus-Art/projects/week_114.html
 [week114code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_114/main.js
+[week115]: https://owenmcateer.github.io/Motus-Art/projects/week_115.html
+[week115code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_115/main.js
