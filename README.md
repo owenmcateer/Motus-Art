@@ -12,6 +12,9 @@ You can now purchase Motus Art designs on [Canvas prints](https://www.redbubble.
 Checkout the [Motus Art store](https://www.redbubble.com/people/motusart/shop).
 
 ## Latest work
+[**The arista**][week116] [*(code)*][week116code]  
+[![The arista](./assets/img/preview/week_116.png)][week116]
+
 [**Plane boxes**][week115] [*(code)*][week115code]  
 [![Plane boxes](./assets/img/preview/week_115.png)][week115]
 
@@ -24,11 +27,9 @@ Checkout the [Motus Art store](https://www.redbubble.com/people/motusart/shop).
 [**Pins & needles**][week112] [*(code)*][week112code]  
 [![Pins & needles](./assets/img/preview/week_112.png)][week112]
 
-[**Dancing Cubes**][week111] [*(code)*][week111code]  
-[![Dancing Cubes](./assets/img/preview/week_111.png)][week111]
-
 ## Full archive
 
+[![The arista](./assets/img/preview/week_116.png)][week116]
 [![Plane boxes](./assets/img/preview/week_115.png)][week115]
 [![School of fish](./assets/img/preview/week_114.png)][week114]
 [![The Drop](./assets/img/preview/week_113.png)][week113]
@@ -394,3 +395,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [week114code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_114/main.js
 [week115]: https://owenmcateer.github.io/Motus-Art/projects/week_115.html
 [week115code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_115/main.js
+[week116]: https://owenmcateer.github.io/Motus-Art/projects/week_116.html
+[week116code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_116/main.js
