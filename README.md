@@ -8,10 +8,13 @@
 **Creative Coding and Generative art.**  
 https://www.instagram.com/motus_art/
 
-You can now purchase Motus Art designs on [Canvas prints](https://www.redbubble.com/people/motusart/shop?artistUserName=motusart&asc=u&iaCode=u-print-canvas), [Posters](https://www.redbubble.com/people/motusart/shop?artistUserName=motusart&asc=u&iaCode=u-print-poster), [Tees](https://www.redbubble.com/people/motusart/shop?artistUserName=motusart&asc=u&iaCode=u-clothing), [Notebooks](https://www.redbubble.com/people/motusart/shop?artistUserName=motusart&asc=u&iaCode=u-notebook-spiral) and [more](https://www.redbubble.com/people/motusart/shop).
+You can now purchase Motus Art designs on [Canvas prints](https://www.redbubble.com/people/motusart/shop?artistUserName=motusart&asc=u&iaCode=u-print-canvas), [Posters](https://www.redbubble.com/people/motusart/shop?artistUserName=motusart&asc=u&iaCode=u-print-poster), [T-Shirts](https://cottonbureau.com/people/owen-mcateer), [Notebooks](https://www.redbubble.com/people/motusart/shop?artistUserName=motusart&asc=u&iaCode=u-notebook-spiral) and [more](https://www.redbubble.com/people/motusart/shop).
 Checkout the [Motus Art store](https://www.redbubble.com/people/motusart/shop).
 
 ## Latest work
+[**Grids: Pentadecagon**][week117] [*(code)*][week117code]  
+[![Grids: Pentadecagon](./assets/img/preview/week_117.png)][week117]
+
 [**The arista**][week116] [*(code)*][week116code]  
 [![The arista](./assets/img/preview/week_116.png)][week116]
 
@@ -23,9 +26,6 @@ Checkout the [Motus Art store](https://www.redbubble.com/people/motusart/shop).
 
 [**The Drop**][week113] [*(code)*][week113code]  
 [![The Drop](./assets/img/preview/week_113.png)][week113]
-
-[**Pins & needles**][week112] [*(code)*][week112code]  
-[![Pins & needles](./assets/img/preview/week_112.png)][week112]
 
 ## Full archive
 
@@ -397,3 +397,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [week115code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_115/main.js
 [week116]: https://owenmcateer.github.io/Motus-Art/projects/week_116.html
 [week116code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_116/main.js
+[week117]: https://owenmcateer.github.io/Motus-Art/projects/week_117.html
+[week117code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_117/main.js
