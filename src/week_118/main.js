@@ -48,25 +48,10 @@ function draw() {
     pop();
   }
 
-
-
-  // Frame label
-  let frame = frameCount;
-  if (frame < 10) {
-    frame = `00${frame}`;
-  }
-  else if (frame < 100) {
-    frame = `0${frame}`;
-  }
-
-  // Uncomment when ready to render
-  // save(`seq-${frame}.png`);
-
   // Timer
   timer += speed;
   if (timer >= 4) {
     timer = 0;
-    noLoop();
   }
 }
 
