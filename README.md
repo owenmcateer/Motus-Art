@@ -12,6 +12,9 @@ You can now purchase Motus Art designs on [Canvas prints](https://www.redbubble.
 Checkout the [Motus Art store](https://www.redbubble.com/people/motusart/shop).
 
 ## Latest work
+[**Tides**][week120] [*(code)*][week120code]  
+[![Tides](./assets/img/preview/week_120.png)][week120]
+
 [**Spaced Order**][week119] [*(code)*][week119code]  
 [![Spaced Order](./assets/img/preview/week_119.png)][week119]
 
@@ -24,10 +27,9 @@ Checkout the [Motus Art store](https://www.redbubble.com/people/motusart/shop).
 [**The arista**][week116] [*(code)*][week116code]  
 [![The arista](./assets/img/preview/week_116.png)][week116]
 
-[**Plane boxes**][week115] [*(code)*][week115code]  
-[![Plane boxes](./assets/img/preview/week_115.png)][week115]
 
 ## Full archive
+[![Tides](./assets/img/preview/week_120.png)][week120]
 [![Spaced Order](./assets/img/preview/week_119.png)][week119]
 [![Twisted sequence](./assets/img/preview/week_118.png)][week118]
 [![Grids: Pentadecagon](./assets/img/preview/week_117.png)][week117]
@@ -405,3 +407,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [week118code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_118/main.js
 [week119]: https://owenmcateer.github.io/Motus-Art/projects/week_119.html
 [week119code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_119/main.js
+[week120]: https://owenmcateer.github.io/Motus-Art/projects/week_120.html
+[week120code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_120/main.js
