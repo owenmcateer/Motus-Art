@@ -12,6 +12,9 @@ You can now purchase Motus Art designs on [Canvas prints](https://www.redbubble.
 Checkout the [Motus Art store](https://www.redbubble.com/people/motusart/shop).
 
 ## Latest work
+[**Water Simulations**][waterSims] [*(code)*][waterSimsCode]  
+[![Water Simulations](./assets/img/preview/WaterSimulations.png)][waterSims]
+
 [**Tides**][week120] [*(code)*][week120code]  
 [![Tides](./assets/img/preview/week_120.png)][week120]
 
@@ -23,9 +26,6 @@ Checkout the [Motus Art store](https://www.redbubble.com/people/motusart/shop).
 
 [**Grids: Pentadecagon**][week117] [*(code)*][week117code]  
 [![Grids: Pentadecagon](./assets/img/preview/week_117.png)][week117]
-
-[**The arista**][week116] [*(code)*][week116code]  
-[![The arista](./assets/img/preview/week_116.png)][week116]
 
 
 ## Full archive
@@ -409,3 +409,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [week119code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_119/main.js
 [week120]: https://owenmcateer.github.io/Motus-Art/projects/week_120.html
 [week120code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_120/main.js
+[waterSims]: https://owenmcateer.github.io/Motus-Art/projects/water-simulations/1.SlideFall.html
+[waterSimsCode]: https://github.com/owenmcateer/Motus-Art/blob/master//projects/water-simulations/
+
