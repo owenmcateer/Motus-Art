@@ -45,7 +45,7 @@ Motus is an art project of coded motion and animation. Motus Art was created by 
 * [Newsletter](http://eepurl.com/dmntwP)
 * [GitHub](https://github.com/owenmcateer)
 * [Instagram](https://www.instagram.com/Motus_Art/)
-* [Twitter](https://twitter.com/omcateer)
+* [Twitter](https://twitter.com/motus_art)
 
 [day01]: https://owenmcateer.github.io/Motus-Art/projects/codevember/01.html
 [day01code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/codevember/01.js
