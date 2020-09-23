@@ -12,6 +12,9 @@ You can now purchase Motus Art designs on [Canvas prints](https://www.redbubble.
 Checkout the [Motus Art store](https://www.redbubble.com/people/motusart/shop).
 
 ## Latest work
+[**Infinite**][week122] [*(code)*][week122code]  
+[![Infinite](./assets/img/preview/week_122.png)][week122]
+
 [**Slates**][week121] [*(code)*][week121code]  
 [![Slates](./assets/img/preview/week_121.png)][week121]
 
@@ -24,11 +27,9 @@ Checkout the [Motus Art store](https://www.redbubble.com/people/motusart/shop).
 [**Spaced Order**][week119] [*(code)*][week119code]  
 [![Spaced Order](./assets/img/preview/week_119.png)][week119]
 
-[**Twisted sequence**][week118] [*(code)*][week118code]  
-[![Twisted sequence](./assets/img/preview/week_118.png)][week118]
-
 
 ## Full archive
+[![Infinite](./assets/img/preview/week_122.png)][week122]
 [![Slates](./assets/img/preview/week_121.png)][week121]
 [![Water Simulations](./assets/img/preview/WaterSimulations.png)][waterSims]
 [![Tides](./assets/img/preview/week_120.png)][week120]
@@ -415,4 +416,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [waterSimsCode]: https://github.com/owenmcateer/Motus-Art/blob/master//projects/water-simulations/
 [week121]: https://owenmcateer.github.io/Motus-Art/projects/week_121.html
 [week121code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_121/main.js
+[week122]: https://owenmcateer.github.io/Motus-Art/projects/week_122.html
+[week122code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_122/main.js
 
