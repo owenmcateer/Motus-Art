@@ -10,7 +10,7 @@ let tetrahedron;
 
 // Load model
 function preload() {
-  tetrahedron = loadModel('Tetrahedron.obj', true);
+  tetrahedron = loadModel('../src/week_123/Tetrahedron.obj', true);
 }
 
 
