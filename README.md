@@ -12,6 +12,9 @@ You can now purchase Motus Art designs on [Canvas prints](https://www.redbubble.
 Checkout the [Motus Art store](https://www.redbubble.com/people/motusart/shop).
 
 ## Latest work
+[**A way out of the Prefab World**][week124] [*(code)*][week124code]  
+[![A way out of the Prefab World](./assets/img/preview/week_124.png)][week124]
+
 [**Grids: Tetrahedrons**][week123] [*(code)*][week123code]  
 [![Grids: Tetrahedrons](./assets/img/preview/week_123.png)][week123]
 
@@ -24,11 +27,8 @@ Checkout the [Motus Art store](https://www.redbubble.com/people/motusart/shop).
 [**Water Simulations**][waterSims] [*(code)*][waterSimsCode]  
 [![Water Simulations](./assets/img/preview/WaterSimulations.png)][waterSims]
 
-[**Tides**][week120] [*(code)*][week120code]  
-[![Tides](./assets/img/preview/week_120.png)][week120]
-
-
 ## Full archive
+[![A way out of the Prefab World](./assets/img/preview/week_124.png)][week124]
 [![Grids: Tetrahedrons](./assets/img/preview/week_123.png)][week123]
 [![Infinite](./assets/img/preview/week_122.png)][week122]
 [![Slates](./assets/img/preview/week_121.png)][week121]
@@ -421,4 +421,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [week122code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_122/main.js
 [week123]: https://owenmcateer.github.io/Motus-Art/projects/week_123.html
 [week123code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_123/
+[week124]: https://owenmcateer.github.io/Motus-Art/projects/week_124.html
+[week124code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_124/
 
