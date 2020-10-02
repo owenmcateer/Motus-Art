@@ -1,6 +1,6 @@
 # Blender v2.83.4 OBJ File: ''
 # www.blender.org
-mtllib crystal-2.mtl
+mtllib crystal.mtl
 o Cylinder
 v 0.000000 -1.000000 -0.865214
 v 0.639934 -1.000000 -0.376086

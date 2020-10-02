@@ -11,7 +11,7 @@ let modelCrystal;
 
 // Preload
 function preload() {
-  modelCrystal = loadModel('../src/week_123/crystal.obj');
+  modelCrystal = loadModel('../src/week_124/crystal.obj');
 }
 
 
