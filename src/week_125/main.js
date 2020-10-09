@@ -92,26 +92,10 @@ function draw() {
   drawingContext.shadowBlur = 10;
   drawingContext.shadowColor = 'rgba(255, 255, 248, 0.5)';
 
-
-
-
-  // Frame label
-  let frame = frameCount;
-  if (frame < 10) {
-    frame = `00${frame}`;
-  }
-  else if (frame < 100) {
-    frame = `0${frame}`;
-  }
-
-  // Uncomment when ready to render
-  save(`seq-${frame}.png`);
-
   // Timer
   phase += speed;
   if (phase >= 1) {
     phase = 0;
-    noLoop();
   }
 }
 
