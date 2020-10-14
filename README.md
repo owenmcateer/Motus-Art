@@ -12,6 +12,9 @@ You can now purchase Motus Art designs on [Canvas prints](https://www.redbubble.
 Checkout the [Motus Art store](https://www.redbubble.com/people/motusart/shop).
 
 ## Latest work
+[**The passage**][week126] [*(code)*][week126code]  
+[![The passage](./assets/img/preview/week_126.png)][week126]
+
 [**The Eternal Descent**][week125] [*(code)*][week125code]  
 [![The Eternal Descent](./assets/img/preview/week_125.png)][week125]
 
@@ -24,10 +27,8 @@ Checkout the [Motus Art store](https://www.redbubble.com/people/motusart/shop).
 [**Infinite**][week122] [*(code)*][week122code]  
 [![Infinite](./assets/img/preview/week_122.png)][week122]
 
-[**Slates**][week121] [*(code)*][week121code]  
-[![Slates](./assets/img/preview/week_121.png)][week121]
-
 ## Full archive
+[![The passage](./assets/img/preview/week_126.png)][week126]
 [![The Eternal Descent](./assets/img/preview/week_125.png)][week125]
 [![A way out of the Prefab World](./assets/img/preview/week_124.png)][week124]
 [![Grids: Tetrahedrons](./assets/img/preview/week_123.png)][week123]
@@ -426,3 +427,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [week124code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_124/
 [week125]: https://owenmcateer.github.io/Motus-Art/projects/week_125.html
 [week125code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_125/main.js
+[week126]: https://owenmcateer.github.io/Motus-Art/projects/week_126.html
+[week126code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_126/main.js
