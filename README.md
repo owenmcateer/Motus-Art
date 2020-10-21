@@ -430,5 +430,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [week125code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_125/main.js
 [week126]: https://owenmcateer.github.io/Motus-Art/projects/week_126.html
 [week126code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_126/main.js
-[week126]: https://owenmcateer.github.io/Motus-Art/projects/week_126.html
-[week126code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_126/main.js
+[week127]: https://owenmcateer.github.io/Motus-Art/projects/week_127.html
+[week127code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_127/main.js
