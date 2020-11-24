@@ -12,6 +12,9 @@ You can now purchase Motus Art designs on [Canvas prints](https://www.redbubble.
 Checkout the [Motus Art store](https://www.redbubble.com/people/motusart/shop).
 
 ## Latest work
+[**Wave Machine**][week130] [*(code)*][week130code]  
+[![Wave Machine](./assets/img/preview/week_130.png)][week130]
+
 [**Ripple effect**][week129] [*(code)*][week129code]  
 [![Ripple effect](./assets/img/preview/week_129.png)][week129]
 
@@ -24,11 +27,9 @@ Checkout the [Motus Art store](https://www.redbubble.com/people/motusart/shop).
 [**The passage**][week126] [*(code)*][week126code]  
 [![The passage](./assets/img/preview/week_126.png)][week126]
 
-[**The Eternal Descent**][week125] [*(code)*][week125code]  
-[![The Eternal Descent](./assets/img/preview/week_125.png)][week125]
-
 
 ## Full archive
+[![Wave Machine](./assets/img/preview/week_130.png)][week130]
 [![Ripple effect](./assets/img/preview/week_129.png)][week129]
 [![Cube Labyrinth](./assets/img/preview/week_128.png)][week128]
 [![45° Random](./assets/img/preview/week_127.png)][week127]
@@ -439,3 +440,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [week128code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_128/main.js
 [week129]: https://owenmcateer.github.io/Motus-Art/projects/week_129.html
 [week129code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_129/main.js
+[week130]: https://owenmcateer.github.io/Motus-Art/projects/week_130.html
+[week130code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_130/main.js
