@@ -12,6 +12,9 @@ You can now purchase Motus Art designs on [Canvas prints](https://www.redbubble.
 Checkout the [Motus Art store](https://www.redbubble.com/people/motusart/shop).
 
 ## Latest work
+[**Broken Heart**][week133] [*(code)*][week133code]  
+[![Broken Heart](./assets/img/preview/week_133.png)][week133]
+
 [**Love of Colour**][week132] [*(code)*][week132code]  
 [![Love of Colour](./assets/img/preview/week_132.png)][week132]
 
@@ -24,10 +27,9 @@ Checkout the [Motus Art store](https://www.redbubble.com/people/motusart/shop).
 [**Ripple effect**][week129] [*(code)*][week129code]  
 [![Ripple effect](./assets/img/preview/week_129.png)][week129]
 
-[**Cube Labyrinth**][week128] [*(code)*][week128code]  
-[![Cube Labyrinth](./assets/img/preview/week_128.png)][week128]
 
 ## Full archive
+[![Broken Heart](./assets/img/preview/week_133.png)][week133]
 [![Love of Colour](./assets/img/preview/week_132.png)][week132]
 [![Tides Ellipses](./assets/img/preview/week_131.png)][week131]
 [![Wave Machine](./assets/img/preview/week_130.png)][week130]
@@ -447,3 +449,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [week131code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_131/main.js
 [week132]: https://owenmcateer.github.io/Motus-Art/projects/week_132.html
 [week132code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_132/main.js
+[week133]: https://owenmcateer.github.io/Motus-Art/projects/week_133.html
+[week133code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_133/main.js
