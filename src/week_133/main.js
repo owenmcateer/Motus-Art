@@ -1,3 +1,8 @@
+/**
+ * Motus: Broken Heart
+ *
+ * https://owenmcateer.github.io/Motus-Art
+ */
 const canvasSize = 540;
 const cx = canvasSize / 2;
 const numLines = 123;
