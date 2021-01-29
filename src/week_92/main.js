@@ -52,8 +52,6 @@ function draw() {
   timer += speed;
   if (timer >= PI) {
     timer = 0;
-    background('red');
-    noLoop();
   }
 }
 
