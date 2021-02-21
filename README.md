@@ -12,6 +12,9 @@ You can now purchase Motus Art designs on [Canvas prints](https://www.redbubble.
 Checkout the [Motus Art store](https://www.redbubble.com/people/motusart/shop).
 
 ## Latest work
+[**Polygonal Chain**][week137] [*(code)*][week137code]  
+[![Polygonal Chain](./assets/img/preview/week_137.png)][week137]
+
 [**Rotating & Flipping**][week136] [*(code)*][week136code]  
 [![Rotating & Flipping](./assets/img/preview/week_136.png)][week136]
 
@@ -24,11 +27,8 @@ Checkout the [Motus Art store](https://www.redbubble.com/people/motusart/shop).
 [**Broken Heart**][week133] [*(code)*][week133code]  
 [![Broken Heart](./assets/img/preview/week_133.png)][week133]
 
-[**Love of Colour**][week132] [*(code)*][week132code]  
-[![Love of Colour](./assets/img/preview/week_132.png)][week132]
-
-
 ## Full archive
+[![Polygonal Chain](./assets/img/preview/week_137.png)][week137]
 [![Rotating &amp; Flipping](./assets/img/preview/week_136.png)][week136]
 [![Pastel Rings](./assets/img/preview/week_135.png)][week135]
 [![Blips](./assets/img/preview/week_134.png)][week134]
@@ -460,3 +460,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [week135code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_135/main.js
 [week136]: https://owenmcateer.github.io/Motus-Art/projects/week_136.html
 [week136code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_136/main.js
+[week137]: https://owenmcateer.github.io/Motus-Art/projects/week_137.html
+[week137code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_137/main.js
