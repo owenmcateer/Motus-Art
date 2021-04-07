@@ -1,6 +1,5 @@
 /**
- * Motus: Counting-Pi
- * Pi Day 2021
+ * Motus: Crossed Wires
  */
 const canvasSize = 540;
 const s = 75;
