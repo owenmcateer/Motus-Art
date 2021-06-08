@@ -1,0 +1,83 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Motus Art: Blurry cubes</title>
+    <meta property="og:title" content="Motus Art: Blurry cubes" />
+    <meta property="og:image" content="https://owenmcateer.github.io/Motus-Art/assets/img/preview_full/week_142.png" />
+    <meta name="twitter:image:src" content="https://owenmcateer.github.io/Motus-Art/assets/img/preview_full/week_142.png" />
+    <meta property="og:url" content="https://owenmcateer.github.io/Motus-Art/projects/week_142.html" />
+    <meta property="og:video" content="https://owenmcateer.github.io/Motus-Art/assets/videos/Blurry-cubes.mp4" />
+    <meta property="og:video:secure_url" content="https://owenmcateer.github.io/Motus-Art/assets/videos/Blurry-cubes.mp4" />
+
+    <meta name="description" content="Motus Art: Weekly animated JavaScript art" />
+    <meta property="og:description" content="Motus Art: Weekly animated JavaScript art" />
+    <meta name="twitter:description" content="Motus Art: Weekly animated JavaScript art" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="1200" />
+    <meta property="og:video:type" content="video/mp4" />
+    <meta property="og:video:width" content="1080" />
+    <meta property="og:video:height" content="1080" />
+    <meta property="og:type" content="website" />
+    <meta name="author" content="Owen McAteer" />
+    <meta property="og:site_name" content="Motus Art" />
+    <meta name="twitter:site" content="@motus_art" />
+    <meta name="twitter:creator" content="@motus_art" />
+
+    <link rel="stylesheet" href="../assets/css/project.css">
+  </head>
+  <body>
+    <!--
+    ████████╗██╗  ██╗███████╗     ██████╗ ██████╗ ██████╗ ███████╗
+    ╚══██╔══╝██║  ██║██╔════╝    ██╔════╝██╔═══██╗██╔══██╗██╔════╝
+      ██║   ███████║█████╗      ██║     ██║   ██║██║  ██║█████╗
+      ██║   ██╔══██║██╔══╝      ██║     ██║   ██║██║  ██║██╔══╝
+      ██║   ██║  ██║███████╗    ╚██████╗╚██████╔╝██████╔╝███████╗
+      ╚═╝   ╚═╝  ╚═╝╚══════╝     ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝
+    -->
+    <div id="bnb"></div>
+
+    <script type="module">
+    async function loadCells(notebook, names) {
+      const [runtime, define] = await Promise.all([
+        import('https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js')
+          .then(module => new module.Runtime),
+        import('https://api.observablehq.com/' + notebook + '.js?v=3')
+          .then(module => module.default)
+      ]);
+      const main = runtime.module(define);
+      return Promise.all(names.map(name => main.value(name).then(v => [name, v])))
+        .then(arr => Object.fromEntries(arr));
+    }
+
+    (async function main() {
+      const bnbCell = await loadCells('@makio135/bnb', ['bnb']);
+      let {
+        bnb
+      } = bnbCell;
+      bnb = await bnb(options);
+      const div = document.querySelector('#bnb');
+      (async function draw() {
+        const res = await bnb.next().value;
+        if (res.tagName) {
+          div.innerHTML = '';
+          div.appendChild(res);
+          requestAnimationFrame(draw);
+        }
+      })(0);
+    })();
+    </script>
+    <script src="../src/week_141/main.js"></script>
+
+    <script src="../assets/js/projects.js"></script>
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-1241153-26', 'auto');
+      ga('send', 'pageview');
+    </script>
+  </body>
+</html>
