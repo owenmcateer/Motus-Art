@@ -12,6 +12,9 @@ You can now purchase Motus Art designs on [Canvas prints](https://www.redbubble.
 Checkout the [Motus Art store](https://www.redbubble.com/people/motusart/shop).
 
 ## Latest work
+[**Crosswork**][week143] [*(code)*][week143code]  
+[![Crosswork](./assets/img/preview/week_143.png)][week143]
+
 [**Blurry Cubes**][week142] [*(code)*][week142code]  
 [![Blurry Cubes](./assets/img/preview/week_142.png)][week142]
 
@@ -24,10 +27,8 @@ Checkout the [Motus Art store](https://www.redbubble.com/people/motusart/shop).
 [**Pi Day 2021**][week139] [*(code)*][week139code]  
 [![Pi Day 2021](./assets/img/preview/week_139.png)][week139]
 
-[**360**][week138] [*(code)*][week138code]  
-[![360](./assets/img/preview/week_138.png)][week138]
-
 ## Full archive
+[![Crosswork](./assets/img/preview/week_143.png)][week143]
 [![Blurry cubes](./assets/img/preview/week_142.png)][week142]
 [![Inner point](./assets/img/preview/week_141.png)][week141]
 [![Crossed wires](./assets/img/preview/week_140.png)][week140]
@@ -477,3 +478,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [week141code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_141/main.js
 [week142]: https://owenmcateer.github.io/Motus-Art/projects/week_142.html
 [week142code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_142/main.js
+[week143]: https://owenmcateer.github.io/Motus-Art/projects/week_143.html
+[week143code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_143/main.js
