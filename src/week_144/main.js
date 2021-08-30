@@ -26,7 +26,7 @@ let amplitude;
 // Preload audio
 function preload() {
   soundFormats('mp3');
-  soundtrack = loadSound('../assets/audio/Observant-Hattori_Hanzō-Natural_Selection');
+  soundtrack = loadSound('../assets/audio/Observant-Hattori_Hanzō-Natural_Selection');
 }
 
 

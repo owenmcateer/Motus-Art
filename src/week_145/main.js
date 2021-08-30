@@ -41,15 +41,6 @@ function setup() {
 function draw() {
   background(39);
 
-  // Click to play text
-  if (frameCount === 1) {
-    fill(255);
-    textSize(40);
-    textAlign(CENTER, CENTER);
-    text('Click to play', width / 2, 80);
-    noLoop();
-  }
-
   // Styling
   stroke(239);
   strokeWeight(3);
@@ -97,12 +88,4 @@ function draw() {
 // Easing
 function easeInOutSine(t, b, c, d) {
   return -c / 2 * (Math.cos(Math.PI * t / d) - 1) + b;
-}
-
-// On click. Plays music first time
-function mouseReleased() {
-  if (frameCount === 1) {
-    loop();
-    music.play();
-  }
 }
