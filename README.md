@@ -12,6 +12,9 @@ You can now purchase Motus Art designs on [Canvas prints](https://www.redbubble.
 Checkout the [Motus Art store](https://www.redbubble.com/people/motusart/shop).
 
 ## Latest work
+[**Rotating & Flipping (Audio reactive)**][week145] [*(code)*][week145code]  
+[![Rotating & Flipping (Audio reactive)](./assets/img/preview/week_136.png)][week145]
+
 [**Wormhole (Audio reactive)**][week144] [*(code)*][week144code]  
 [![Wormhole (Audio reactive)](./assets/img/preview/week_103.png)][week144]
 
@@ -485,3 +488,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [week143code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_143/main.js
 [week144]: https://owenmcateer.github.io/Motus-Art/projects/week_144.html
 [week144code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_144/main.js
+[week145]: https://owenmcateer.github.io/Motus-Art/projects/week_145.html
+[week145code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_145/main.js
