@@ -12,6 +12,9 @@ You can now purchase Motus Art designs on [Canvas prints](https://www.redbubble.
 Checkout the [Motus Art store](https://www.redbubble.com/people/motusart/shop).
 
 ## Latest work
+[**Marching planes**][week146] [*(code)*][week146code]  
+[![Marching planes)](./assets/img/preview/week_146.png)][week146]
+
 [**Rotating & Flipping (Audio reactive)**][week145] [*(code)*][week145code]  
 [![Rotating & Flipping (Audio reactive)](./assets/img/preview/week_136.png)][week145]
 
@@ -24,16 +27,10 @@ Checkout the [Motus Art store](https://www.redbubble.com/people/motusart/shop).
 [**Blurry Cubes**][week142] [*(code)*][week142code]  
 [![Blurry Cubes](./assets/img/preview/week_142.png)][week142]
 
-[**Inner point**][week141] [*(code)*][week141code]  
-[![Inner point](./assets/img/preview/week_141.png)][week141]
-
-[**Crossed Wires**][week140] [*(code)*][week140code]  
-[![Crossed Wires](./assets/img/preview/week_140.png)][week140]
-
-[**Pi Day 2021**][week139] [*(code)*][week139code]  
-[![Pi Day 2021](./assets/img/preview/week_139.png)][week139]
-
 ## Full archive
+[![Marching planes](./assets/img/preview/week_146.png)][week146]
+[![Rotating & Flipping (Audio reactive)](./assets/img/preview/week_136.png)][week145]
+[![Wormhole (Audio reactive)](./assets/img/preview/week_103.png)][week144]
 [![Crosswork](./assets/img/preview/week_143.png)][week143]
 [![Blurry cubes](./assets/img/preview/week_142.png)][week142]
 [![Inner point](./assets/img/preview/week_141.png)][week141]
@@ -490,3 +487,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [week144code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_144/main.js
 [week145]: https://owenmcateer.github.io/Motus-Art/projects/week_145.html
 [week145code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_145/main.js
+[week146]: https://owenmcateer.github.io/Motus-Art/projects/week_146.html
+[week146code]: https://github.com/owenmcateer/Motus-Art/tree/master/src/week_146
