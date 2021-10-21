@@ -11,6 +11,14 @@ https://www.instagram.com/motus_art/
 You can now purchase Motus Art designs on [Canvas prints](https://www.redbubble.com/people/motusart/shop?artistUserName=motusart&asc=u&iaCode=u-print-canvas), [Posters](https://www.redbubble.com/people/motusart/shop?artistUserName=motusart&asc=u&iaCode=u-print-poster), [T-Shirts](https://cottonbureau.com/people/owen-mcateer), [Notebooks](https://www.redbubble.com/people/motusart/shop?artistUserName=motusart&asc=u&iaCode=u-notebook-spiral) and [more](https://www.redbubble.com/people/motusart/shop).
 Checkout the [Motus Art store](https://www.redbubble.com/people/motusart/shop).
 
+
+## Your 10 PRINT
+To celebrate Motus Art getting 10,000 followers on Instagram, I created a little App for you to create your own unique piece of generative art based on the classic 10 PRINT algorithm.
+
+[**Your 10 PRINT**][your10print]  
+[![Your 10 PRINT)](./assets/img/preview/your10print.png)][your10print]
+
+
 ## Latest work
 [**Marching planes**][week146] [*(code)*][week146code]  
 [![Marching planes)](./assets/img/preview/week_146.png)][week146]
@@ -489,3 +497,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [week145code]: https://github.com/owenmcateer/Motus-Art/blob/master/src/week_145/main.js
 [week146]: https://owenmcateer.github.io/Motus-Art/projects/week_146.html
 [week146code]: https://github.com/owenmcateer/Motus-Art/tree/master/src/week_146
+[your10print]: https://owenmcateer.github.io/Motus-Art/projects/your10print.html
