@@ -8,6 +8,7 @@
     <meta property="og:image" content="https://owenmcateer.github.io/Motus-Art/assets/img/preview_full/your10print.png" />
     <meta name="twitter:image:src" content="https://owenmcateer.github.io/Motus-Art/assets/img/preview_full/your10print.png" />
     <meta property="og:url" content="https://owenmcateer.github.io/Motus-Art/projects/your10print.html" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <meta name="description" content="Motus Art: Weekly animated JavaScript art" />
     <meta property="og:description" content="Motus Art: Weekly animated JavaScript art" />
@@ -34,7 +35,10 @@
         background-size: cover;
         overflow: auto;
       }
-
+      canvas {
+        max-width: 100%;
+        height: auto!important;
+      }
       .parent {
         min-height: 100vh;
         display: flex;
