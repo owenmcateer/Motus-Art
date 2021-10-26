@@ -20,6 +20,9 @@ To celebrate Motus Art getting 10,000 followers on Instagram, I created a littl
 
 
 ## Latest work
+[**Entity Globe**][week147] [*(code)*][week147code]  
+[![Entity Globe)](./assets/img/preview/week_147.png)][week147]
+
 [**Marching planes**][week146] [*(code)*][week146code]  
 [![Marching planes)](./assets/img/preview/week_146.png)][week146]
 
@@ -31,9 +34,6 @@ To celebrate Motus Art getting 10,000 followers on Instagram, I created a littl
 
 [**Crosswork**][week143] [*(code)*][week143code]  
 [![Crosswork](./assets/img/preview/week_143.png)][week143]
-
-[**Blurry Cubes**][week142] [*(code)*][week142code]  
-[![Blurry Cubes](./assets/img/preview/week_142.png)][week142]
 
 ## Full archive
 [![Marching planes](./assets/img/preview/week_146.png)][week146]
@@ -498,3 +498,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [week146]: https://owenmcateer.github.io/Motus-Art/projects/week_146.html
 [week146code]: https://github.com/owenmcateer/Motus-Art/tree/master/src/week_146
 [your10print]: https://owenmcateer.github.io/Motus-Art/projects/your10print.html
+[week147]: https://owenmcateer.github.io/Motus-Art/projects/week_147.html
+[week147code]: https://github.com/owenmcateer/Motus-Art/tree/master/src/week_147
