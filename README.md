@@ -20,6 +20,9 @@ To celebrate Motus Art getting 10,000 followers on Instagram, I created a littl
 
 
 ## Latest work
+[**Cobweb Frosting**][week148] [*(code)*][week148code]  
+[![Cobweb Frosting)](./assets/img/preview/week_148.png)][week148]
+
 [**Entity Globe**][week147] [*(code)*][week147code]  
 [![Entity Globe)](./assets/img/preview/week_147.png)][week147]
 
@@ -32,10 +35,9 @@ To celebrate Motus Art getting 10,000 followers on Instagram, I created a littl
 [**Wormhole (Audio reactive)**][week144] [*(code)*][week144code]  
 [![Wormhole (Audio reactive)](./assets/img/preview/week_103.png)][week144]
 
-[**Crosswork**][week143] [*(code)*][week143code]  
-[![Crosswork](./assets/img/preview/week_143.png)][week143]
-
 ## Full archive
+[![Cobweb Frosting](./assets/img/preview/week_148.png)][week148]
+[![Entity Globe](./assets/img/preview/week_147.png)][week147]
 [![Marching planes](./assets/img/preview/week_146.png)][week146]
 [![Rotating & Flipping (Audio reactive)](./assets/img/preview/week_136.png)][week145]
 [![Wormhole (Audio reactive)](./assets/img/preview/week_103.png)][week144]
@@ -500,3 +502,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [your10print]: https://owenmcateer.github.io/Motus-Art/projects/your10print.html
 [week147]: https://owenmcateer.github.io/Motus-Art/projects/week_147.html
 [week147code]: https://github.com/owenmcateer/Motus-Art/tree/master/src/week_147
+[week148]: https://owenmcateer.github.io/Motus-Art/projects/week_148.html
+[week148code]: https://github.com/owenmcateer/Motus-Art/tree/master/src/week_148
