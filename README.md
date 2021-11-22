@@ -20,6 +20,9 @@ To celebrate Motus Art getting 10,000 followers on Instagram, I created a littl
 
 
 ## Latest work
+[**Packed Circles**][week150] [*(code)*][week150code]  
+[![Packed Circles)](./assets/img/preview/week_150.png)][week150]
+
 [**A loud GIF**][week149] [*(code)*][week149code]  
 [![A loud GIF)](./assets/img/preview/week_149.png)][week149]
 
@@ -32,10 +35,8 @@ To celebrate Motus Art getting 10,000 followers on Instagram, I created a littl
 [**Marching planes**][week146] [*(code)*][week146code]  
 [![Marching planes)](./assets/img/preview/week_146.png)][week146]
 
-[**Rotating & Flipping (Audio reactive)**][week145] [*(code)*][week145code]  
-[![Rotating & Flipping (Audio reactive)](./assets/img/preview/week_136.png)][week145]
-
 ## Full archive
+[![Packed Circles](./assets/img/preview/week_150.png)][week150]
 [![A loud GIF](./assets/img/preview/week_149.png)][week149]
 [![Cobweb Frosting](./assets/img/preview/week_148.png)][week148]
 [![Entity Globe](./assets/img/preview/week_147.png)][week147]
@@ -507,3 +508,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [week148code]: https://github.com/owenmcateer/Motus-Art/tree/master/src/week_148/main.js
 [week149]: https://owenmcateer.github.io/Motus-Art/projects/week_149.html
 [week149code]: https://github.com/owenmcateer/Motus-Art/tree/master/src/week_149/main.js
+[week150]: https://owenmcateer.github.io/Motus-Art/projects/week_150.html
+[week150code]: https://github.com/owenmcateer/Motus-Art/tree/master/src/week_150/
