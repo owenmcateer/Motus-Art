@@ -1,3 +1,7 @@
+/**
+ * Motus: Packed Circles
+ * https://owenmcateer.github.io/Motus-Art
+ */
 const canvasSize = 540;
 const gridCount = 14;
 const elements = [];
