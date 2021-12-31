@@ -20,6 +20,9 @@ To celebrate Motus Art getting 10,000 followers on Instagram, I created a littl
 
 
 ## Latest work
+[**Reactor core**][week152] [*(code)*][week152code]  
+[![Reactor core)](./assets/img/preview/week_152.png)][week152]
+
 [**Null Spaces**][week151] [*(code)*][week151code]  
 [![Null Spaces)](./assets/img/preview/week_151.png)][week151]
 
@@ -32,10 +35,8 @@ To celebrate Motus Art getting 10,000 followers on Instagram, I created a littl
 [**Cobweb Frosting**][week148] [*(code)*][week148code]  
 [![Cobweb Frosting)](./assets/img/preview/week_148.png)][week148]
 
-[**Entity Globe**][week147] [*(code)*][week147code]  
-[![Entity Globe)](./assets/img/preview/week_147.png)][week147]
-
 ## Full archive
+[![Reactor core](./assets/img/preview/week_152.png)][week152]
 [![Null Spaces](./assets/img/preview/week_151.png)][week151]
 [![Packed Circles](./assets/img/preview/week_150.png)][week150]
 [![A loud GIF](./assets/img/preview/week_149.png)][week149]
@@ -513,3 +514,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [week150code]: https://github.com/owenmcateer/Motus-Art/tree/master/src/week_150/
 [week151]: https://owenmcateer.github.io/Motus-Art/projects/week_151.html
 [week151code]: https://github.com/owenmcateer/Motus-Art/tree/master/src/week_151/main.js
+[week152]: https://owenmcateer.github.io/Motus-Art/projects/week_152.html
+[week152code]: https://github.com/owenmcateer/Motus-Art/tree/master/src/week_152/main.js
