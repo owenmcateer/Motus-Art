@@ -24,6 +24,7 @@ To celebrate Motus Art getting 10,000 followers on Instagram, I created a littl
 ### Genuary 2022
 - [**Day 1: Draw 10,000 of something**](https://owenmcateer.github.io/Motus-Art/projects/genuary2022/day1.html)
 - [**Day 2: Dithering**](https://owenmcateer.github.io/Motus-Art/projects/genuary2022/day2.html)
+- [**Day 3: Space**](https://owenmcateer.github.io/Motus-Art/projects/genuary2022/day3.html)
 
 
 [**Reactor core**][week152] [*(code)*][week152code]  
