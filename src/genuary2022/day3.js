@@ -2,7 +2,6 @@
  * Genuary Day 3
  * "Space"
  *
- * Click to destroy.
  * @motus_art
  */
 const planets = [
