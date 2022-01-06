@@ -12,7 +12,7 @@ let particles = [];
 
 const canvasSize = 540;
 const resolution = 200;
-const scale = canvasSize / resolution;
+const scale = (canvasSize / resolution) + 1;
 
 
 function setup() {
