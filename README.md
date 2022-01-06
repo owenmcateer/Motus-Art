@@ -26,6 +26,7 @@ To celebrate Motus Art getting 10,000 followers on Instagram, I created a littl
 - [Day 2: Dithering](https://owenmcateer.github.io/Motus-Art/projects/genuary2022/day2.html)
 - [Day 3: Space](https://owenmcateer.github.io/Motus-Art/projects/genuary2022/day3.html)
 - [Day 4: The next next Fidenza](https://owenmcateer.github.io/Motus-Art/projects/genuary2022/day4.html)
+- [Day 5: Destroy a square](https://owenmcateer.github.io/Motus-Art/projects/genuary2022/day5.html)
 
 
 [**Reactor core**][week152] [*(code)*][week152code]  
