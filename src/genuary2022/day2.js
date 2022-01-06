@@ -26,7 +26,6 @@ function setup() {
 
 function draw() {
   background(39);
-  noStroke();
 
   // Scale webcam feed
   newImg = createGraphics(resolution, resolution);
@@ -53,8 +52,6 @@ function draw() {
   }
 
   // Render pixels
-  fill(239);
-  noStroke();
   particles.forEach((p) => {
     p.render();
   });

@@ -18,6 +18,8 @@ class Particle {
   }
 
   render() {
+    fill(239);
+    stroke(239);
     rect(this.x, this.y, scale, scale);
   }
 }
