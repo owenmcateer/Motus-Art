@@ -21,7 +21,7 @@ const noiseSpeed = 0.1;
 
 
 function setup() {
-  createCanvas(540, 540);
+  createCanvas(canvasSize, canvasSize);
   rectMode(CENTER);
 }
 
