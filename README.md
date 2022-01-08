@@ -28,6 +28,7 @@ To celebrate Motus Art getting 10,000 followers on Instagram, I created a littl
 - [Day 4: The next next Fidenza](https://owenmcateer.github.io/Motus-Art/projects/genuary2022/day4.html)
 - [Day 5: Destroy a square](https://owenmcateer.github.io/Motus-Art/projects/genuary2022/day5.html)
 - [Day 6: Trade styles with a friend](https://owenmcateer.github.io/Motus-Art/projects/genuary2022/day6.html)
+- [Day 7: Sol LeWitt Wall Drawing](https://owenmcateer.github.io/Motus-Art/projects/genuary2022/day7.html)
 
 
 [**Reactor core**][week152] [*(code)*][week152code]  
