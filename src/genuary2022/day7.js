@@ -3,7 +3,6 @@
  * "Sol LeWitt Wall Drawing"
  *
  * @motus_art
- *
  */
 const numOfPoints = 12;
 const markers = [];
