@@ -31,6 +31,7 @@ To celebrate Motus Art getting 10,000 followers on Instagram, I created a littl
 - [Day 7: Sol LeWitt Wall Drawing](https://owenmcateer.github.io/Motus-Art/projects/genuary2022/day7.html)
 - [Day 8: Single curve only](https://twitter.com/motus_art/status/1479781119348416512)
 - [Day 9: Architecture](https://owenmcateer.github.io/Motus-Art/projects/genuary2022/day9.html)
+- [Day 10: Machine learning, wrong answers only.](https://twitter.com/motus_art/status/1480564624676298760)
 
 
 [**Reactor core**][week152] [*(code)*][week152code]  
