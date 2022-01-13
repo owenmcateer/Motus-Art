@@ -1,3 +1,9 @@
+/**
+ * Genuary Day 9
+ * "800x80"
+ *
+ * @motus_art
+ */
 const magicAngle = Math.atan(1 / Math.sqrt(2));
 const planeSize = 120;
 const numOfPlanes = 80;
