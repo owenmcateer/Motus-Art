@@ -35,6 +35,7 @@ To celebrate Motus Art getting 10,000 followers on Instagram, I created a littl
 - [Day 11: No computer.](https://twitter.com/motus_art/status/1480942513867403265)
 - [Day 12: Packing](https://owenmcateer.github.io/Motus-Art/projects/genuary2022/day12.html)
 - [Day 13: 800x80](https://owenmcateer.github.io/Motus-Art/projects/genuary2022/day13.html)
+- [Day 14: Something you’d never make.](https://twitter.com/motus_art/status/1482028562811179021)
 
 
 [**Reactor core**][week152] [*(code)*][week152code]  
