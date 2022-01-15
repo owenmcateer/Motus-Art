@@ -31,11 +31,12 @@ To celebrate Motus Art getting 10,000 followers on Instagram, I created a littl
 - [Day 7: Sol LeWitt Wall Drawing](https://owenmcateer.github.io/Motus-Art/projects/genuary2022/day7.html)
 - [Day 8: Single curve only](https://twitter.com/motus_art/status/1479781119348416512)
 - [Day 9: Architecture](https://owenmcateer.github.io/Motus-Art/projects/genuary2022/day9.html)
-- [Day 10: Machine learning, wrong answers only.](https://twitter.com/motus_art/status/1480564624676298760)
-- [Day 11: No computer.](https://twitter.com/motus_art/status/1480942513867403265)
+- [Day 10: Machine learning, wrong answers only](https://twitter.com/motus_art/status/1480564624676298760)
+- [Day 11: No computer](https://twitter.com/motus_art/status/1480942513867403265)
 - [Day 12: Packing](https://owenmcateer.github.io/Motus-Art/projects/genuary2022/day12.html)
 - [Day 13: 800x80](https://owenmcateer.github.io/Motus-Art/projects/genuary2022/day13.html)
-- [Day 14: Something you’d never make.](https://twitter.com/motus_art/status/1482028562811179021)
+- [Day 14: Something you’d never make](https://twitter.com/motus_art/status/1482028562811179021)
+- [Day 15: Sand](https://owenmcateer.github.io/Motus-Art/projects/genuary2022/day15.html)
 
 
 [**Reactor core**][week152] [*(code)*][week152code]  
