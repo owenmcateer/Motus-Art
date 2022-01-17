@@ -37,7 +37,7 @@ To celebrate Motus Art getting 10,000 followers on Instagram, I created a littl
 - [Day 13: 800x80](https://owenmcateer.github.io/Motus-Art/projects/genuary2022/day13.html)
 - [Day 14: Something you’d never make](https://twitter.com/motus_art/status/1482028562811179021)
 - [Day 15: Sand](https://owenmcateer.github.io/Motus-Art/projects/genuary2022/day15.html)
-
+- [Day 16: Color gradients gone wrong](https://www.shadertoy.com/view/7dscRB)
 
 [**Reactor core**][week152] [*(code)*][week152code]  
 [![Reactor core)](./assets/img/preview/week_152.png)][week152]
