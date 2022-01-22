@@ -42,7 +42,8 @@ To celebrate Motus Art getting 10,000 followers on Instagram, I created a littl
 - [Day 18: VHS](https://twitter.com/motus_art/status/1483454872913592324)
 - [Day 19: Use text/typography](https://twitter.com/motus_art/status/1483814508145610757)
 - [Day 20: Make a sea of shapes](https://owenmcateer.github.io/Motus-Art/projects/genuary2022/day20.html)
-- [Day 21: Combine two previous days](https://owenmcateer.github.io/Motus-Art/projects/genuary2022/day20.html)
+- [Day 21: Combine two previous days](https://owenmcateer.github.io/Motus-Art/projects/genuary2022/day21.html)
+- [Day 22: Make something that will look completely different in a year](https://owenmcateer.github.io/Motus-Art/projects/genuary2022/day22.html)
 
 
 [**Reactor core**][week152] [*(code)*][week152code]  
