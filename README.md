@@ -46,7 +46,7 @@ To celebrate Motus Art getting 10,000 followers on Instagram, I created a littl
 - [Day 22: Make something that will look completely different in a year](https://owenmcateer.github.io/Motus-Art/projects/genuary2022/day22.html)
 - [Day 23: Abstract vegetation](https://owenmcateer.github.io/Motus-Art/projects/genuary2022/day23.html)
 - [Day 24: Create your own pseudo-random number generator and visually check the results](https://twitter.com/motus_art/status/1485655658125004810)
-- [Day 25: Perspective](https://twitter.com/motus_art/status/1485993110110879749)
+- [Day 25: Perspective](https://owenmcateer.github.io/Motus-Art/projects/genuary2022/day25.html)
 - [Day 26: Airport carpet](https://owenmcateer.github.io/Motus-Art/projects/genuary2022/day26.html)
 
 

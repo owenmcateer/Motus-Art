@@ -1,3 +1,9 @@
+/**
+ * Genuary Day 26
+ * "Airport carpet."
+ *
+ * @motus_art
+ */
 const canvasSize = 540;
 let cellCount;
 let cellSize;
