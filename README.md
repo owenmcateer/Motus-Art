@@ -50,6 +50,7 @@ To celebrate Motus Art getting 10,000 followers on Instagram, I created a littl
 - [Day 26: Airport carpet](https://owenmcateer.github.io/Motus-Art/projects/genuary2022/day26.html)
 - [Day 27: #2E294E #541388 #F1E9DA #FFD400 #D90368](https://www.shadertoy.com/view/sd2yzw)
 - [Day 28: Self portrait](https://twitter.com/motus_art/status/1487077336415617024)
+- [Day 29: Isometric perspective](https://owenmcateer.github.io/Motus-Art/projects/genuary2022/day29.html)
 
 
 [**Reactor core**][week152] [*(code)*][week152code]  
