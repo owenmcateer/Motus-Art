@@ -3,8 +3,7 @@
  * "Abstract vegetation."
  *
  * @motus_art
- */
-/**
+ *
  * Motus: Isometric fall
  * https://owenmcateer.github.io/Motus-Art
  */
