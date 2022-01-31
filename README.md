@@ -52,6 +52,7 @@ To celebrate Motus Art getting 10,000 followers on Instagram, I created a littl
 - [Day 28: Self portrait](https://twitter.com/motus_art/status/1487077336415617024)
 - [Day 29: Isometric perspective](https://owenmcateer.github.io/Motus-Art/projects/genuary2022/day29.html)
 - [Day 30: Organic looking output using only rectangular shapes](https://owenmcateer.github.io/Motus-Art/projects/genuary2022/day30.html)
+- [Day 31: Negative space](https://owenmcateer.github.io/Motus-Art/projects/genuary2022/day31.html)
 
 
 [**Reactor core**][week152] [*(code)*][week152code]  
