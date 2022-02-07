@@ -7,13 +7,11 @@ const grid = 11;
 const s = canvasSize / (grid + 2);
 let timer = 0;
 const speed = 0.01;
-const half = grid / 2;
 
 // Setup
 function setup() {
   createCanvas(540, 540, WEBGL);
 }
-
 
 // Render tick
 function draw() {
@@ -40,7 +38,6 @@ function draw() {
   timer += speed;
   if (timer >= TWO_PI) {
     timer = 0;
-    noLoop();
   }
 }
 
