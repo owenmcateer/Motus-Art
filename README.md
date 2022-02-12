@@ -13,7 +13,7 @@ Checkout the [Motus Art store](https://www.redbubble.com/people/motusart/shop).
 
 
 ## Latest work
-[Genuary 2022](https://github.com/owenmcateer/Motus-Art/blob/master/GENUARY2022.md)
+[Genuary 2022](https://github.com/owenmcateer/Motus-Art/blob/master/GENUARY.md)
 
 [**Reactor core**][week152] [*(code)*][week152code]  
 [![Reactor core)](./assets/img/preview/week_152.png)][week152]
