@@ -13,10 +13,13 @@ Checkout the [Motus Art store](https://www.redbubble.com/people/motusart/shop).
 
 
 ## Latest work
-[Genuary 2022](https://github.com/owenmcateer/Motus-Art/blob/master/GENUARY.md)
+[**Cyclone**][week154] [*(code)*][week154code]  
+[![Cyclone)](./assets/img/preview/week_154.png)][week154]
 
 [**Night ocean**][week153] [*(code)*][week153code]  
-[![RNight ocean)](./assets/img/preview/week_153.png)][week153]
+[![Night ocean)](./assets/img/preview/week_153.png)][week153]
+
+[Genuary 2022](https://github.com/owenmcateer/Motus-Art/blob/master/GENUARY.md)
 
 [**Reactor core**][week152] [*(code)*][week152code]  
 [![Reactor core)](./assets/img/preview/week_152.png)][week152]
@@ -31,6 +34,7 @@ Checkout the [Motus Art store](https://www.redbubble.com/people/motusart/shop).
 [![A loud GIF)](./assets/img/preview/week_149.png)][week149]
 
 ## Full archive
+[![Cyclone](./assets/img/preview/week_154.png)][week154]
 [![Night ocean](./assets/img/preview/week_153.png)][week153]
 [![Reactor core](./assets/img/preview/week_152.png)][week152]
 [![Null Spaces](./assets/img/preview/week_151.png)][week151]
@@ -514,3 +518,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [week152code]: https://github.com/owenmcateer/Motus-Art/tree/master/src/week_152/main.js
 [week153]: https://owenmcateer.github.io/Motus-Art/projects/week_153.html
 [week153code]: https://github.com/owenmcateer/Motus-Art/tree/master/src/week_153/main.js
+[week154]: https://owenmcateer.github.io/Motus-Art/projects/week_154.html
+[week154code]: https://github.com/owenmcateer/Motus-Art/tree/master/src/week_154/main.js
