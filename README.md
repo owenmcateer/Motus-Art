@@ -29,7 +29,7 @@ Checkout the [Motus Art store](https://www.redbubble.com/people/motusart/shop).
 
 
 ## Full archive
-[![Pi Day 2022](./assets/img/preview/week_154.png)][week154]
+[![Pi Day 2022](./assets/img/preview/week_155.png)][week155]
 [![Cyclone](./assets/img/preview/week_154.png)][week154]
 [![Night ocean](./assets/img/preview/week_153.png)][week153]
 [![Reactor core](./assets/img/preview/week_152.png)][week152]
