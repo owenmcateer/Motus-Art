@@ -13,6 +13,9 @@ Checkout the [Motus Art store](https://www.redbubble.com/people/motusart/shop).
 
 
 ## Latest work
+[**Ripples**][week156] [*(code)*][week156code]  
+[![Ripples)](./assets/img/preview/week_156.png)][week156]
+
 [**Pi Day 2022**][week155] [*(code)*][week155code]  
 [![Pi Day 2022)](./assets/img/preview/week_155.png)][week155]
 
@@ -24,11 +27,9 @@ Checkout the [Motus Art store](https://www.redbubble.com/people/motusart/shop).
 
 [Genuary 2022](https://github.com/owenmcateer/Motus-Art/blob/master/GENUARY.md)
 
-[**Reactor core**][week152] [*(code)*][week152code]  
-[![Reactor core)](./assets/img/preview/week_152.png)][week152]
-
 
 ## Full archive
+[![Ripples](./assets/img/preview/week_156.png)][week156]
 [![Pi Day 2022](./assets/img/preview/week_155.png)][week155]
 [![Cyclone](./assets/img/preview/week_154.png)][week154]
 [![Night ocean](./assets/img/preview/week_153.png)][week153]
@@ -518,3 +519,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [week154code]: https://github.com/owenmcateer/Motus-Art/tree/master/src/week_154/main.js
 [week155]: https://owenmcateer.github.io/Motus-Art/projects/week_155.html
 [week155code]: https://github.com/owenmcateer/Motus-Art/tree/master/src/week_155/main.js
+[week156]: https://owenmcateer.github.io/Motus-Art/projects/week_156.html
+[week156code]: https://github.com/owenmcateer/Motus-Art/tree/master/src/week_156/main.js
