@@ -1,5 +1,5 @@
 /**
- * Motus: Pi Day 2022
+ * Motus: Ripples
  * https://owenmcateer.github.io/Motus-Art
  */
 let t = 0;
