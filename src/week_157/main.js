@@ -10,8 +10,8 @@ const numOfBlocks = 11;
 function setup() {
   createCanvas(540, 540, WEBGL);
   pixelDensity(2);
-  frameRate(6);
 }
+
 
 // draw tick
 function draw() {
