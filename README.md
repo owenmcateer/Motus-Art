@@ -13,6 +13,9 @@ Checkout the [Motus Art store](https://www.redbubble.com/people/motusart/shop).
 
 
 ## Latest work
+[**Square tunnel**][week159] [*(code)*][week159code]  
+[![Square tunnel)](./assets/img/preview/week_159.png)][week159]
+
 [**Scaling Tower**][week158] [*(code)*][week158code]  
 [![Scaling Tower)](./assets/img/preview/week_158.png)][week158]
 
@@ -32,6 +35,7 @@ Checkout the [Motus Art store](https://www.redbubble.com/people/motusart/shop).
 
 
 ## Full archive
+[![Square tunnel](./assets/img/preview/week_159.png)][week159]
 [![Scaling Tower](./assets/img/preview/week_158.png)][week158]
 [![Rotating stack](./assets/img/preview/week_157.png)][week157]
 [![Ripples](./assets/img/preview/week_156.png)][week156]
