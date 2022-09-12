@@ -13,6 +13,9 @@ Checkout the [Motus Art store](https://www.redbubble.com/people/motusart/shop).
 
 
 ## Latest work
+[**500k lines**][week162] [*(code)*][week162code]  
+[![500k lines)](./assets/img/preview/week_162.png)][week162]
+
 [**Ripple angles**][week161] [*(code)*][week161code]  
 [![Ripple angles)](./assets/img/preview/week_161.png)][week161]
 
@@ -25,11 +28,9 @@ Checkout the [Motus Art store](https://www.redbubble.com/people/motusart/shop).
 [**Scaling Tower**][week158] [*(code)*][week158code]  
 [![Scaling Tower)](./assets/img/preview/week_158.png)][week158]
 
-[**Rotating stack**][week157] [*(code)*][week157code]  
-[![Rotating stack)](./assets/img/preview/week_157.png)][week157]
-
 
 ## Full archive
+[![500k lines](./assets/img/preview/week_162.png)][week162]
 [![Ripple angles](./assets/img/preview/week_161.png)][week161]
 [![Cubed](./assets/img/preview/week_160.png)][week160]
 [![Square tunnel](./assets/img/preview/week_159.png)][week159]
@@ -534,3 +535,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [week160code]: https://github.com/owenmcateer/Motus-Art/tree/master/src/week_160/main.js
 [week161]: https://owenmcateer.github.io/Motus-Art/projects/week_161.html
 [week161code]: https://github.com/owenmcateer/Motus-Art/tree/master/src/week_161/main.js
+[week162]: https://owenmcateer.github.io/Motus-Art/projects/week_162.html
+[week162code]: https://github.com/owenmcateer/Motus-Art/tree/master/src/week_162/main.js
