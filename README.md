@@ -13,6 +13,9 @@ Checkout the [Motus Art store](https://www.redbubble.com/people/motusart/shop).
 
 
 ## Latest work
+[**Flow Fields**][week164] [*(code)*][week164code]  
+[![Flow Fields)](./assets/img/preview/week_164.png)][week164]
+
 [**Twisted audio**][week163] [*(code)*][week163code]  
 [![Twisted audio)](./assets/img/preview/week_163.png)][week163]
 
@@ -25,11 +28,9 @@ Checkout the [Motus Art store](https://www.redbubble.com/people/motusart/shop).
 [**Cubed**][week160] [*(code)*][week160code]  
 [![Cubed)](./assets/img/preview/week_160.png)][week160]
 
-[**Square tunnel**][week159] [*(code)*][week159code]  
-[![Square tunnel)](./assets/img/preview/week_159.png)][week159]
-
 
 ## Full archive
+[![Flow Fields](./assets/img/preview/week_164.png)][week164]
 [![Twisted audio](./assets/img/preview/week_163.png)][week163]
 [![500k lines](./assets/img/preview/week_162.png)][week162]
 [![Ripple angles](./assets/img/preview/week_161.png)][week161]
@@ -540,3 +541,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [week162code]: https://github.com/owenmcateer/Motus-Art/tree/master/src/week_162/main.js
 [week163]: https://owenmcateer.github.io/Motus-Art/projects/week_163.html
 [week163code]: https://github.com/owenmcateer/Motus-Art/tree/master/src/week_163/main.js
+[week163]: https://twitter.com/motus_art/status/1573326499918249984
+[week163code]: https://github.com/owenmcateer/Motus-Art/tree/master/src/week_164/
