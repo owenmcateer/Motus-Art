@@ -1,3 +1,7 @@
+/**
+ * Motus: Ribble angles
+ * https://owenmcateer.github.io/Motus-Art
+ */
 let timer = 0;
 const speed = 0.005;
 let loops = 0;

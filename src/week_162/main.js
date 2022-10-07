@@ -1,3 +1,7 @@
+/**
+ * Motus: 500k lines
+ * https://owenmcateer.github.io/Motus-Art
+ */
 let progress = 0;
 const linesToDraw = 500000;
 const linesPerSet = 2500;

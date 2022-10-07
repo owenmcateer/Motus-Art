@@ -1,3 +1,7 @@
+/**
+ * Motus: Twisted audio
+ * https://owenmcateer.github.io/Motus-Art
+ */
 let t = 0;
 const speed = 1 / 1200;
 let colourValue = 200;
