@@ -1,4 +1,11 @@
-# Genuary 2022
+# Genuary 2023
+https://genuary.art/
+
+- [Day 1: ](https://owenmcateer.github.io/Motus-Art/projects/genuary2023/day1.html)
+
+---
+
+## Genuary 2022
 https://genuary.art/
 
 - [Day 1: Draw 10,000 of something](https://owenmcateer.github.io/Motus-Art/projects/genuary2022/day1.html)
