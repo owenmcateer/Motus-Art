@@ -2,8 +2,8 @@
 https://genuary.art/
 
 - [Day 1: Perfect loop / Infinite loop / endless GIFs](https://owenmcateer.github.io/Motus-Art/projects/genuary2023/day1.html)
-- [Day 2: Made in 10 minutes](https://owenmcateer.github.io/Motus-Art/projects/genuary2023/day2.html) / [video](TODO)
-- [Day 3: Glitch Art](https://github.com/owenmcateer/Motus-Art/blob/master/src/genuary2023/day3.js) / [video](TODO)
+- [Day 2: Made in 10 minutes](https://owenmcateer.github.io/Motus-Art/projects/genuary2023/day2.html) / [video](https://twitter.com/motus_art/status/1609927373956194314/video/1)
+- [Day 3: Glitch Art](https://github.com/owenmcateer/Motus-Art/blob/master/src/genuary2023/day3.js) / [video](https://twitter.com/motus_art/status/1610374674466103297)
 - [Day 4: Intersections](https://owenmcateer.github.io/Motus-Art/projects/genuary2023/day4.html)
 <!--
 - [Day 5: Debug view](https://owenmcateer.github.io/Motus-Art/projects/genuary2023/day5.html)
