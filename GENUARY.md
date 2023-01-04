@@ -5,8 +5,8 @@ https://genuary.art/
 - [Day 2: Made in 10 minutes](https://owenmcateer.github.io/Motus-Art/projects/genuary2023/day2.html) / [video](https://twitter.com/motus_art/status/1609927373956194314/video/1)
 - [Day 3: Glitch Art](https://github.com/owenmcateer/Motus-Art/blob/master/src/genuary2023/day3.js) / [video](https://twitter.com/motus_art/status/1610374674466103297)
 - [Day 4: Intersections](https://owenmcateer.github.io/Motus-Art/projects/genuary2023/day4.html)
-<!--
 - [Day 5: Debug view](https://owenmcateer.github.io/Motus-Art/projects/genuary2023/day5.html)
+<!--
 - [Day 6: Steal Like An Artist]()
 - [Day 7: Sample a color palette from your favorite movie/album cover]()
 - [Day 8: Signed Distance Functions]()
@@ -34,7 +34,7 @@ https://genuary.art/
 - [Day 30: Minimalism]()
 - [Day 31: Deliberately break one of your previous images]()
 -->
----
+
 
 ## Genuary 2022
 https://genuary.art/

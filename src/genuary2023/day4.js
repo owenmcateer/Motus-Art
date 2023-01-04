@@ -11,7 +11,6 @@ let magicAngle;
 function setup() {
   createCanvas(canvasSize, canvasSize, WEBGL);
   smooth();
-  frameRate(4);
 
   // The magic angle
   magicAngle = atan(1 / sqrt(2));
