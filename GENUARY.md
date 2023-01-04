@@ -1,8 +1,39 @@
 # Genuary 2023
 https://genuary.art/
 
-- [Day 1: ](https://owenmcateer.github.io/Motus-Art/projects/genuary2023/day1.html)
-
+- [Day 1: Perfect loop / Infinite loop / endless GIFs](https://owenmcateer.github.io/Motus-Art/projects/genuary2023/day1.html)
+- [Day 2: Made in 10 minutes](https://owenmcateer.github.io/Motus-Art/projects/genuary2023/day2.html) / [video](TODO)
+- [Day 3: Glitch Art](https://github.com/owenmcateer/Motus-Art/blob/master/src/genuary2023/day3.js) / [video](TODO)
+- [Day 4: Intersections](https://owenmcateer.github.io/Motus-Art/projects/genuary2023/day4.html)
+<!--
+- [Day 5: Debug view](https://owenmcateer.github.io/Motus-Art/projects/genuary2023/day5.html)
+- [Day 6: Steal Like An Artist]()
+- [Day 7: Sample a color palette from your favorite movie/album cover]()
+- [Day 8: Signed Distance Functions]()
+- [Day 9: Plants]()
+- [Day 10: Generative music]()
+- [Day 11: Suprematism]()
+- [Day 12: Tessellation]()
+- [Day 13: Something you’ve always wanted to learn]()
+- [Day 14: Aesemic]()
+- [Day 15: Sine waves]()
+- [Day 16: Reflection of a reflection]()
+- [Day 17: A grid inside a grid inside a grid]()
+- [Day 18: Definitely not a grid]()
+- [Day 19: Black and white]()
+- [Day 20: Art Deco]()
+- [Day 21: Persian Rug]()
+- [Day 22: Shadows]()
+- [Day 23: More Moiré]()
+- [Day 24: Textile]()
+- [Day 25: Yayoi Kusama]()
+- [Day 26: My kid could have made that]()
+- [Day 27: In the style of Hilma Af Klint]()
+- [Day 28: Generative poetry]()
+- [Day 29: Maximalism]()
+- [Day 30: Minimalism]()
+- [Day 31: Deliberately break one of your previous images]()
+-->
 ---
 
 ## Genuary 2022
