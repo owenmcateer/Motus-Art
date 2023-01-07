@@ -6,9 +6,9 @@ https://genuary.art/
 - [Day 3: Glitch Art](https://github.com/owenmcateer/Motus-Art/blob/master/src/genuary2023/day3.js) / [video](https://twitter.com/motus_art/status/1610374674466103297)
 - [Day 4: Intersections](https://owenmcateer.github.io/Motus-Art/projects/genuary2023/day4.html)
 - [Day 5: Debug view](https://owenmcateer.github.io/Motus-Art/projects/genuary2023/day5.html)
+- [Day 6: Steal Like An Artist](https://owenmcateer.github.io/Motus-Art/projects/genuary2023/day6.html)
+- [Day 7: Sample a color palette from your favorite movie/album cover](https://www.instagram.com/p/CnHajvarsta/)
 <!--
-- [Day 6: Steal Like An Artist]()
-- [Day 7: Sample a color palette from your favorite movie/album cover]()
 - [Day 8: Signed Distance Functions]()
 - [Day 9: Plants]()
 - [Day 10: Generative music]()
