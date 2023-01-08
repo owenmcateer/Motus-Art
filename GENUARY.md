@@ -8,8 +8,8 @@ https://genuary.art/
 - [Day 5: Debug view](https://owenmcateer.github.io/Motus-Art/projects/genuary2023/day5.html)
 - [Day 6: Steal Like An Artist](https://owenmcateer.github.io/Motus-Art/projects/genuary2023/day6.html)
 - [Day 7: Sample a color palette from your favorite movie/album cover](https://www.instagram.com/p/CnHajvarsta/)
+- [Day 8: Signed Distance Functions](https://owenmcateer.github.io/Motus-Art/src/genuary2023/day8.glsl)
 <!--
-- [Day 8: Signed Distance Functions]()
 - [Day 9: Plants]()
 - [Day 10: Generative music]()
 - [Day 11: Suprematism]()
