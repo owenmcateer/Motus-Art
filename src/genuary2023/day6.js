@@ -1,5 +1,4 @@
 /**
-/**
  * Genuary 2023: Day 6
  * "Steal like an artist"
  *

@@ -1,3 +1,10 @@
+/**
+ * Genuary 2023: Day 4
+ * "Intersections"
+ *
+ * @motus_art
+ * https://owenmcateer.github.io/Motus-Art
+ */
 let t = 1000;
 const canvasSize = 1080;
 const cx = canvasSize / 2;

@@ -1,3 +1,10 @@
+//
+// Genuary 2023: Day 8
+// "Signed Distance Functions"
+//
+// @motus_art
+// https://owenmcateer.github.io/Motus-Art
+//
 varying vec2 vUvs;
 uniform vec2 resolution;
 uniform float time;
