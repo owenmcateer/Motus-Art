@@ -1,5 +1,8 @@
 /**
- * Motus: Suprematism
+ * Genuary 2023: Day 11
+ * "Suprematism"
+ *
+ * @motus_art
  * https://owenmcateer.github.io/Motus-Art
  */
 const canvas = 1080;
