@@ -55,46 +55,54 @@ Render.run(render);
 const runner = Runner.create();
 Runner.run(runner, engine);
 
-const stack = Composites.stack(130, 130, 4, 4, 10, 10, (x, y) => {
-  const sides = Math.round(Common.random(1, 8));
+const stack = Composites.stack(
+  230,
+  230,
+  Math.round(Math.random() * 2 + 3),
+  Math.round(Math.random() * 2 + 3),
+  30,
+  30,
+  (x, y) => {
+    const sides = Math.round(Common.random(1, 8));
 
-  // round the edges of some bodies
-  let chamfer = null;
-  if (sides > 2 && Common.random() > 0.7) {
-    chamfer = {
-      radius: 10,
-    };
-  }
+    // round the edges of some bodies
+    let chamfer = null;
+    if (sides > 2 && Common.random() > 0.7) {
+      chamfer = {
+        radius: 10,
+      };
+    }
 
-  switch (Math.round(Common.random(0, 1))) {
-    case 0:
-      if (Common.random() < 0.8) {
-        return Bodies.rectangle(x, y, Common.random(25, 500), Common.random(25, 200), {
+    switch (Math.round(Common.random(0, 1))) {
+      case 0:
+        if (Common.random() < 0.8) {
+          return Bodies.rectangle(x, y, Common.random(25, 500), Common.random(25, 200), {
+            chamfer,
+            render: {
+              fillStyle: randomColour(),
+            },
+          });
+        }
+
+        return Bodies.rectangle(x, y, Common.random(80, 120), Common.random(25, 300), {
           chamfer,
           render: {
             fillStyle: randomColour(),
           },
         });
-      }
 
-      return Bodies.rectangle(x, y, Common.random(80, 120), Common.random(25, 300), {
-        chamfer,
-        render: {
-          fillStyle: randomColour(),
-        },
-      });
+      case 1:
+        return Bodies.polygon(x, y, sides, Common.random(25, 100), {
+          chamfer,
+          render: {
+            fillStyle: randomColour(),
+          },
+        });
 
-    case 1:
-      return Bodies.polygon(x, y, sides, Common.random(25, 100), {
-        chamfer,
-        render: {
-          fillStyle: randomColour(),
-        },
-      });
-
-    default:
-  }
-});
+      default:
+    }
+  },
+);
 
 const wallStyle = {
   fillStyle: '#FBF5E4',
