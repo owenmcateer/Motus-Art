@@ -10,10 +10,10 @@ https://genuary.art/
 - [Day 7: Sample a color palette from your favorite movie/album cover](https://www.instagram.com/p/CnHajvarsta/)
 - [Day 8: Signed Distance Functions](https://github.com/owenmcateer/Motus-Art/blob/master/src/genuary2023/day8.glsl) / [SDF No.2](https://www.shadertoy.com/view/DlBGDz)
 - [Day 9: Plants](https://owenmcateer.github.io/Motus-Art/projects/genuary2023/day9.html)
+- [Day 10: Generative music](https://twitter.com/motus_art/status/1612916917995446289)
+- [Day 11: Suprematism](https://owenmcateer.github.io/Motus-Art/projects/genuary2023/day11.html)
 
 <!--
-- [Day 10: Generative music]()
-- [Day 11: Suprematism]()
 - [Day 12: Tessellation]()
 - [Day 13: Something you’ve always wanted to learn]()
 - [Day 14: Aesemic]()
