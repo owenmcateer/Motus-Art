@@ -14,9 +14,9 @@ https://genuary.art/
 - [Day 11: Suprematism](https://owenmcateer.github.io/Motus-Art/projects/genuary2023/day11.html)
 - [Day 12: Tessellation](https://owenmcateer.github.io/Motus-Art/projects/genuary2023/day12.html)
 - [Day 13: Something you’ve always wanted to learn](https://www.shadertoy.com/view/css3Rl)
+- [Day 14: Aesemic](https://owenmcateer.github.io/Motus-Art/projects/genuary2023/day14.html)
 
 <!--
-- [Day 14: Aesemic]()
 - [Day 15: Sine waves]()
 - [Day 16: Reflection of a reflection]()
 - [Day 17: A grid inside a grid inside a grid]()
