@@ -15,7 +15,7 @@ Checkout the [Motus Art store](https://www.redbubble.com/people/motusart/shop).
 ## Latest work
 [**Genuary 2023**](./GENUARY.md)
 
---
+---
 
 [**Low poly waves**][week165] [*(code)*][week165code]  
 [![Flow poly waves)](./assets/img/preview/week_165.png)][week165]

@@ -15,10 +15,10 @@ https://genuary.art/
 - [Day 12: Tessellation](https://owenmcateer.github.io/Motus-Art/projects/genuary2023/day12.html)
 - [Day 13: Something you’ve always wanted to learn](https://www.shadertoy.com/view/css3Rl)
 - [Day 14: Aesemic](https://owenmcateer.github.io/Motus-Art/projects/genuary2023/day14.html)
+- [Day 16: Reflection of a reflection](https://owenmcateer.github.io/Motus-Art/projects/genuary2023/day16.html)
 
 <!--
 - [Day 15: Sine waves]()
-- [Day 16: Reflection of a reflection]()
 - [Day 17: A grid inside a grid inside a grid]()
 - [Day 18: Definitely not a grid]()
 - [Day 19: Black and white]()
