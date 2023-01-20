@@ -17,12 +17,12 @@ https://genuary.art/
 - [Day 14: Aesemic](https://owenmcateer.github.io/Motus-Art/projects/genuary2023/day14.html)
 - [Day 16: Reflection of a reflection](https://owenmcateer.github.io/Motus-Art/projects/genuary2023/day16.html)
 - [Day 18: Definitely not a grid](https://owenmcateer.github.io/Motus-Art/projects/genuary2023/day18.html)
+- [Day 20: Art Deco](https://owenmcateer.github.io/Motus-Art/projects/genuary2023/day20.html)
 
 <!--
 - [Day 15: Sine waves]()
 - [Day 17: A grid inside a grid inside a grid]()
 - [Day 19: Black and white]()
-- [Day 20: Art Deco](https://owenmcateer.github.io/Motus-Art/projects/genuary2023/day20.html)
 - [Day 21: Persian Rug]()
 - [Day 22: Shadows]()
 - [Day 23: More Moiré]()
