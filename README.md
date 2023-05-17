@@ -17,6 +17,9 @@ Checkout the [Motus Art store](https://www.redbubble.com/people/motusart/shop).
 
 ---
 
+[**Elastic circles**][week167] [*(code)*][week167code]  
+[![Elastic circles](./assets/img/preview/week_167.png)][week167]
+
 [**Scale &amp; rotate**][week166] [*(code)*][week166code]  
 [![Scale &amp; rotate](./assets/img/preview/week_166.png)][week166]
 
@@ -29,11 +32,9 @@ Checkout the [Motus Art store](https://www.redbubble.com/people/motusart/shop).
 [**Twisted audio**][week163] [*(code)*][week163code]  
 [![Twisted audio](./assets/img/preview/week_163.png)][week163]
 
-[**500k lines**][week162] [*(code)*][week162code]  
-[![500k lines](./assets/img/preview/week_162.png)][week162]
-
 
 ## Full archive
+[![Elastic circles](./assets/img/preview/week_167.png)][week167]
 [![Scale &amp; rotate](./assets/img/preview/week_166.png)][week166]
 [![Low poly waves](./assets/img/preview/week_165.png)][week165]
 [![Flow Fields](./assets/img/preview/week_164.png)][week164]
@@ -552,4 +553,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [week165]: https://owenmcateer.github.io/Motus-Art/projects/week_165.html
 [week165code]: https://github.com/owenmcateer/Motus-Art/tree/master/src/week_165/
 [week166]: https://owenmcateer.github.io/Motus-Art/projects/week_166.html
-[week166code]: https://github.com/owenmcateer/Motus-Art/tree/master/src/week_166/
+[week166code]: https://github.com/owenmcateer/Motus-Art/tree/master/src/week_166/main.js
+[week167]: https://owenmcateer.github.io/Motus-Art/projects/week_167.html
+[week167code]: https://github.com/owenmcateer/Motus-Art/tree/master/src/week_167/main.js
