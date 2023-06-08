@@ -17,6 +17,10 @@ Checkout the [Motus Art store](https://www.redbubble.com/people/motusart/shop).
 
 ---
 
+
+[**Noisy Circles**][week168] [*(code)*][week168]  
+[![Noisy Circles](./assets/img/preview/week_168.png)][week168]
+
 [**Elastic circles**][week167] [*(code)*][week167code]  
 [![Elastic circles](./assets/img/preview/week_167.png)][week167]
 
@@ -34,6 +38,7 @@ Checkout the [Motus Art store](https://www.redbubble.com/people/motusart/shop).
 
 
 ## Full archive
+[![Noisy Circles](./assets/img/preview/week_168.png)][week168]
 [![Elastic circles](./assets/img/preview/week_167.png)][week167]
 [![Scale &amp; rotate](./assets/img/preview/week_166.png)][week166]
 [![Low poly waves](./assets/img/preview/week_165.png)][week165]
@@ -556,3 +561,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [week166code]: https://github.com/owenmcateer/Motus-Art/tree/master/src/week_166/main.js
 [week167]: https://owenmcateer.github.io/Motus-Art/projects/week_167.html
 [week167code]: https://github.com/owenmcateer/Motus-Art/tree/master/src/week_167/main.js
+[week168]: https://www.shadertoy.com/view/DtVSDm
