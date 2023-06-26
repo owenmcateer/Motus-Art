@@ -17,6 +17,8 @@ Checkout the [Motus Art store](https://www.redbubble.com/people/motusart/shop).
 
 ---
 
+[**Step back**][week169] [*(code)*][week169]  
+[![Step back](./assets/img/preview/week_169.png)][week169]
 
 [**Noisy Circles**][week168] [*(code)*][week168]  
 [![Noisy Circles](./assets/img/preview/week_168.png)][week168]
@@ -30,14 +32,9 @@ Checkout the [Motus Art store](https://www.redbubble.com/people/motusart/shop).
 [**Low poly waves**][week165] [*(code)*][week165code]  
 [![Low poly waves](./assets/img/preview/week_165.png)][week165]
 
-[**Flow Fields**][week164] [*(code)*][week164code]  
-[![Flow Fields](./assets/img/preview/week_164.png)][week164]
-
-[**Twisted audio**][week163] [*(code)*][week163code]  
-[![Twisted audio](./assets/img/preview/week_163.png)][week163]
-
 
 ## Full archive
+[![Step back](./assets/img/preview/week_169.png)][week169]
 [![Noisy Circles](./assets/img/preview/week_168.png)][week168]
 [![Elastic circles](./assets/img/preview/week_167.png)][week167]
 [![Scale &amp; rotate](./assets/img/preview/week_166.png)][week166]
@@ -562,3 +559,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [week167]: https://owenmcateer.github.io/Motus-Art/projects/week_167.html
 [week167code]: https://github.com/owenmcateer/Motus-Art/tree/master/src/week_167/main.js
 [week168]: https://www.shadertoy.com/view/DtVSDm
+[week169]: https://owenmcateer.github.io/Motus-Art/projects/week_169.html
+[week169code]: https://github.com/owenmcateer/Motus-Art/tree/master/src/week_169/main.js
