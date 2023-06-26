@@ -17,7 +17,7 @@ Checkout the [Motus Art store](https://www.redbubble.com/people/motusart/shop).
 
 ---
 
-[**Step back**][week169] [*(code)*][week169]  
+[**Step back**][week169] [*(code)*][week169code]  
 [![Step back](./assets/img/preview/week_169.png)][week169]
 
 [**Noisy Circles**][week168] [*(code)*][week168]  
