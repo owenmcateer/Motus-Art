@@ -17,6 +17,9 @@ Checkout the [Motus Art store](https://www.redbubble.com/people/motusart/shop).
 
 ---
 
+[**Life timeline*][week171] [*(code)*][week171code]  
+[![Life timeline](./assets/img/preview/week_171.png)][week171]
+
 [**Dancing rays*][week170] [*(code)*][week170code]  
 [![Dancing rays](./assets/img/preview/week_170.png)][week170]
 
@@ -29,11 +32,9 @@ Checkout the [Motus Art store](https://www.redbubble.com/people/motusart/shop).
 [**Elastic circles**][week167] [*(code)*][week167code]  
 [![Elastic circles](./assets/img/preview/week_167.png)][week167]
 
-[**Scale &amp; rotate**][week166] [*(code)*][week166code]  
-[![Scale &amp; rotate](./assets/img/preview/week_166.png)][week166]
-
 
 ## Full archive
+[![Life timeline](./assets/img/preview/week_171.png)][week171]
 [![Dancing rays](./assets/img/preview/week_170.png)][week170]
 [![Step back](./assets/img/preview/week_169.png)][week169]
 [![Noisy Circles](./assets/img/preview/week_168.png)][week168]
@@ -564,3 +565,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [week169code]: https://github.com/owenmcateer/Motus-Art/tree/master/src/week_169/main.js
 [week170]: https://owenmcateer.github.io/Motus-Art/projects/week_170.html
 [week170code]: https://github.com/owenmcateer/Motus-Art/tree/master/src/week_170/main.js
+[week171]: https://owenmcateer.github.io/Motus-Art/projects/week_171.html
+[week171code]: https://github.com/owenmcateer/Motus-Art/tree/master/src/week_171/main.js
