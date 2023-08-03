@@ -17,10 +17,10 @@ Checkout the [Motus Art store](https://www.redbubble.com/people/motusart/shop).
 
 ---
 
-[**Life timeline*][week171] [*(code)*][week171code]  
+[**Life timeline**][week171] [*(code)*][week171code]  
 [![Life timeline](./assets/img/preview/week_171.png)][week171]
 
-[**Dancing rays*][week170] [*(code)*][week170code]  
+[**Dancing rays**][week170] [*(code)*][week170code]  
 [![Dancing rays](./assets/img/preview/week_170.png)][week170]
 
 [**Step back**][week169] [*(code)*][week169code]  
