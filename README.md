@@ -17,6 +17,9 @@ Checkout the [Motus Art store](https://www.redbubble.com/people/motusart/shop).
 
 ---
 
+[**Smokey waves**][week172] [*(code)*][week172]  
+[![Smokey waves](./assets/img/preview/week_172.png)][week172]
+
 [**Life timeline**][week171] [*(code)*][week171code]  
 [![Life timeline](./assets/img/preview/week_171.png)][week171]
 
@@ -34,6 +37,7 @@ Checkout the [Motus Art store](https://www.redbubble.com/people/motusart/shop).
 
 
 ## Full archive
+[![Smokey waves](./assets/img/preview/week_172.png)][week172]
 [![Life timeline](./assets/img/preview/week_171.png)][week171]
 [![Dancing rays](./assets/img/preview/week_170.png)][week170]
 [![Step back](./assets/img/preview/week_169.png)][week169]
@@ -567,3 +571,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [week170code]: https://github.com/owenmcateer/Motus-Art/tree/master/src/week_170/main.js
 [week171]: https://owenmcateer.github.io/Motus-Art/projects/week_171.html
 [week171code]: https://github.com/owenmcateer/Motus-Art/tree/master/src/week_171/main.js
+[week172]: https://www.shadertoy.com/view/DtBcRD
