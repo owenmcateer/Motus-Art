@@ -55,6 +55,5 @@ function draw() {
   t += 0.0015;
   if (t >= 1) {
     t = 0;
-    noLoop();
   }
 }
