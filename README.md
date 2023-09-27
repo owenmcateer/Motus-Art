@@ -17,6 +17,9 @@ Checkout the [Motus Art store](https://www.redbubble.com/people/motusart/shop).
 
 ---
 
+[**Sinking floor**][week175] [*(code)*][week175]  
+[![Sinking floor](./assets/img/preview/week_175.png)][week175]
+
 [**New directions**][week174] [*(code)*][week174]  
 [![New directions](./assets/img/preview/week_174.png)][week174]
 
@@ -29,14 +32,9 @@ Checkout the [Motus Art store](https://www.redbubble.com/people/motusart/shop).
 [**Life timeline**][week171] [*(code)*][week171code]  
 [![Life timeline](./assets/img/preview/week_171.png)][week171]
 
-[**Dancing rays**][week170] [*(code)*][week170code]  
-[![Dancing rays](./assets/img/preview/week_170.png)][week170]
-
-[**Step back**][week169] [*(code)*][week169code]  
-[![Step back](./assets/img/preview/week_169.png)][week169]
-
 
 ## Full archive
+[![Sinking floor](./assets/img/preview/week_175.png)][week175]
 [![New directions](./assets/img/preview/week_174.png)][week174]
 [![Colourful smokey waves](./assets/img/preview/week_173.png)][week173]
 [![Smokey waves](./assets/img/preview/week_172.png)][week172]
@@ -577,3 +575,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [week173]: https://www.shadertoy.com/view/DtsyWl
 [week174]: https://owenmcateer.github.io/Motus-Art/projects/week_174.html
 [week174code]: https://github.com/owenmcateer/Motus-Art/tree/master/src/week_174/main.js
+[week175]: https://owenmcateer.github.io/Motus-Art/projects/week_175.html
+[week175code]: https://github.com/owenmcateer/Motus-Art/tree/master/src/week_175/main.js
