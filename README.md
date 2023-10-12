@@ -17,6 +17,9 @@ Checkout the [Motus Art store](https://www.redbubble.com/people/motusart/shop).
 
 ---
 
+[**Cubes &amp; math**][week176] [*(code)*][week176code]  
+[![Cubes &amp; math](./assets/img/preview/week_176.png)][week176]
+
 [**Sinking floor**][week175] [*(code)*][week175code]  
 [![Sinking floor](./assets/img/preview/week_175.png)][week175]
 
@@ -34,6 +37,7 @@ Checkout the [Motus Art store](https://www.redbubble.com/people/motusart/shop).
 
 
 ## Full archive
+[![Cubes &amp; math](./assets/img/preview/week_176.png)][week176]
 [![Sinking floor](./assets/img/preview/week_175.png)][week175]
 [![New directions](./assets/img/preview/week_174.png)][week174]
 [![Colourful smokey waves](./assets/img/preview/week_173.png)][week173]
@@ -577,3 +581,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [week174code]: https://github.com/owenmcateer/Motus-Art/tree/master/src/week_174/main.js
 [week175]: https://owenmcateer.github.io/Motus-Art/projects/week_175.html
 [week175code]: https://github.com/owenmcateer/Motus-Art/tree/master/src/week_175/main.js
+[week176]: https://owenmcateer.github.io/Motus-Art/projects/week_176.html
+[week176code]: https://github.com/owenmcateer/Motus-Art/tree/master/src/week_176/main.js
