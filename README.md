@@ -13,9 +13,15 @@ Checkout the [Motus Art store](https://www.redbubble.com/people/motusart/shop).
 
 
 ## Latest work
-[**Genuary 2023**](./GENUARY.md)
 
----
+[**Cluster growth**][week177] [*(code)*][week177code]  
+[![Cluster growth](./assets/img/preview/week_177.png)][week177]
+
+[**Cubes &amp; math**][week176] [*(code)*][week176code]  
+[![Cubes &amp; math](./assets/img/preview/week_176.png)][week176]
+
+[**Sinking floor**][week175] [*(code)*][week175code]  
+[![Sinking floor](./assets/img/preview/week_175.png)][week175]
 
 [**New directions**][week174] [*(code)*][week174code]  
 [![New directions](./assets/img/preview/week_174.png)][week174]
@@ -29,14 +35,10 @@ Checkout the [Motus Art store](https://www.redbubble.com/people/motusart/shop).
 [**Life timeline**][week171] [*(code)*][week171code]  
 [![Life timeline](./assets/img/preview/week_171.png)][week171]
 
-[**Dancing rays**][week170] [*(code)*][week170code]  
-[![Dancing rays](./assets/img/preview/week_170.png)][week170]
-
-[**Step back**][week169] [*(code)*][week169code]  
-[![Step back](./assets/img/preview/week_169.png)][week169]
-
 
 ## Full archive
+[![Cubes &amp; math](./assets/img/preview/week_176.png)][week176]
+[![Sinking floor](./assets/img/preview/week_175.png)][week175]
 [![New directions](./assets/img/preview/week_174.png)][week174]
 [![Colourful smokey waves](./assets/img/preview/week_173.png)][week173]
 [![Smokey waves](./assets/img/preview/week_172.png)][week172]
@@ -577,3 +579,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [week173]: https://www.shadertoy.com/view/DtsyWl
 [week174]: https://owenmcateer.github.io/Motus-Art/projects/week_174.html
 [week174code]: https://github.com/owenmcateer/Motus-Art/tree/master/src/week_174/main.js
+[week175]: https://owenmcateer.github.io/Motus-Art/projects/week_175.html
+[week175code]: https://github.com/owenmcateer/Motus-Art/tree/master/src/week_175/main.js
+[week176]: https://owenmcateer.github.io/Motus-Art/projects/week_176.html
+[week176code]: https://github.com/owenmcateer/Motus-Art/tree/master/src/week_176/main.js
+[week177]: https://owenmcateer.github.io/Motus-Art/projects/week_177.html
+[week177code]: https://github.com/owenmcateer/Motus-Art/tree/master/src/week_177/main.js
