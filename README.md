@@ -17,7 +17,7 @@ Checkout the [Motus Art store](https://www.redbubble.com/people/motusart/shop).
 
 ---
 
-[**New directions**][week174] [*(code)*][week174]  
+[**New directions**][week174] [*(code)*][week174code]  
 [![New directions](./assets/img/preview/week_174.png)][week174]
 
 [**Colourful smokey waves**][week173] [*(code)*][week173]  
