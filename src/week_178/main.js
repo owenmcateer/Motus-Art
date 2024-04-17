@@ -4,7 +4,7 @@
  * @motus_art
  * https://owenmcateer.github.io/Motus-Art
  */
-const speed = 0.00075;
+const speed = 0.0075;
 let t = 0;
 
 // Setup
