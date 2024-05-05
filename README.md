@@ -14,8 +14,11 @@ Checkout the [Motus Art store](https://www.redbubble.com/people/motusart/shop).
 
 ## Latest work
 
-[** Lines &amp; Loops**][week178] [*(code)*][week178code]  
-[![ Lines &amp; Loops](./assets/img/preview/week_178.png)][week178]
+[**Waving stars**][week179] [*(code)*][week179code]  
+[![Waving stars](./assets/img/preview/week_179.png)][week179]
+
+[**Lines &amp; Loops**][week178] [*(code)*][week178code]  
+[![Lines &amp; Loops](./assets/img/preview/week_178.png)][week178]
 
 [**Cluster growth**][week177] [*(code)*][week177code]  
 [![Cluster growth](./assets/img/preview/week_177.png)][week177]
@@ -26,11 +29,9 @@ Checkout the [Motus Art store](https://www.redbubble.com/people/motusart/shop).
 [**Sinking floor**][week175] [*(code)*][week175code]  
 [![Sinking floor](./assets/img/preview/week_175.png)][week175]
 
-[**New directions**][week174] [*(code)*][week174code]  
-[![New directions](./assets/img/preview/week_174.png)][week174]
-
 
 ## Full archive
+[![Waving stars](./assets/img/preview/week_179.png)][week179]
 [![Lines &amp; Loops](./assets/img/preview/week_178.png)][week178]
 [![Cluster growth](./assets/img/preview/week_177.png)][week177]
 [![Cubes &amp; math](./assets/img/preview/week_176.png)][week176]
@@ -583,3 +584,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [week177code]: https://github.com/owenmcateer/Motus-Art/tree/master/src/week_177/main.js
 [week178]: https://owenmcateer.github.io/Motus-Art/projects/week_178.html
 [week178code]: https://github.com/owenmcateer/Motus-Art/tree/master/src/week_178/main.js
+[week179]: https://owenmcateer.github.io/Motus-Art/projects/week_179.html
+[week179code]: https://github.com/owenmcateer/Motus-Art/tree/master/src/week_179/main.js
