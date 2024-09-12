@@ -14,6 +14,9 @@ Checkout the [Motus Art store](https://www.redbubble.com/people/motusart/shop).
 
 ## Latest work
 
+[**Orthogrid**][week180] [*(code)*][week180code]  
+[![Orthogrid](./assets/img/preview/week_180.png)][week180]
+
 [**Waving stars**][week179] [*(code)*][week179code]  
 [![Waving stars](./assets/img/preview/week_179.png)][week179]
 
@@ -26,11 +29,8 @@ Checkout the [Motus Art store](https://www.redbubble.com/people/motusart/shop).
 [**Cubes &amp; math**][week176] [*(code)*][week176code]  
 [![Cubes &amp; math](./assets/img/preview/week_176.png)][week176]
 
-[**Sinking floor**][week175] [*(code)*][week175code]  
-[![Sinking floor](./assets/img/preview/week_175.png)][week175]
-
-
 ## Full archive
+[![Orthogrid](./assets/img/preview/week_180.png)][week180]
 [![Waving stars](./assets/img/preview/week_179.png)][week179]
 [![Lines &amp; Loops](./assets/img/preview/week_178.png)][week178]
 [![Cluster growth](./assets/img/preview/week_177.png)][week177]
@@ -586,3 +586,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [week178code]: https://github.com/owenmcateer/Motus-Art/tree/master/src/week_178/main.js
 [week179]: https://owenmcateer.github.io/Motus-Art/projects/week_179.html
 [week179code]: https://github.com/owenmcateer/Motus-Art/tree/master/src/week_179/main.js
+[week180]: https://owenmcateer.github.io/Motus-Art/projects/week_180.html
+[week180code]: https://github.com/owenmcateer/Motus-Art/tree/master/src/week_180/main.js
