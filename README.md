@@ -1,16 +1,7 @@
-[![Motus Art](assets/img/website/MotusArt.jpg "Motus Art")](#motus-art)
-[![Project Aureole](assets/img/website/Project-Aureole.jpg "Project Aureole")](https://github.com/owenmcateer/Project-Aureole)
-[![Store](assets/img/website/Buy-prints.jpg "Buy Motus Art Prints")](https://motusart.redbubble.com/)
-
-
-# Motus Art
+# Motus Art sketches
 
 **Creative Coding and Generative art.**  
 https://www.instagram.com/motus_art/
-
-You can now purchase Motus Art designs on [Canvas prints](https://www.redbubble.com/people/motusart/shop?artistUserName=motusart&asc=u&iaCode=u-print-canvas), [Posters](https://www.redbubble.com/people/motusart/shop?artistUserName=motusart&asc=u&iaCode=u-print-poster), [T-Shirts](https://cottonbureau.com/people/owen-mcateer), [Notebooks](https://www.redbubble.com/people/motusart/shop?artistUserName=motusart&asc=u&iaCode=u-notebook-spiral) and [more](https://www.redbubble.com/people/motusart/shop).
-Checkout the [Motus Art store](https://www.redbubble.com/people/motusart/shop).
-
 
 ## Latest work
 
