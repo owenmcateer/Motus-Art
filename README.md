@@ -6,8 +6,8 @@ https://x.com/motus_art
 
 ## Latest work
 
-[**Genuary 2025**][genuary2025] [*(code)*][genuary2025code]  
-[![Genuary 2025](./assets/img/preview/genuary2025.png)][genuary2025]
+[**Interlaced pills**][week181] [*(code)*][week181code]  
+[![Interlaced pills](./assets/img/preview/week_181.png)][week181]
 
 [**Orthogrid**][week180] [*(code)*][week180code]  
 [![Orthogrid](./assets/img/preview/week_180.png)][week180]
@@ -23,7 +23,7 @@ https://x.com/motus_art
 
 
 ## Full archive
-[![Genuary 2025](./assets/img/preview/genuary2025.png)][genuary2025]
+[![Interlaced pills](./assets/img/preview/week_181.png)][week181]
 [![Orthogrid](./assets/img/preview/week_180.png)][week180]
 [![Waving stars](./assets/img/preview/week_179.png)][week179]
 [![Lines &amp; Loops](./assets/img/preview/week_178.png)][week178]
@@ -576,5 +576,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [week179code]: https://github.com/owenmcateer/Motus-Art/tree/master/src/week_179/main.js
 [week180]: https://owenmcateer.github.io/Motus-Art/projects/week_180.html
 [week180code]: https://github.com/owenmcateer/Motus-Art/tree/master/src/week_180/main.js
+[week181]: https://owenmcateer.github.io/Motus-Art/projects/week_181.html
+[week181code]: https://github.com/owenmcateer/Motus-Art/tree/master/src/week_181/main.js
 [genuary2025]: https://owenmcateer.github.io/Motus-Art/projects/genuary2025/
 [genuary2025code]: https://github.com/owenmcateer/Motus-Art/tree/master/src/genuary2025/
