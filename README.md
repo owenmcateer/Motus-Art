@@ -6,6 +6,9 @@ https://x.com/motus_art
 
 ## Latest work
 
+[**Genuary 2025**][genuary2025] [*(code)*][genuary2025code]  
+[![Genuary 2025](./assets/img/preview/genuary2025.png)][genuary2025]
+
 [**Interlaced pills**][week181] [*(code)*][week181code]  
 [![Interlaced pills](./assets/img/preview/week_181.png)][week181]
 
@@ -23,6 +26,7 @@ https://x.com/motus_art
 
 
 ## Full archive
+[![Genuary 2025](./assets/img/preview/genuary2025.png)][genuary2025]
 [![Interlaced pills](./assets/img/preview/week_181.png)][week181]
 [![Orthogrid](./assets/img/preview/week_180.png)][week180]
 [![Waving stars](./assets/img/preview/week_179.png)][week179]
