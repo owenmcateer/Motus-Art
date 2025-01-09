@@ -7,10 +7,8 @@
 
 let canvasScale = 1;
 let circleMath;
-const cubeDensity = 11.3;
-const cubes = [];
-let boxSize;
 
+// p5 setup
 function setup() {
   // Set canvas size to fit window
   createCanvas(min(windowWidth, windowHeight), min(windowWidth, windowHeight));
@@ -21,19 +19,8 @@ function setup() {
   // Circle math
   circleMath = new CircleMath();
 
-  // Create cubes
-  const radius = circleMath.radius;
-  boxSize = radius / cubeDensity;
-  for (let y = -radius; y <= radius; y += boxSize) {
-    for (let x = -radius; x <= radius; x += boxSize) {
-      if (dist(0, 0, x, y) <= radius) {
-        cubes.push({ x, y, dist: dist(0, 0, x, y) });
-      }
-    }
-  }
-
-  // Order cubes by distance from center
-  cubes.sort((a, b) => a.dist - b.dist);
+  frameRate(1);
+  pixelDensity(1);
 }
 
 // Resize canvas when window is resized
@@ -42,26 +29,60 @@ function windowResized() {
   canvasScale = width / 1080;
 }
 
+// Draw tick
 function draw() {
   scale(canvasScale);
-  background(0);
+  background(39);
 
-  const t = frameCount * 0.1;
-  translate(1080 / 2, 1080 / 2);
-  rectMode(CENTER);
+  const cells = round(random(6, 24));
+  const triHeight = (sqrt(3) / 2) * (1080 / cells);
 
-  // Circle cubes
-  stroke(255);
-  strokeWeight(4);
-  fill(0);
-  cubes.forEach((cube) => {
-    push();
-    let phase = ((t + random()) % 1);
-    phase = (t * 0.1 + cube.dist * 0.01);
-    translate(cube.x, cube.y);
-    rotate(QUARTER_PI + phase);
-    rect(0, 0, boxSize * 1.4);
-    rect(0, 0, boxSize * 1.1);
-    pop();
-  });
+  noStroke();
+  translate(540, 540);
+  rotate(random(-HALF_PI, HALF_PI));
+  translate(-540, -540);
+
+  for (let y = 0; y < cells; y += 0.5) {
+    for (let x = 0; x < cells; x++) {
+      let xPos = x * (1080 / cells);
+      const yPos = y * triHeight * 2;
+      if (y % 2 === 1) {
+        xPos += (1080 / cells) / 2;
+      }
+
+      fill(random(0, 150));
+      if (x % 2 === 0) {
+        triangle(
+          xPos, yPos,
+          xPos + (1080 / cells) / 2, yPos + triHeight,
+          xPos - (1080 / cells) / 2, yPos + triHeight,
+        );
+      } else {
+        triangle(
+          xPos, yPos + triHeight,
+          xPos + (1080 / cells) / 2, yPos,
+          xPos - (1080 / cells) / 2, yPos,
+        );
+      }
+    }
+  }
+
+  // Add some noise
+  loadPixels();
+  for (let y = 0; y < height; y++) {
+    for (let x = 0; x < width; x++) {
+      const index = (x + y * width) * 4;
+      const noiseValue = random(-20, 20);
+      pixels[index] += noiseValue;
+      pixels[index + 1] += noiseValue;
+      pixels[index + 2] += noiseValue;
+    }
+  }
+  updatePixels();
+
+  // Circle mask
+  noFill();
+  stroke(0);
+  strokeWeight(540);
+  circle(540, 540, circleMath.diameter * 1.55);
 }
