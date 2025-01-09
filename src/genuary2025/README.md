@@ -9,3 +9,4 @@ https://genuary.art/
 - [Day 6: Make a landscape using only primitive shapes](https://owenmcateer.github.io/Motus-Art/projects/genuary2025/day06.html)
 - [Day 7: Use software that is not intended to create art or images](https://owenmcateer.github.io/Motus-Art/projects/genuary2025/day07.html)
 - [Day 8: Draw one million of something](https://owenmcateer.github.io/Motus-Art/projects/genuary2025/day08.html)
+- [Day 9: The textile design patterns of public transport seating](https://owenmcateer.github.io/Motus-Art/projects/genuary2025/day09.html)
