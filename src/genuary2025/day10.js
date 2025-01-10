@@ -74,7 +74,7 @@ function draw() {
     angleInner += angleInnerSpeed;
 
     // Draw lines
-    stroke(TAU * TAU * TAU, TAU * (TAU+TAU));
+    stroke(TAU * TAU * TAU, TAU * (TAU + TAU));
     line(innerX, innerY, outerX, outerY);
   }
 
