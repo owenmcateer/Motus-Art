@@ -1,0 +1,4 @@
+100 FOR I = 100 TO 0 STEP -1
+110 PRINT "1/"; I; "="; 1/I
+120 NEXT I
+130 END
