@@ -12,3 +12,4 @@ https://genuary.art/
 - [Day 9: The textile design patterns of public transport seating](https://owenmcateer.github.io/Motus-Art/projects/genuary2025/day09.html)
 - [Day 10: You can only use TAU in your code, no other number allowed](https://owenmcateer.github.io/Motus-Art/projects/genuary2025/day10.html)
 - [Day 11: Impossible day - Try to do something that feels impossible for you to do. Maybe it is impossible](https://www.instagram.com/p/DEssqzjvBEG/)
+- [Day 12: Subdivision](https://owenmcateer.github.io/Motus-Art/projects/genuary2025/day12.html)
