@@ -35,7 +35,7 @@ function windowResized() {
 function draw() {
   // Scale and position
   scale(canvasScale);
-  translate(width / 2 + circleMath.offsetX, height / 2 + circleMath.offsetY);
+  translate(540, 540);
   rotate(HALF_PI * (frameCount % 4));
 
   // Styles
