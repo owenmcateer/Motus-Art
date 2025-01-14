@@ -14,3 +14,4 @@ https://genuary.art/
 - [Day 11: Impossible day - Try to do something that feels impossible for you to do. Maybe it is impossible](https://www.instagram.com/p/DEssqzjvBEG/)
 - [Day 12: Subdivision](https://owenmcateer.github.io/Motus-Art/projects/genuary2025/day12.html)
 - [Day 13: Triangles and nothing else](https://owenmcateer.github.io/Motus-Art/projects/genuary2025/day13.html)
+- [Day 14: Pure black and white. No gray](https://owenmcateer.github.io/Motus-Art/projects/genuary2025/day14.html)
