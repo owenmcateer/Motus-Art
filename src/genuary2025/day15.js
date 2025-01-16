@@ -16,9 +16,9 @@ function setup() {
   // Circle math
   circleMath = new CircleMath();
 
-  background(0);
   pixelDensity(1);
   scale(canvasScale);
+  background(0);
 
   // Gen settings
   const tasselLength = random(40, 100);
