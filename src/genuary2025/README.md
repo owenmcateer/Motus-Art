@@ -15,3 +15,4 @@ https://genuary.art/
 - [Day 12: Subdivision](https://owenmcateer.github.io/Motus-Art/projects/genuary2025/day12.html)
 - [Day 13: Triangles and nothing else](https://owenmcateer.github.io/Motus-Art/projects/genuary2025/day13.html)
 - [Day 14: Pure black and white. No gray](https://owenmcateer.github.io/Motus-Art/projects/genuary2025/day14.html)
+- [Day 15: Design a rug](https://owenmcateer.github.io/Motus-Art/projects/genuary2025/day15.html)
