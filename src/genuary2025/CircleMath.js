@@ -14,9 +14,14 @@ class CircleMath {
     const y = random(0, this.diameter);
 
     // Check if it in with in the circle
-    if (dist(this.radius, this.radius, x, y) < this.radius - edgeLimit) {
+    if (this.isPointInCircle(x, y, edgeLimit)) {
       return { x, y };
     }
     return this.randomPointInCircle(edgeLimit);
+  }
+
+  // Check if a point is within the circle
+  isPointInCircle(x, y, edgeLimit = 0) {
+    return dist(this.radius, this.radius, x, y) < this.radius - edgeLimit;
   }
 }
