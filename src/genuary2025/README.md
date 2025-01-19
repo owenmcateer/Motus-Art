@@ -18,3 +18,4 @@ https://genuary.art/
 - [Day 15: Design a rug](https://owenmcateer.github.io/Motus-Art/projects/genuary2025/day15.html)
 - [Day 16: Generative palette](https://owenmcateer.github.io/Motus-Art/projects/genuary2025/day16.html)
 - [Day 17: What happens if pi=4?](https://owenmcateer.github.io/Motus-Art/projects/genuary2025/day17.html)
+- [Day 18: What does wind look like?](https://owenmcateer.github.io/Motus-Art/projects/genuary2025/day18.html)
