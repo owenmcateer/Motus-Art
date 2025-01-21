@@ -20,3 +20,4 @@ https://genuary.art/
 - [Day 17: What happens if pi=4?](https://owenmcateer.github.io/Motus-Art/projects/genuary2025/day17.html)
 - [Day 18: What does wind look like?](https://owenmcateer.github.io/Motus-Art/projects/genuary2025/day18.html)
 - [Day 19: Op Art](https://owenmcateer.github.io/Motus-Art/projects/genuary2025/day19.html)
+- [Day 20: Generative Architecture](https://owenmcateer.github.io/Motus-Art/projects/genuary2025/day20.html)
