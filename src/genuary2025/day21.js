@@ -34,9 +34,14 @@ function setup() {
 function draw() {
   background(0);
 
+  // Move it
+  translate(width * 0.5, height * 0.5);
+  rotate(frameCount * -0.005);
+  translate(width * -0.5, height * -0.5);
+
   // Update trigger position
   for (let i = 0; i < triggerPoint.length; i += 2) {
-    const t = frameCount * 0.01;
+    const t = frameCount * 0.03;
     const orbitRadius = width * 0.3;
     triggerPosition[i + 0] = triggerPoint[i + 0] + cos(t) * orbitRadius;
     triggerPosition[i + 1] = triggerPoint[i + 1] + sin(t) * orbitRadius;
