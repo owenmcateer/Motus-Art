@@ -21,5 +21,6 @@ https://genuary.art/
 - [Day 18: What does wind look like?](https://owenmcateer.github.io/Motus-Art/projects/genuary2025/day18.html)
 - [Day 19: Op Art](https://owenmcateer.github.io/Motus-Art/projects/genuary2025/day19.html)
 - [Day 20: Generative Architecture](https://owenmcateer.github.io/Motus-Art/projects/genuary2025/day20.html)
-
+- [Day 21: Create a collision detection system (no libraries allowed)](https://owenmcateer.github.io/Motus-Art/projects/genuary2025/day21.html)
 - [Day 22: Gradients only](https://owenmcateer.github.io/Motus-Art/projects/genuary2025/day22.html)
+- [Day 23: Inspired by brutalism](https://owenmcateer.github.io/Motus-Art/projects/genuary2025/day23.html)
