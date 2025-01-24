@@ -24,3 +24,4 @@ https://genuary.art/
 - [Day 21: Create a collision detection system (no libraries allowed)](https://owenmcateer.github.io/Motus-Art/projects/genuary2025/day21.html)
 - [Day 22: Gradients only](https://owenmcateer.github.io/Motus-Art/projects/genuary2025/day22.html)
 - [Day 23: Inspired by brutalism](https://owenmcateer.github.io/Motus-Art/projects/genuary2025/day23.html)
+- [Day 24: Geometric art - pick either a circle, rectangle, or triangle and use only that geometric shape](https://owenmcateer.github.io/Motus-Art/projects/genuary2025/day24.html)
