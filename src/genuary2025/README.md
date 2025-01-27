@@ -25,3 +25,4 @@ https://genuary.art/
 - [Day 22: Gradients only](https://owenmcateer.github.io/Motus-Art/projects/genuary2025/day22.html)
 - [Day 23: Inspired by brutalism](https://owenmcateer.github.io/Motus-Art/projects/genuary2025/day23.html)
 - [Day 24: Geometric art - pick either a circle, rectangle, or triangle and use only that geometric shape](https://owenmcateer.github.io/Motus-Art/projects/genuary2025/day24.html)
+- [Day 25: One line that may or may not intersect itself](https://owenmcateer.github.io/Motus-Art/projects/genuary2025/day25.html)
