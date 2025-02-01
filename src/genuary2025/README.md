@@ -26,3 +26,4 @@ https://genuary.art/
 - [Day 23: Inspired by brutalism](https://owenmcateer.github.io/Motus-Art/projects/genuary2025/day23.html)
 - [Day 24: Geometric art - pick either a circle, rectangle, or triangle and use only that geometric shape](https://owenmcateer.github.io/Motus-Art/projects/genuary2025/day24.html)
 - [Day 25: One line that may or may not intersect itself](https://owenmcateer.github.io/Motus-Art/projects/genuary2025/day25.html)
+- [Day 30: Abstract map](https://www.shadertoy.com/view/4XyfzV)
