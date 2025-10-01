@@ -1,3 +1,34 @@
+# Genuary 2025
+https://genuary.art/
+
+- [Day 1: Vertical or horizontal lines only](https://owenmcateer.github.io/Motus-Art/projects/genuary2025/day01.html)
+- [Day 2: Layers upon layers upon layers](https://owenmcateer.github.io/Motus-Art/projects/genuary2025/day02.html)
+- [Day 3: Exactly 42 lines of code](https://owenmcateer.github.io/Motus-Art/projects/genuary2025/day03.html)
+- [Day 4: Black on black](https://owenmcateer.github.io/Motus-Art/projects/genuary2025/day04.html) / [Take 2 in Blender](https://x.com/motus_art/status/1875557029231915154)
+- [Day 5: Isometric Art (No vanishing points)](https://owenmcateer.github.io/Motus-Art/projects/genuary2025/day05.html)
+- [Day 6: Make a landscape using only primitive shapes](https://owenmcateer.github.io/Motus-Art/projects/genuary2025/day06.html)
+- [Day 7: Use software that is not intended to create art or images](https://owenmcateer.github.io/Motus-Art/projects/genuary2025/day07.html)
+- [Day 8: Draw one million of something](https://owenmcateer.github.io/Motus-Art/projects/genuary2025/day08.html)
+- [Day 9: The textile design patterns of public transport seating](https://owenmcateer.github.io/Motus-Art/projects/genuary2025/day09.html)
+- [Day 10: You can only use TAU in your code, no other number allowed](https://owenmcateer.github.io/Motus-Art/projects/genuary2025/day10.html)
+- [Day 11: Impossible day - Try to do something that feels impossible for you to do. Maybe it is impossible](https://www.instagram.com/p/DEssqzjvBEG/)
+- [Day 12: Subdivision](https://owenmcateer.github.io/Motus-Art/projects/genuary2025/day12.html)
+- [Day 13: Triangles and nothing else](https://owenmcateer.github.io/Motus-Art/projects/genuary2025/day13.html)
+- [Day 14: Pure black and white. No gray](https://owenmcateer.github.io/Motus-Art/projects/genuary2025/day14.html)
+- [Day 15: Design a rug](https://owenmcateer.github.io/Motus-Art/projects/genuary2025/day15.html)
+- [Day 16: Generative palette](https://owenmcateer.github.io/Motus-Art/projects/genuary2025/day16.html)
+- [Day 17: What happens if pi=4?](https://owenmcateer.github.io/Motus-Art/projects/genuary2025/day17.html)
+- [Day 18: What does wind look like?](https://owenmcateer.github.io/Motus-Art/projects/genuary2025/day18.html)
+- [Day 19: Op Art](https://owenmcateer.github.io/Motus-Art/projects/genuary2025/day19.html)
+- [Day 20: Generative Architecture](https://owenmcateer.github.io/Motus-Art/projects/genuary2025/day20.html)
+- [Day 21: Create a collision detection system (no libraries allowed)](https://owenmcateer.github.io/Motus-Art/projects/genuary2025/day21.html)
+- [Day 22: Gradients only](https://owenmcateer.github.io/Motus-Art/projects/genuary2025/day22.html)
+- [Day 23: Inspired by brutalism](https://owenmcateer.github.io/Motus-Art/projects/genuary2025/day23.html)
+- [Day 24: Geometric art - pick either a circle, rectangle, or triangle and use only that geometric shape](https://owenmcateer.github.io/Motus-Art/projects/genuary2025/day24.html)
+- [Day 25: One line that may or may not intersect itself](https://owenmcateer.github.io/Motus-Art/projects/genuary2025/day25.html)
+- [Day 30: Abstract map](https://www.shadertoy.com/view/4XyfzV)
+
+
 # Genuary 2023
 https://genuary.art/
 
@@ -19,22 +50,6 @@ https://genuary.art/
 - [Day 18: Definitely not a grid](https://owenmcateer.github.io/Motus-Art/projects/genuary2023/day18.html)
 - [Day 20: Art Deco](https://owenmcateer.github.io/Motus-Art/projects/genuary2023/day20.html)
 - [Day 21: Persian Rug](https://owenmcateer.github.io/Motus-Art/projects/genuary2023/day21.html)
-
-<!--
-- [Day 15: Sine waves]()
-- [Day 17: A grid inside a grid inside a grid]()
-- [Day 19: Black and white]()
-- [Day 22: Shadows]()
-- [Day 23: More Moiré]()
-- [Day 24: Textile]()
-- [Day 25: Yayoi Kusama]()
-- [Day 26: My kid could have made that]()
-- [Day 27: In the style of Hilma Af Klint]()
-- [Day 28: Generative poetry]()
-- [Day 29: Maximalism]()
-- [Day 30: Minimalism]()
-- [Day 31: Deliberately break one of your previous images]()
--->
 
 
 ## Genuary 2022
