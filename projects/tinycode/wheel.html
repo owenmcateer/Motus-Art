@@ -18,6 +18,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.11.1/p5.js"></script>
 
     <script src="../../src/tinycode/wheel.js"></script>
+    <pre>f=0;draw=_=>{createCanvas(192,157,WEBGL);background(0);rotateY(PI/4+f/-2);for(i=30;i--;){push();h=(cos((f+i/30)*PI*2)+1)*15;rotate(PI*2/30*i);translate(25,h);for(j=4;j--;){translate(9,0);box(2,6,(j%2*35)-h)}pop()}f+=.01}</pre>
 
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-KP80PZ1VRB"></script>
     <script>
