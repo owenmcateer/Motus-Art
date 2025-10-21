@@ -1,0 +1,2 @@
+// #tinycode #p5js @CCodeMadrid
+f=0;s=16;c=.5;draw=_=>{(f||createCanvas(192,157));background(0);stroke(f);strokeWeight(2);fill(0);for(i=0;i<s*s;i++){x=i%s;y=floor(i/s);r=(sin(x*c+y*c+f/50)+1)*(PI/2);push();translate(x*s,y*s);rotate(r);ellipse(0,0,s*2,s);pop()}f++}

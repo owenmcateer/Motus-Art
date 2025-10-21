@@ -1,0 +1,2 @@
+// @CCodeMadrid #tinycode
+f=0;draw=_=>{createCanvas(w=192,157);background(0);stroke(255);strokeWeight(5);n=sin(f)+1*3/2+2;for(j=0;j<n;j++){o=(PI*2/n)*j;for(i=w;i--;){a=i*PI*2/w-1;amp=constrain(sin(f-a)*16,2,16);r=55+cos(a*5+o+f)*amp;point((cos(a)*r)+w/2,(sin(a)*r)+79)}}f+=.01}

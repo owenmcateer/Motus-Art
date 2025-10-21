@@ -1,0 +1,2 @@
+// @CCodeMadrid #tinycode
+f=255;draw=_=>{createCanvas(w=192,157);rectMode(CENTER);s=w/6;d=f%2>1;q=PI/4;r=f*q*2*(d?1:-1)+(d?-q:q);fill(d*f);background(f-f*d);o=d*s/-2;for(i=64;i--;){push();translate(i%8*s+o,floor(i/8)*s+o);rotate(r);rect(0,0,22.6);pop()}f+=.005}

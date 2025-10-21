@@ -1,0 +1,2 @@
+// #tinycode @CCodeMadrid
+f=l=0;s=40;n=.7;draw=_=>{createCanvas(w=192,157,WEBGL);rotateX(-1.9);translate(-w*2,-80-f%s);for(y=s/2;y--;){beginShape(5);for(x=s/2;x--;){vertex(x*s,y*s,noise(x*n,(y+l)*n)*s*2);vertex(x*s,(y+1)*s,noise(x*n,(y+1+l)*n)*s*2);}endShape()}f+=4;if(f%s==0)l++}

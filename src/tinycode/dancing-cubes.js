@@ -1,0 +1,2 @@
+// #tinycode @CCodeMadrid
+f=99;draw=_=>{(f==99&&createCanvas(192,157,WEBGL));colorMode(HSB);background(0);noFill();strokeWeight(3);rotateY(f*PI);for(i=8;i--;){stroke((-i/8+f*9)%1*360,f,f);m=-.5*(-cos(PI*f/1));rotateX(sin(m*4*PI)/PI*3);rotateZ(sin(m*2*PI)/PI*3);box(i*9+40);}f+=.002}

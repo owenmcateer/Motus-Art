@@ -1,0 +1,2 @@
+// #tinycode @CCodeMadrid
+f=0;draw=_=>{createCanvas(192,157,WEBGL);background(0);noFill();rotateX(PI/4);for(x=99;x--;){v=x/99*5;y=exp(-v)*cos(PI*2*(v+f))*13;push();translate(0,0,y);r=x*7;stroke(lerpColor(color(209,49,222),color(49,222,209),x/99));ellipse(0,0,r);pop();}f+=.01}
