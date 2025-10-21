@@ -18,3 +18,15 @@ body {
   width: 100vw!important;
   height: 100vw!important;
 }
+
+code {
+  background: black;
+  color: #ccc;
+  text-align: left;
+  min-width: 80%;
+  max-width: 600px;
+  display: block;
+  margin: 1em auto;
+  padding: 1em;
+  word-wrap: break-word;
+}
