@@ -9,4 +9,4 @@
 - [Ripple effect](https://owenmcateer.github.io/Motus-Art/projects/tinycode/ripple-effect.html)
 - [Wavylines](https://owenmcateer.github.io/Motus-Art/projects/tinycode/wavylines.html)
 - [Wheel](https://owenmcateer.github.io/Motus-Art/projects/tinycode/wheel.html)
-- [Wireframe](https://owenmcateer.github.io/Motus-Art/projects/tinycodewireframe/wireframe.html)
+- [Wireframe](https://owenmcateer.github.io/Motus-Art/projects/tinycode/wireframe.html)
