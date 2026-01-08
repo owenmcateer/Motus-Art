@@ -6,6 +6,9 @@ https://x.com/motus_art
 
 ## Latest work
 
+[**Genuary 2026**][genuary2026]  
+[![Genuary 2026](./assets/img/preview/genuary2026.png)][genuary2026]
+
 [**Sinking ellipses**][week182] [*(code)*][week182code]  
 [![Sinking ellipses](./assets/img/preview/week_182.png)][week182]
 
@@ -584,3 +587,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [genuary2025code]: https://github.com/owenmcateer/Motus-Art/tree/master/src/genuary2025/
 [week182]: https://owenmcateer.github.io/Motus-Art/projects/week_182.html
 [week182code]: https://github.com/owenmcateer/Motus-Art/tree/master/src/week_182/main.js
+[genuary2026]: https://github.com/owenmcateer/Motus-Art/blob/master/GENUARY.md#genuary-2026
