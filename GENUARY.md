@@ -1,3 +1,15 @@
+# Genuary 2026
+https://genuary.art/
+
+- [Day  1: One color, one shape.](https://x.com/motus_art/status/2006852561106776353)
+- [Day  2: Twelve principles of animation.](https://x.com/motus_art/status/2007134141897211937)
+- [Day  3: Fibonacci forever. Create a work that uses the Fibonacci sequence in some way.](https://x.com/motus_art/status/2007467669700665627)
+- [Day  4: Lowres. An image or graphic with low resolution, where details are simplified or pixelated.](https://x.com/motus_art/status/2008152485886914923)
+- [Day  5: Write “Genuary”. Avoid using a font.](https://x.com/motus_art/status/2008291399989403689)
+- [Day  6: Lights on/off. Make something that changes when you switch on or off the “digital” lights.](https://x.com/motus_art/status/2008642557576905146)
+- [Day  7: Boolean algebra. Get inspired by Boolean algebra, in any way.](https://x.com/motus_art/status/2009221870625890554)
+
+
 # Genuary 2025
 https://genuary.art/
 
