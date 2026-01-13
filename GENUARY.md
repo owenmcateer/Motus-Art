@@ -8,6 +8,9 @@ https://genuary.art/
 - [Day  5: Write “Genuary”. Avoid using a font.](https://x.com/motus_art/status/2008291399989403689)
 - [Day  6: Lights on/off. Make something that changes when you switch on or off the “digital” lights.](https://x.com/motus_art/status/2008642557576905146)
 - [Day  7: Boolean algebra. Get inspired by Boolean algebra, in any way.](https://x.com/motus_art/status/2009221870625890554)
+- [Day  8: Create a generative metropolis.](https://x.com/motus_art/status/2009354428810514480)
+- [Day  9: Crazy cellular automata.](https://x.com/motus_art/status/2010105035972129236)
+- [Day  10: Polar coordinates.](https://x.com/motus_art/status/2010737813948637469)
 
 
 # Genuary 2025
