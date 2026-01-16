@@ -11,6 +11,10 @@ https://genuary.art/
 - [Day  8: Create a generative metropolis.](https://x.com/motus_art/status/2009354428810514480)
 - [Day  9: Crazy cellular automata.](https://x.com/motus_art/status/2010105035972129236)
 - [Day  10: Polar coordinates.](https://x.com/motus_art/status/2010737813948637469)
+- [Day  11: Quine.](https://x.com/motus_art/status/2011179205724115109)
+- [Day  12: Boxes only.](https://x.com/motus_art/status/2011360231805030431)
+- [Day  13: Self portrait.](https://x.com/motus_art/status/2011571477485588974)
+- [Day  14: Everything fits perfectly.](https://x.com/motus_art/status/2011807123512983910)
 
 
 # Genuary 2025
