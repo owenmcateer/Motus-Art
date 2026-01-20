@@ -15,6 +15,8 @@ https://genuary.art/
 - [Day  12: Boxes only.](https://x.com/motus_art/status/2011360231805030431)
 - [Day  13: Self portrait.](https://x.com/motus_art/status/2011571477485588974)
 - [Day  14: Everything fits perfectly.](https://x.com/motus_art/status/2011807123512983910)
+- [Day  15: Create an invisible object where only the shadows can be seen.](https://x.com/motus_art/status/2012174015683592271)
+- [Day  16: Order and disorder.](https://x.com/motus_art/status/2013199664007254049)
 
 
 # Genuary 2025
