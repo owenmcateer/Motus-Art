@@ -10,13 +10,15 @@ https://genuary.art/
 - [Day  7: Boolean algebra. Get inspired by Boolean algebra, in any way.](https://x.com/motus_art/status/2009221870625890554)
 - [Day  8: Create a generative metropolis.](https://x.com/motus_art/status/2009354428810514480)
 - [Day  9: Crazy cellular automata.](https://x.com/motus_art/status/2010105035972129236)
-- [Day  10: Polar coordinates.](https://x.com/motus_art/status/2010737813948637469)
-- [Day  11: Quine.](https://x.com/motus_art/status/2011179205724115109)
-- [Day  12: Boxes only.](https://x.com/motus_art/status/2011360231805030431)
-- [Day  13: Self portrait.](https://x.com/motus_art/status/2011571477485588974)
-- [Day  14: Everything fits perfectly.](https://x.com/motus_art/status/2011807123512983910)
-- [Day  15: Create an invisible object where only the shadows can be seen.](https://x.com/motus_art/status/2012174015683592271)
-- [Day  16: Order and disorder.](https://x.com/motus_art/status/2013199664007254049)
+- [Day 10: Polar coordinates.](https://x.com/motus_art/status/2010737813948637469)
+- [Day 11: Quine.](https://x.com/motus_art/status/2011179205724115109)
+- [Day 12: Boxes only.](https://x.com/motus_art/status/2011360231805030431)
+- [Day 13: Self portrait.](https://x.com/motus_art/status/2011571477485588974)
+- [Day 14: Everything fits perfectly.](https://x.com/motus_art/status/2011807123512983910)
+- [Day 15: Create an invisible object where only the shadows can be seen.](https://x.com/motus_art/status/2012174015683592271)
+- [Day 16: Order and disorder.](https://x.com/motus_art/status/2013199664007254049)
+- [Day 17: Wallpaper group.](https://x.com/motus_art/status/2013620620366426120)
+- [Day 18: Genuary day 18: Draw a route that changes direction based on one very simple rule.](https://x.com/motus_art/status/2013961376700543110)
 
 
 # Genuary 2025
